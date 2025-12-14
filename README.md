@@ -3267,7 +3267,6 @@ note:
 
 ## Principle and Implementation: frequent problems with databases and administration of projects
 2024.07.04
-- 
 
 # measuring disconnection from reality
 - measuring institutional disconnection from reality
@@ -3306,7 +3305,7 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 ## measuring the equivalence of processes
 
 ## Laws Policies, and Voting-Elections about each-other: 
-	- a Matrix With Feedback
+- a Matrix With Feedback
 
 ## design guidelines and standards
 
@@ -3356,16 +3355,14 @@ vs.
 - positive user experience with databases (2024.07.10)
 
 ## Formal and informal political 'parties':
-	- do there need to be parties
-	- how should party systems be defined?
-	- parties in coalition vs. winner-takes-all systems
-	- proportional representation
+- do there need to be parties
+- how should party systems be defined?
+- parties in coalition vs. winner-takes-all systems
+- proportional representation
 
 ## Parties, history of representation
-- 
 
 ## Mandates, history of representation
-- 
 
 # Modeling the space of definitions for coordinated decision projects
 (2024.08.30)
@@ -3432,12 +3429,12 @@ temporal measures of legibility
 ## trade offs and contexts for optimization
 
 ## data ~handling policy:
-	- function-equation data 
+- function-equation data 
 vs.
-	- values
-	vs.
-	- instructions? (separate from functions?)
-	Types of 'state'? (as in values being odd in lambda-calc?)
+- values
+vs.
+- instructions? (separate from functions?)
+Types of 'state'? (as in values being odd in lambda-calc?)
 
 ## Votes from past generations who are no longer alive vs. sun-set clauses
 
@@ -3462,7 +3459,7 @@ vs.
 - Scope
 - Tasks
 - Needs & Goals Definitions (not process reification illusion or goal reification illusion)
-- 
+
 ## Metrics for Definition Behaviors & Collapse
 2024.12.10th
 - undefined spaces

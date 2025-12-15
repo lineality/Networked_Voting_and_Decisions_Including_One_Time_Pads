@@ -4211,12 +4211,9 @@ Are similar corrupt and fraudulent practices not used by 'fire and brimstone' so
 - Demand-distortion and the difference in practice between a meritocracy and a ~ Kakistocracy
 https://en.wikipedia.org/wiki/Kakistocracy
 - What are the details of process, decision, and outcome.
-...
 
 ## Categories of Decisions
 and specific task processes
-
-...
 
 # Decentralized Traffic and Cost Flow
 - delayed start

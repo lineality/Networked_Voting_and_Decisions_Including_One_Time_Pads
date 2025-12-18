@@ -4667,19 +4667,17 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 - https://twit.tv/shows/security-now/episodes/906 
 - alternate source episode 906: https://www.grc.com/securitynow.htm 
 
-
 ### Election Case Studies (section not complete)
 - eastern Europe and Russia
 -- post wwii
 -- post 1989
 
-
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
 
-- the research questionnaire: https://en.wikipedia.org/wiki/Jeremiah_Milles 
+- History: The research questionnaire: https://en.wikipedia.org/wiki/Jeremiah_Milles 
 
-- domain and tacit knowledge: https://www.economist.com/business/2024/03/07/how-can-firms-pass-on-tacit-knowledge 
+- Domain and tacit knowledge: ( e/g/ NASA,) Public, and Private Sector: https://www.economist.com/business/2024/03/07/how-can-firms-pass-on-tacit-knowledge 
 
 - PR vs FPTP in the UK: https://www.economist.com/leaders/2024/07/11/britains-skewed-election-reinforces-the-case-for-voting-reform-after-2029 
 

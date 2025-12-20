@@ -4387,7 +4387,6 @@ Question: Are there, in principle, systems that select qualified voters yet whic
 ## anticipating hardware attacks
 - not all security problems target problems with software
 
-
 ## Signal Questions and Disinformation in Coordination
 
 ## anticipating social-engineering attacks

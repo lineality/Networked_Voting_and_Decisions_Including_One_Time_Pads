@@ -27,6 +27,7 @@
 - Tools for prioritizing
 - Tools for evaluating quality vs. junk
 
+
 ## Questions For Clarification
 To clarify goals and questions, below are two lists of questions. Below is a list of questions that we ARE attempting to answer with this project, and below is another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help with focus, so that questions we are NOT asking do not become confused with questions that we ARE asking.
 
@@ -4174,7 +4175,7 @@ Does "AI" = 'Better Search"?
 
 In retrospect the 2023 'ai revolution' may be seen and described as a 'search done better and possible locally' breakthrough, which largely came out of google (search giant) technology (transformers) and operates like the google search page, except the search button now says 'chat.' 
 
-Calling search 'chat' may be an example of introduction a needless and meaningless layer of abstraction that causes personal and social confusion.
+Calling search 'chat' may be an example of introducing a needless and meaningless layer of abstraction that causes personal and social confusion.
 
 It is possible that is 'chatGPT' were called 'searchGPT' and called 'search' not 'AI', and 'gen-ai' being 'generative-search' not 'gen-ai' that the same technology and adoption may be processed without all of the misplaced 'super ai taking over the world'.
 
@@ -4341,7 +4342,6 @@ https://www.r-bloggers.com/2018/11/new-course-analyzing-election-and-polling-dat
 - sufficient identification and verification information
 - practical use for size and processing
 
-
 # Formalized General Processes:
 - Is 'voting' parts of another more generalized set of processes?
 
@@ -4410,7 +4410,6 @@ Verification, stem-information, and disinformation
 ### scaling needs for larger elections
 scale factors and elections:
 
-
 ### Specific AI-ML issues for voting and coordinated decision making:
 - NLP
 - disinformation?
@@ -4419,7 +4418,6 @@ scale factors and elections:
 - is there such a thing as a simple micro-election that can be quick and secure?
 
 #### Trade-off in UI user interface design: secure but use-able
-
 
 ### Agile, Security, & Voting: General best practice vs. specific voting system best practice
 
@@ -4441,16 +4439,13 @@ Perhaps as a form of least-trust architecture, which brings with it perhaps the 
 - gerrymandering
 - observing election polling
 
-
 ## History and comparative history
 - looking at how various times and places viewed and used representation and participation, especially qualifications for participation (families, age, geography, tests, inherited status, etc.)
 
 ## Coordination as Formal Systems
 - ~'game theory' and decisions
 
-
 # Definitions in Projects and STEM (version 2025 05 30)
-
 
 # Contents / Areas:
 1. Categories of Types of Systems and Linearity:
@@ -4519,7 +4514,6 @@ This is a crucial area in many projects but it has perhaps the worse lexicon and
 'Semi-structured' language is confusingly used to refer to either dictionaries (as opposed to tables with rows and columns, even if the data-defined is identical) or to hybrid data such as json-dictionary that contains unstructured natural language.
 
 You will need to clearly describe your project manually, not being able to use a lexicon that does not exist.
-
 
 
 Note:

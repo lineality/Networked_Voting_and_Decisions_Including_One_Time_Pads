@@ -1444,8 +1444,10 @@ Stop these assumptions:
 - survival of mind issues
 
 # Survival of Mind
-- 'panic mode' mid-sprint in agile
-- overly blocking any management of a basic project area
+- constructing a kind of game-theory space of perception-dynamics, definition-dynamics, and dislocation from reality dynamics.
+- predictable most-common patterns: e.g. 'panic mode' mid-sprint in agile
+- predictable most-common bad strategies: overly blocking any management of a basic project area
+- the psychology of illusions, the dynamics of getting disconnected from reality.
 
 # Panic as a definable project space disfunction
 
@@ -4194,7 +4196,6 @@ A few issues are key here in the search context:
 
 ### Infrastructure Cost & Institutions:
 - 
-...
 
 STEM Health-check analysis:
 

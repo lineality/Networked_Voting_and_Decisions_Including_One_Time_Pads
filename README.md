@@ -4160,15 +4160,11 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 # Database security standards
 (no standard "sql" versions)
 
-...
-
 # Search In General
 - np completeness
 - fuzzy search
 
-...
-
-2025.03.09
+[2025.03.09]
 # Search, Structuring, & State: The unsolved problem of search:
 
 Clear Description Matter

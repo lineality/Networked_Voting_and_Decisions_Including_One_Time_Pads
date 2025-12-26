@@ -3385,7 +3385,7 @@ from decentered /decentralized elections and networks to centralized political p
 ## Coordination and Fitness
 - meritocratic participation
 - "tradition" "religion" fitness and participation
-- is 'pagent-show' theocracy a form of populism?
+- is 'pageant-show' theocracy a form of populism?
 - is 'testosterone-show' a form of populism?
 
 # STEM Perception and Psychology of Metrics

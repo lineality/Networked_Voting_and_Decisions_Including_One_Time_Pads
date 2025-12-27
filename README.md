@@ -3612,6 +3612,14 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 4. learning
 5. planning/strategizing/mapping-modeling/
 
+## Learning, Skills, and Decisions for Project-State Operations
+#### types of learning:
+- outcome based and reinforcement learning vs. pure-regurgitation-learning
+- point-perspective-oriented//point-of-view-oriented learning
+- alignment, non-automatic-skills, and project-state
+
+- 
+
 ## Learning, Habit, and Contagion
 - how patterns in process move across systems
 - learned behaviors

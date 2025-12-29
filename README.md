@@ -4289,7 +4289,7 @@ note: looking for references to this in Hobbe's discussion of perception and und
 
 ## Election Types, Calculation of Results, next steps based on results
 
-## Quantum Computing, Blockains, Smart Contracts, and Voting Systems: Security Planning
+## Quantum Computing, Blockchains, Smart Contracts, and Voting Systems: Security Planning
 - Are aspects of smart contracts useful for issues such as a runoff where potentially two or more groups of participants are in conflict/competition?
 
 ## Voting systems in general:
@@ -4297,7 +4297,7 @@ note: looking for references to this in Hobbe's discussion of perception and und
 2. voting in governmental elections vs. voting in any multi-person project
 3. voting and definitions
 
-#  languages, character-types(language character sets, UTF8 etc), and voting systems
+# languages, character-types(language character sets, UTF8 etc), and voting systems
 
 ### Protocols, resources, and tradeoffs:
 - advantages and disadvantages of different frameworks
@@ -4307,7 +4307,6 @@ note: looking for references to this in Hobbe's discussion of perception and und
 - factors in polling accuracy
 - statistics of polling
 - analysis of why post-internet polling has been so wrong
-
 
 ## Possible roles of language detection, e.g. election monitoring interference tools
 - Can 'junk food language' be detected?

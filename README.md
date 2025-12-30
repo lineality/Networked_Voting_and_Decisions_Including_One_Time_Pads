@@ -3929,9 +3929,9 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 
 ## Coordination and Leviathan Questions
 
-## setup-time
+## Setup-time
 
-## cross platform
+## Cross Platform
 
 ## Rules for auditing instruction sets
 - feedback loops
@@ -4004,7 +4004,6 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 - "panic" abandonment (mid-sprint)
 - refusal to look
 - un-sort-able design
-- 
 
 ## Non-Homogenous Environments / Heterogeneous Environments:
 - "THe glass universe" America vs. Rober J Jordon's "Rise and fall of American Growth" America
@@ -4019,7 +4018,6 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 - closed
 
 ## System Explainability & System Reliability Standardization
-...
 
 ## What needs to be in a decision-coordination database?
 (2023.09.30)

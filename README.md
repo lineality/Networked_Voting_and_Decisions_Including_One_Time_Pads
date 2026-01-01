@@ -1,7 +1,6 @@
 ##### Networked_Voting_and_Decisions_Including_One_Time_Pads
 - https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads/
 
-
 # Decision Coordination: General and Specific
 ## Voting, Decision, & Consensus Systems in Networks and in General
 #### Project-Context Decision-Making Involving Participants and Components:
@@ -992,6 +991,10 @@ What OS, what network architecture, and what cyber security strategies should/co
 - ~civics
 - STEM literacy
 - general non-automatic-learning areas
+- instruction
+- surveying and analysis
+- certification
+
 
 # Perception-Abstraction and disruptive effects of some processes of observation
 - 

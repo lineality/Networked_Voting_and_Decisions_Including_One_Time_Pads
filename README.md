@@ -26,7 +26,6 @@
 - Tools for prioritizing
 - Tools for evaluating quality vs. junk
 
-
 ## Questions For Clarification
 To clarify goals and questions, below are two lists of questions. Below is a list of questions that we ARE attempting to answer with this project, and below is another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help with focus, so that questions we are NOT asking do not become confused with questions that we ARE asking.
 
@@ -4085,8 +4084,8 @@ etc.
 (2024 11 29)
 ## Standards for production data handling
 - modular
-- incrimental processing
-- incrimental search/query
+- incremental processing
+- incremental search/query
 - EDA accessibility (exploratory data analysis)
 - non-hidden
 - 'vanilla' is better than 3rd party

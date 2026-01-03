@@ -4012,7 +4012,6 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 
 ## Standards for error, exception, and assert handling for production systems.
 
-
 ## Rules for how elections get:
 - called
 - initiated
@@ -4108,7 +4107,6 @@ etc.
 - tragedy of the commons
 - transparency vs. secret squirrel
 
-
 ## errors and parameters in coordinated decisions as formal project schedule systems
 
 # Bootstrapping: conditions, issues, challenges, obstacles, requirements, to start processes the first time.
@@ -4116,7 +4114,6 @@ etc.
 - pipeline bootstrapping
 - event (election) bootstrapping
 - connection bootstrapping
-
 
 ## Populism, Extremism, Perception, Learning, STEM-Measurement, Agile-Communication, Project-State:
 - What can we know about what is happening and about what is going wrong?

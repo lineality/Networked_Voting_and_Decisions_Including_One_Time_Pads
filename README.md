@@ -4518,8 +4518,7 @@ This is a crucial area in many projects but it has perhaps the worse lexicon and
 
 You will need to clearly describe your project manually, not being able to use a lexicon that does not exist.
 
-
-Note:
+#### Note:
 Undefined terms (one might say 'undefined behaviors') such as the term 'complexity' and 'complex' are often lethally toxic in project management. These terms defy definition and are weapons of system-collapse whether wielded by incompetence, malice, or perhaps more often 'indeterminate incompetence and malice' (which is not even recognized by most people as the real threat and actor that it is). If you encounter such a term, require that it is clearly defined or prohibit its use in planning. "I don't know what I want and I don't know what I'm doing and I don't know what I'm talking about." is not a project plan, outline, or proposal regardless of how much lipstick is used to rephrase it.
 
 
@@ -4751,7 +4750,7 @@ by Nelson P. Repenning, Donald C. Kieffer, et al.
 
 
 views on STEM and STEM & Values
-Topic: Is STEM (or is STEM viewed as being) shorterm-longterm agnostic? Views may be changing.
+Topic: Is STEM (or is STEM viewed as being) short-term / long-term agnostic? Views may be changing.
 from Economist ~ 2025 09 22
 "Science is when you want to survive for millenia, politics is when you are only looking at the next election."
 
@@ -4777,4 +4776,9 @@ https://www.economist.com/podcasts/2025/12/04/one-weird-trick-solving-americas-p
 participation, meritocracy, and skin in the game:
 https://www.economist.com/interactive/primers/liberalism/primer-1 
 
+# Soft-Targets and Bad-Actors
+https://www.economist.com/china/2025/12/30/people-of-dubious-character-are-more-likely-to-enter-public-service 
+- rules, fraud, and cheating
+- rules, incentives, and STEM
+- 
 

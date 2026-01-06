@@ -4626,7 +4626,6 @@ All ~countries/nations/republics including the USA can and should achieve sanity
 # Books on Project Management
 ( )
 
-
 ## Lectures and Papers on Political Philosophy and Political Traditions
 - The Modern Political Tradition: Hobbes to Habermas
 Lawrence Cahoone, Ph.D. Professor, College of the Holy Cross
@@ -4640,21 +4639,17 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 - https://www.youtube.com/@CGPGrey/search?query=elections 
 - https://www.youtube.com/@CGPGrey/search?query=voting 
 
-
 ### Case Study in 2025 Diaspora Elections
 - Ukraine in 2025 is facing pressure to hold elections while it is being invaded by a hostile neighboring country and while much of its population has fled to non-hostile neighboring countries. 
 - What would the requirements be for a sufficiently robust diaspora-flexible election to be held? 
-
 
 ### Case study in password handling:
 - https://twit.tv/shows/security-now/episodes/905 
 - https://twit.tv/shows/security-now/episodes/904 
 - alternate source episodes 904 or 905: https://www.grc.com/securitynow.htm 
 
-
 ### Counter-Example Books
 - Optical Illusions
-
 
 ### On Memory Safe Languages (note still actively evolving time-lag and shift to topic, google press release is old, action taken to adopt RUST is new). 
 - https://twit.tv/shows/security-now/episodes/906 
@@ -4674,7 +4669,6 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 - PR vs FPTP in the UK: https://www.economist.com/leaders/2024/07/11/britains-skewed-election-reinforces-the-case-for-voting-reform-after-2029 
 
-
 ## papers:
 - arXiv:2405.01546 [pdf, ps, other] It Will Never Work in Theory Greg Wilson, Jorge Aranda, Michael Hoye, Brittany Johnson Subjects: Software Engineering (cs.SE)
 "Acknowledgments
@@ -4687,11 +4681,8 @@ https://www.economist.com/united-states/2024/08/19/good-news-for-kamala-harris-o
 - https://en.wikipedia.org/wiki/VUCA 
 
 
-
-
 # Link to History Book Recommendations Repo:
 history_book_repository_on_political_philosophy
-
 
 
 # misc: 
@@ -4766,8 +4757,6 @@ The Uniqueness of IT Cost Risk https://papers.ssrn.com/sol3/papers.cfm?abstract_
 "ouija-board management: messages are being received even if none have actually been sent"
 https://www.economist.com/business/2025/10/02/how-bosses-unwittingly-exert-power 
 
-
-
 https://www.economist.com/finance-and-economics/2025/11/27/one-weird-trick-to-solve-the-affordability-crisis
 
 https://www.economist.com/podcasts/2025/12/04/one-weird-trick-solving-americas-price-problem 
@@ -4780,5 +4769,4 @@ https://www.economist.com/interactive/primers/liberalism/primer-1
 https://www.economist.com/china/2025/12/30/people-of-dubious-character-are-more-likely-to-enter-public-service 
 - rules, fraud, and cheating
 - rules, incentives, and STEM
-- 
 

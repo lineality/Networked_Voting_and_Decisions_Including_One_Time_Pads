@@ -4339,6 +4339,8 @@ https://www.r-bloggers.com/2018/11/new-course-analyzing-election-and-polling-dat
 - https://stackoverflow.com/questions/63092441/fast-way-to-visualize-huge-tables-with-dash-and-plotly-python 
 
 # Who: Age Voting Tests and Voter Qualification
+- standard options
+- adulthood and coming of age
 
 #### How should we think about what a ballot is, what it contains, and what it does?
 - where it comes from

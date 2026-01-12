@@ -1479,8 +1479,6 @@ And both may involve the bazaar cargo-cult of undefined 'rational behavior' whic
 - 2. Daily Project State Alignment: "Standup"
 - 3. Structured-Standup(agile):
 	- option of owned tasks/task-data-structures
-	- 
-
 
 # The General Problem Space of Project Decisions:
 - Decision making skills especially in a context of projects are a critical part of education and fall naturally into general-STEM education.

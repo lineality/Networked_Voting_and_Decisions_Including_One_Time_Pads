@@ -1351,6 +1351,7 @@ The idea that you should not use process because you lack perfect eternal knowle
 # alignment with reality: General alignment with reality
 - As known, participants will fantasize about fictional reifications.
 ## common perception problems and pitfalls
+- causality perception
 -  the 'sweet tooth' or 'channel surfing' problem, or 'eternal quest' problems
 - people ignore details and endlessly search for a 'feels perfect' solution on entirely entertainment-stimulation criteria. 
 - rebellion

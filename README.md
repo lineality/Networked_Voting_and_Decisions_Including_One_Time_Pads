@@ -3625,6 +3625,11 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 - habitual behaviors
 - spread or contagion of behaviors
 
+## stable disturbance regimes and extra-regime disturbance
+- contagion
+- membranes
+- geography or n-dimensional spaces of connectivity
+
 ## standard issues / most-common problems
 - returning to square one
 - mis-alignment

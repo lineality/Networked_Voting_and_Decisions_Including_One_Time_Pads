@@ -4678,7 +4678,7 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 - PR vs FPTP in the UK: https://www.economist.com/leaders/2024/07/11/britains-skewed-election-reinforces-the-case-for-voting-reform-after-2029 
 
-## papers:
+# papers:
 - arXiv:2405.01546 [pdf, ps, other] It Will Never Work in Theory Greg Wilson, Jorge Aranda, Michael Hoye, Brittany Johnson Subjects: Software Engineering (cs.SE)
 "Acknowledgments
 We would like to thank the universities, companies, and granting agencies that
@@ -4769,7 +4769,6 @@ https://www.economist.com/business/2025/10/02/how-bosses-unwittingly-exert-power
 https://www.economist.com/finance-and-economics/2025/11/27/one-weird-trick-to-solve-the-affordability-crisis
 
 https://www.economist.com/podcasts/2025/12/04/one-weird-trick-solving-americas-price-problem 
-
 
 participation, meritocracy, and skin in the game:
 https://www.economist.com/interactive/primers/liberalism/primer-1 

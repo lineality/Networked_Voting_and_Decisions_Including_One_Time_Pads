@@ -4218,7 +4218,6 @@ https://a.co/geuRhCb
 To what extent is it possible using symbolic or subsymbolic modeling to detect the presence and prevalence of 'terror' as used by Shirer? 
 Are similar corrupt and fraudulent practices not used by 'fire and brimstone' so-called-self-identified-"religious" groups, by 'doom-and-gloom' so-called-self-identified-'environmental' groups, by learned-helplessness inducing so-called-self-identified-'education' institutions and "professionals"?  
 
-
 # Elusive Project/Election Goals: meritocracy vs. kleptocracy
 - Demand-distortion and the difference in practice between a meritocracy and a ~ Kakistocracy
 https://en.wikipedia.org/wiki/Kakistocracy

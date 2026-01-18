@@ -2861,9 +2861,9 @@ context vs. cutup:
 
 ## Statistics & Analysis Standards for Coordinated Decisions
 The buck stops here; what exactly do we mean by 'statistics'?
-- catagories and edges of statistics
+- categories and edges of statistics
 - statistics math, STEM, computer science
-- datastructures and statistics
+- data structures and statistics
 - key statistics and data science for running tools, not for predicting outcomes.
 
 ## training and effective education
@@ -4339,6 +4339,20 @@ https://www.r-bloggers.com/2018/11/new-course-analyzing-election-and-polling-dat
 ## Data Visualization & Elections
 - https://plotly.com/python/v3/ipython-notebooks/ukelectionbbg/ 
 - https://stackoverflow.com/questions/63092441/fast-way-to-visualize-huge-tables-with-dash-and-plotly-python 
+
+# Decision Architectures
+- elections, thresholds, quorums (participation requirements)
+- legislatures
+- judiciaries and rules adjudication
+- professional associations
+- executive branches
+
+## Case study: 2026 Invasion of Denmark by USA
+- Across levels from local to inter-state/inter-national?
+- Who/what does make what decision officially (according to decision architecture)?
+- Who/what does make what decision officially defacto?
+- Who/what should make what decision officially (according to decision architecture)?
+
 
 # Who: Age Voting Tests and Voter Qualification
 - standard options

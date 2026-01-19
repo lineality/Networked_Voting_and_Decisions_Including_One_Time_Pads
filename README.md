@@ -4346,13 +4346,15 @@ https://www.r-bloggers.com/2018/11/new-course-analyzing-election-and-polling-dat
 - judiciaries and rules adjudication
 - professional associations
 - executive branches
+- Rogue actors, administrations
+- Anatomy, Taxonomy, Epidemiology of System Collapse
 
 ## Case study: 2026 Invasion of Denmark by USA
 - Across levels from local to inter-state/inter-national?
 - Who/what does make what decision officially (according to decision architecture)?
 - Who/what does make what decision officially defacto?
 - Who/what should make what decision officially (according to decision architecture)?
-
+- Rogue-Forcing: Are policies or actions (not the same) being forced against due process and best practice (and rules generally) that only a rogue bad-actor party supports and that are not supported by other institutions? (E.g. A vanishingly small number of people and organizations support, or have any concept, of invading NATO Denmark). 
 
 # Who: Age Voting Tests and Voter Qualification
 - standard options

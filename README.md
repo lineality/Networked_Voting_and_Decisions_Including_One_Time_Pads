@@ -4717,7 +4717,6 @@ from https://www.economist.com/britain/2025/01/22/what-an-arcane-piece-of-aviati
 IT Agile
 https://www.economist.com/podcasts/2025/05/15/why-it-projects-so-often-go-wrong 
 
-
 """ https://www.economist.com/letters/2025/06/19/reforming-the-nhs 
 How not to lose your head
 Bartleby’s (May 31st) three principles when managers face a crisis of plan, decentralise and prioritise were firmly embedded a quarter of a century ago in the work of Karl Weick and Kathleen Sutcliffe, which emerged from their empirical research on a multitude of organisations, including defence forces, hospitals and first responders.
@@ -4763,8 +4762,7 @@ https://www.amazon.com/Theres-Got-Be-Better-Way/dp/B0FJHS1BNT/
 There’s Got to Be a Better Way: How to Deliver Results and Get Rid of the Stuff That Gets in the Way of Real Work
 by Nelson P. Repenning, Donald C. Kieffer, et al.
 
-
-views on STEM and STEM & Values
+# views on STEM and STEM & Values
 Topic: Is STEM (or is STEM viewed as being) short-term / long-term agnostic? Views may be changing.
 from Economist ~ 2025 09 22
 "Science is when you want to survive for millenia, politics is when you are only looking at the next election."
@@ -4793,3 +4791,33 @@ https://www.economist.com/china/2025/12/30/people-of-dubious-character-are-more-
 - rules, fraud, and cheating
 - rules, incentives, and STEM
 
+## Terminology and Signals
+2026.01.19
+The terminology around 'regulation' is fraught. One of many areas of problems is that reified declared 'regulation' (which could likewise have been declared, as can any arbitrary declaration, to be 'banana') is mixed in with concrete STEM mechanisms of regulation (in a context where so-called 'libertarians' are 'anti-regulation' which is as STEM-nonsensical as being anti-velocity).
+By analogy think of the classic example of a thermostat or temperature 'regulation'/monitor system in a building or structure. The factors, and feedback loops, that concretely affect (and effect) the current temperature in a current location of a building are what they are. A person can stand upon a box and pronounce themselves with great drama to be the 'regulator' of that building's climate, but this has no direct connection with the STEM reality of climate in the building in any way shape or form. Including this: However imbecilic that person is, no reputational damage to the term 'regulator' can in any way affect (or effect) the STEM mechanics that functionally do regulate the temperatures in the building.
+A justified and evidence-based indignation and movement of "Anti-fradulant fantasy divorced from reality calling itself (declarative) 'regulation'" has tragically (and, ironically, no less idiotically) become translated into an attack on STEM mechanics and STEM technologies, on even both physical description and mechanical prescriptions of 'regulations' of processes. Anything connected with 'regulation' in any way is arbitrarily attacked and lumped together with the most pathological word salad. This is a profoundly sorry state of mind for a species that postures itself as learned and competent.
+We smugly and without the insights and empathy or compassion look with myopic spite on past generations that awarded themselves divine titles synonymous with the mechanics of planets, tides, fires, floods, and other features of the natural STEM world. Yet we are quite literally doing the same or worse by conferring fantasy belief into the job title of a person that is confused with a nuanced STEM interdiscipline: regulator/regulation. 
+ 
+https://www.economist.com/by-invitation/2026/01/15/javier-milei-rein-in-regulators-not-big-companies
+Javier Milei & Federico Sturzenegger
+"""
+Large and dominant firms emerge from superior technology and economies of scale. It should be unquestionable that exploiting these increasing returns to scale is socially beneficial: if we can produce more cheaply, we should want to do so. But economic theory has led policymakers astray. Neoclassical theory labels concentrated market structures as market failures that need to be disciplined, even broken apart. We, conversely, view them as a natural outcome of technology and crucial to growth. If market-leading companies are forced to downscale, not only will costs increase but the incentives to innovate will be dulled, harming growth.
+
+Under this light, consider the two broad traditions in antitrust practice: the American approach, which focuses on exclusionary practices that restrict competition, and the European Union’s approach, which targets “exploitative abuse” (ie, excessive pricing by dominant firms). We find the first useful but the second problematic, even if regulators can identify when prices are excessive (a big if).
+
+Here’s why. Suppose an airline is the only carrier on a new route and charges an exorbitant fare. It is, obviously, a dominant firm and is overcharging. But is there a competition problem here? Actually not, as long as anyone can enter the market to offer that route. If they can, by definition there can be no competition issue. On the contrary, the high prices and profits of this dominant firm are precisely the signal that needs to be given to attract competitors.
+
+History offers many examples: Nokia once dominated mobile phones, then BlackBerry, until Apple’s iPhone displaced them both. It would have been a terrible mistake to restrain the growth of these firms simply because they enjoyed high market shares at certain moments. The crucial question is not whether some firm currently has a large share, but whether entry is blocked—and, more often than not, it is the government itself that blocks entry with licences, quotas, exclusive rights or administrative barriers.
+
+Too much energy is put into chasing large firms operating in contestable markets, too little into tackling the many regulations that restrict competition. There is an uncomfortable paradox here: governments that create legal barriers to entry are a more important enemy to competition than firms that win temporary dominance by innovating (not to mention that these barriers also move resources to less efficient firms).
+
+This is why we believe deregulation is so important for growth. Take AI as an instructive example. In Argentina, we want to keep the industry deregulated. We want companies to know they can explore, produce, sell and profit from that technology unmolested. This may lead to large firms, but we believe that regulating the industry to stop dominant players from emerging is growth suicide.
+
+We trust deregulation and markets so much that we have designed a mechanism to impose some market discipline on regulators themselves. Regulators traditionally hold a monopoly on regulation, and quickly develop a tendency to abuse their authority: they pile on requirements, ask for documents unrelated to any alleged market failure and impose endless delays.
+
+How to subject the regulator to market discipline? One way is to allow regulated and unregulated segments to coexist in the same market. If the regulator solves a real problem, people will operate in the regulated portion, for example by using firms authorised by the regulator. If the regulator does not add value, we allow people to ignore it and use firms not supervised by the regulator. In this framework, responsibility for choosing which market to operate in rests with the consumer. The only rules needing to be applied are to ensure transparency—so that everyone knows which segment they’re operating in.
+
+We tried this approach in Argentina with several financial instruments. The result was a blossoming of the unregulated market and fee compression in the regulated market as competition forced the regulator to become more reasonable and less bureaucratic. European capital markets provide analogous examples, such as the coexistence of regulated offerings and “unregulated” boards on the Vienna Stock Exchange, the latter being popular with investors in smaller equity and bond issues because of lighter administrative requirements.
+"""
+
+There is a tautological need for more understanding, study, experimentation, and development of signals, pathways, and mechanisms. The vocabulary needs to evolve; the thoughtless reactionary attacks need to stop bludgeoning the future into the grave.

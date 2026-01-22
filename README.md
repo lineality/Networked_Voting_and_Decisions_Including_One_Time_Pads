@@ -1267,6 +1267,9 @@ Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best
 - distributed task setting
 - distributed task cutups
 ### System Empathy, Project-State Empathy
+- empathy, communication, and modeling
+- non-coordinating scatter-imaging (not pejorative)
+- situational understanding
 ### Collaborative Project Measurable Skills & Fitness Areas
 - Starting and stopping running processes
 - separating data hygiene best practice from reifications, fads, and disinformation

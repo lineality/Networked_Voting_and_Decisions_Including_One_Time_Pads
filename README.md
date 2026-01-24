@@ -2037,7 +2037,6 @@ derivation and integration of process modules
 2. von Neumann's bifurcation of roles in self-replicating processes
 
 # Participant and Rules based process for maintaining and publishing about voting system and election
--  
 
 ## universal requirements?
 1. Externalize, Show work: show all your steps.
@@ -2096,8 +2095,7 @@ derivation and integration of process modules
 
 ### note blindly following excitation and stimulation
 
-### not mis-interpreting signals:
--
+### not mis-interpreting signals
 
 ### impulsiveness:
 - naive attraction
@@ -4824,3 +4822,8 @@ We tried this approach in Argentina with several financial instruments. The resu
 """
 
 There is a tautological need for more understanding, study, experimentation, and development of signals, pathways, and mechanisms. The vocabulary needs to evolve; the thoughtless reactionary attacks need to stop bludgeoning the future into the grave.
+
+...
+
+How Good STEM & Code helps (and the cost of a bad design):
+https://www.economist.com/by-invitation/2026/01/22/the-biggest-drag-on-global-trade-isnt-tariffs-but-standards 

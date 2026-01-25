@@ -4207,7 +4207,6 @@ A few issues are key here in the search context:
 7. matrix-processing
 
 ### Infrastructure Cost & Institutions:
-- 
 
 STEM Health-check analysis:
 

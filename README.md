@@ -515,7 +515,6 @@ For a voting system to be practical, the requirements for implementation and ass
 - scheduling
 - enrollment
 - standards protocols methods and procedures
-- 
 
 #### Step 2: (Voter-Setup: During online registration time period [over-a-network / online]) 
 Before the election ends: A voter registers for the vote-over-a-network (with One-Time-Pad) (online voting) process. 

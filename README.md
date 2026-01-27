@@ -1391,29 +1391,34 @@ For example:
 ## Decision Task Attributes:
 - needs and goals array: past, present, expected future, goal future, ideal future
 - schedule items
-- 
+
 ## information infrastructure, protocols, and standards
 ## Weather analogy for agenda, policy, and long term vs. short term
 - clarity of data
 - perceptibility and definition of risk
 - volatile cargo-cult sport causality-hallucination and proxies
 - the problem of replacing policy and agenda with short term measurable goals
+
 ## Standard Fields: Goal Clarification and Disambiguation and/for Alignment
 - Agenda Process Policy (e.g. Agile-KT-DefStud[software], SixSigma[specific utility repair], Steiner-Jung[brainstorm], Crime  Fraud & Corruption, etc.)
 - User-Features, Subfeatures, and Tools[treasure map]("story?")
 - Scope( Scope boundary examples or definitions?)
 - Schedule[duration in days, started, target end]
+
 ## Best practice and bad practice
 - loudest voices are not to be automatically followed
 - simplistic proxies for decisions such as arbitrary numbers of requests
 - skipping a decision step and letting scope go directly see: https://www.youtube.com/watch?v=YQnz7L6x068
+
 ## Decision and Automation
 - balancing and checking where 'automated' work is going?
 - checking for bad proxies, abdications, and reifications
 - functional-definition area?
+
 ## Negative Definitions in Systems-Management, Project-Management, Organization-Management Product management, etc.
 There are a lot of tradeoffs with no automatic or easily findable balance, and there are affirmative goals that are not trivial to set, but there is also the low hanging fruit of negative definitions that are easier to identify // 2025.01.23)
-###What are not goals:
+
+### What are not goals:
 - hiding things for the sake of hiding things is not a goal
 - creating stacks of abstractions for the sake of creating stacks of abstractions is not a goal
 - disinformation is not a goal
@@ -1421,6 +1426,7 @@ There are a lot of tradeoffs with no automatic or easily findable balance, and t
 - solution-proxies: meaningless abstraction cargo-cult delusions are not a goal
 - extreme mis-alignment is not a goal
 - not learning, not skill improving, not training is not a goal
+
 ### oositive goals, ish:
 - data/information hygiene is a goal
 
@@ -4825,3 +4831,27 @@ There is a tautological need for more understanding, study, experimentation, and
 
 How Good STEM & Code helps (and the cost of a bad design):
 https://www.economist.com/by-invitation/2026/01/22/the-biggest-drag-on-global-trade-isnt-tariffs-but-standards 
+
+
+
+
+...
+
+
+Astonishingly good interview applicable to project management in IT:
+Ostensibly the topic is armed services training, but so many elements are spot on for any projects: coordination-skills, context-dependence, learning-training, risk-incentives, future-unpredictability, knowing history, etc. If too taken for granted in a postwar era now gone, Defense is both a sector of the economy, and part of the rule of law that allows for an economy. 
+https://www.youtube.com/watch?v=teyInjjbKqA
+
+
+
+Russian city hit with ‘most massive’ strike of the war | Ukraine: The Latest
+The Telegraph
+Jan 26, 2026  Ukraine: The Latest | Podcast | The Telegraph
+Day 1,432.
+
+
+
+Colonel Thurston from the Land Warfare Centre
+https://www.army.mod.uk/learn-and-explore/about-the-army/formations-divisions-and-brigades/field-army-troops/land-warfare-centre/ 
+...
+

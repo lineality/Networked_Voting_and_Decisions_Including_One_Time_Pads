@@ -2028,9 +2028,8 @@ none check
 --int check
 --boolean check 
 --none check
-
-set check?
-tuple check?
+?set check?
+?tuple check?
 
 # definitions of criteria in tests
 

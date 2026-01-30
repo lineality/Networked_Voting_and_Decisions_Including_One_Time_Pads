@@ -1344,6 +1344,9 @@ The idea that you should not use process because you lack perfect eternal knowle
 '''
 ## The phenomena of minds being unsettled by looking 'lower' than a layer of abstraction that they have learned to handle, ranging from 'showing ankles' significant disruption from anatomical lack of trained familiarity to 'math-phobia.' 
 
+## Long Term Codebase Maintenance
+- Codebase Maintainer will likely need to be both an occupation and a cost, which some institutions will struggle to afford. [01.2026]
+
 # STEM Values
 - "Can" 
 - "Should"
@@ -2569,6 +2572,8 @@ by Deborah M. Gordon
 - voted_for_choice_or_choices:
 - write-in:
 This overall same information can be expressed and in various specific situations will need to be expressed and externalized in significantly different ways, such that handling and comparing such structure is not automatically simple. 
+## Definitions of emergencies
+- as in the classic problems on spurious and ongoing claims of emergency-administration
 
 ## Open, Closed, and SOS, Coordination:
 (From Project Uma)
@@ -2645,6 +2650,7 @@ Are there use-cases for a robust distributed graph-database that is not reliant 
 
 ## Decision-Net, Word-Net, Image-Net: 
 = training sets and testing benchmarks for decisions and coordinated decisions
+
 
 ## Training Skill Abilities Learning Measurement
 - competence levels

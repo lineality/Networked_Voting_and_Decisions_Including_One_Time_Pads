@@ -997,6 +997,10 @@ What OS, what network architecture, and what cyber security strategies should/co
 # Perception-Abstraction and disruptive effects of some processes of observation
 - 
 
+## Perception: Looking out for likely disjunctions in perception and expectation
+- while it is unavoidable that any level of STEM is not more than it is, with things not discovered being not yet discovered, and while Kuhn type situations may have pronounced ambiguous periods, and much may be nuance and grey areas, that said, there often are situations where legacy-momentum tech-stacks and norms that are unambiguously inappropriate perpetuate themselves. While it is not possible (as Shakespeare noted (~"There's no art To find the mind's construction in the face")) to read into the minds of people to discern what they are really aware of or intending, practices and project areas can be more visible, and as in Definition Behavior Studies, while a mind may hide awareness, project-practices cannot hide: non-automatic perception and clearing with legacy-momentum cargo cults may think that it is STEM and be called STEM and indignantly demand to be called STEM.
+https://en.wikipedia.org/wiki/Thomas_Kuhn 
+
 ## STEM & Navigation: Northstars and Gifts That Keep on Giving
 - timelines
 - schedules
@@ -4859,5 +4863,28 @@ Day 1,432.
 
 Colonel Thurston from the Land Warfare Centre
 https://www.army.mod.uk/learn-and-explore/about-the-army/formations-divisions-and-brigades/field-army-troops/land-warfare-centre/ 
+
+...
+
+How to avoid collapse and corruption is a question that crosses the sometimes reified line between public-sector and private-sector. Two readings: 
+
+1. A recent article by The Economist on China's continued attempts to shun enlightenment STEM best practice governance and to double-down on a causal purity of essence.
+
+2. T.E. Ricks' book "First Principles", discussing founders' thinking (and historical perspectives) on preventing collapse and corruption. 
+
+Pure essence was indeed part of the thinking (or hoping) Ricks extracts from western history, and such faith driven romanticism was a corner-stone of the devoutly anti-STEM Nazi ideology that demolished academia and private sector STEM in the Third Reich and "The New Order" governing Eurasia. 
+
+The harmonious-stable-society goals of Xi Jinping arguably have a lot commendably in common with the aims of Montesque, Adams, Madison, and Fukuyama (to name but a few). But there is too much popular, populist, support internationally for chasing superstitions in ways history demonstrates to end badly; Trump's private paramilitary is not an example of the western clasical-liberal tradition, and it is not reducing corrupt-impurity or helping the economy.
+
+The quest to overcome corruption and collapse is old and still with us; we should study hard, use tools that work, and avoid known failed strategies (such as populist superstitions and zero-sum, negative-sum, nihilistic junkfood cults). 
+
+1. economist. com/china/2026/01/28/xi-jinping-is-immensely-powerful-why-cant-he-stamp-out-corruption
+
+https://www.economist.com/china/2026/01/28/xi-jinping-is-immensely-powerful-why-cant-he-stamp-out-corruption 
+
+2. amazon. com/First-Principles-Americas-Founders-Learned/dp/B084RJ4PFZ/ 
+
+
+Also see William L. Shirer.
 ...
 

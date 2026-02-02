@@ -2618,7 +2618,6 @@ A more useful but also more risky option is to allow a person to share connectio
 
 See the next section for another significant part of the puzzle.
 
-
 2. Multi-Band Signal Use: 
 Uma is designed deliberately to only have connection, configuration information exchanged and set up out-of-band manually by the user: connections cannot be added or removed maliciously or deliberately by a remote-collaborator. Only a local user can, out of band (not as part of an online connection) add or remove team-channel and address-book configuration files; these files are not in the shared synced project-graph-nodes data.
 
@@ -4345,11 +4344,11 @@ Where optical character recognition is used, what standards can be optional and 
 #### Election Data Study Link
 
 note: page seems to no longer exist or merged into larger course...one fewer resource on a needed topic...)
-https://www.datacamp.com/courses/analyzing-election-and-polling-data-in-r?irclickid=TtWxHF0I7xyNUMqzKwUmBUEhUkD3QI3tIzmPW80&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=2556128 
+- https://www.datacamp.com/courses/analyzing-election-and-polling-data-in-r?irclickid=TtWxHF0I7xyNUMqzKwUmBUEhUkD3QI3tIzmPW80&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=2556128 
 vs.
-https://www.datacamp.com/courses/data-manipulation-with-dplyr 
+- https://www.datacamp.com/courses/data-manipulation-with-dplyr 
 
-https://www.r-bloggers.com/2018/11/new-course-analyzing-election-and-polling-data-in-r/
+- https://www.r-bloggers.com/2018/11/new-course-analyzing-election-and-polling-data-in-r/
 
 ## Data Visualization & Elections
 - https://plotly.com/python/v3/ipython-notebooks/ukelectionbbg/ 

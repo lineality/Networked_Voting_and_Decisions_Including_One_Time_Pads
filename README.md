@@ -3046,7 +3046,7 @@ connecting Jan with open frameworks for
 ## scalable modular infrastructure
 
 ## Administrative-State Project Statistics (connections and ambiguities of terms)
-
+- questions
 
 ## Stateless and Subsymbolic Systems
 (2025 10 29)
@@ -4889,3 +4889,9 @@ https://www.economist.com/china/2026/01/28/xi-jinping-is-immensely-powerful-why-
 Also see William L. Shirer.
 ...
 
+
+https://www.economist.com/international/2026/02/03/anger-is-deadly-to-moderate-politicians 
+not a good article, but relates to W.L.Shirer's more concrete account of strategical and tactical 'terror'(rise and fall)
+
+# Inclusion and Qualification Tests
+The evolution and equilibria of simple stress tests and simple display tests

@@ -1008,16 +1008,16 @@ https://en.wikipedia.org/wiki/Thomas_Kuhn
 
 Inherent in STEM is using data to identify bad-engineering acts/actions,practices,and procedures; identifying bad-engineering and best practice prevention and remediation involves values that overlap (however marginally, and with whatever nuance) with ethics, social values, team values, family values, sportsmanship, morality, civics, political philosophy, economics, and ecology. <2025 11 02>
 
-## STEM, Productivity, Collaboration, Projects: Agile, Khaneman-Tversky, Externalization, System Collapse; System & Definition Studies: STEM, Definitions, System Collapse, Computer Science in Productive Collaborative Projects:
+## STEM, Productivity, Collaboration, Projects: Agile, Kahneman-Tversky, Externalization, System Collapse; System & Definition Studies: STEM, Definitions, System Collapse, Computer Science in Productive Collaborative Projects:
 (2024.11.25)
 1. STEM has 'values' for project being productive or not in a context of long term sustainability, non-fraud, and non-system-collapse
-2. STEM-Productive-Projects include/require values/functionality including: Agile, Khaneman-Tversky, Externalization, Non-System-Collapse in terms of System & Definition Studies
+2. STEM-Productive-Projects include/require values/functionality including: Agile, Kahneman-Tversky, Externalization, Non-System-Collapse in terms of System & Definition Studies
 
 ## Management Administration Political-Philosophy, Political Science, and STEM
 - General STEM
 - General System Collapse
-- Khaneman-Tversky
-- Khaneman-Tversky Coordinated Decisions
+- Kahneman-Tversky
+- Kahneman-Tversky Coordinated Decisions
 - Definition Behavior Studies
 - General Coordinated Decisions
 - Values, Productivity & Sustainability
@@ -1252,7 +1252,7 @@ Tools, 'Tool Stack / Tech Stack',
 2024.09.14,15,16,17,18,19,21
 Agile-Kahneman-Tversky-STEM-Productivity
 ### Questions on Collaboration Tools.
-1. Timeline: Could Agile-Khaneman-Decision tools have been built in the 1960's?
+1. Timeline: Could Agile-Kahneman-Decision tools have been built in the 1960's?
 2. Features: What User-Features/Functionalities are needed for a project to use best-practice satisfying the standards of (if not using all methods of) Agile Agile-Kahneman-Tversky-Decision Project-Product Management?
 3. Tools: What tools are needed to effect what features? (E.g. In 2024 what if any tools could a non-clearweb business/ngo/institution/municipality/etc. use to effect 
 Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best practice Project-Product Management? [GGA answer: None that I know of in 2024])
@@ -1927,7 +1927,7 @@ https://www.economist.com/business/2025/10/16/why-bosses-need-to-wake-up-to-dark
 
 
 ## Evaluation Types:
-- Daniel Khanemann: Evaluate the process not the outcome.
+- Daniel Kahneman: Evaluate the process not the outcome.
 
 ## efficiency, maintainability, sustainability,
 - scalability
@@ -2393,8 +2393,8 @@ Equivalence and Non-equivalence in representation of situations and choices.
 ## Data and Illusions:
 coordination decision systems need to set up in such a way that data and a tether to reality are able to keep in check and prevail over the tendency towards illusions and coverups and in potemkin villages.
 Literally or proverbially software since 1970 has been a self-conspiracy among complacent developers who prioritize their won recreation and entertainment experience over reality and the effects of the software they create to result in a space-trash 'polluted' environment of hidden problems where the priority is lipstick-on-a-pig fads and pedantic distractions. Developers spend huge amounts of time entertaining themselves with the 'self-care' of beautifying their keyboard and beautifying their desk and beautifying their background and beautifying editor/IDE and beautifying their 'self commenting' code, and creating the fun-illusion of their own personal entertainment pleasure seeking experience, complete with the fun of being a bullying manager, the fun of randomizing other people's schedules, blaming interns for the problems of senior staff etc, enjoyably, defiantly defying basic Agile project management areas and being a coder cowboy bro rockstar. The result is very predictably ruin and toxification, which is predictably (potemkin village) hidden away and covered up with more lipstick and distraction beautification, blaming down hill, wasting more time on entertainment junkfood and 'self-care.' By analogy, coordinated decisions and elections may be able to work well or fail to work well around similar criteria. 
-- Khaneman & Tversky
-- Weisenbaum & Eliza
+- Kahneman & Tversky
+- Joseph Weizenbaum & Eliza
 
 ## Eliza Effect & Coordinated Decisions
 - staying grounded when either the tools or the results or the process may or will inspire participants to diverge from reality or probability and enter into areas of unfounded belief without recourse to verification or accurate assessments of likelihood. (2024.04.20)
@@ -2726,7 +2726,7 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 ## Short term project state, long term project state and object permanence
 - while some hominids have some object-permanence perception for some overt physical objects, when it comes to long term project state and causality the games of adults are frighteningly similar to games of children. institutional decisions are made based on crude peek-a-boo brain stimulation either with no evidence of awareness of repeating long term patterns, or with evidence of a deliberate potemkin village to hide the permanent reality in order to cultivate a self-stimulation addiction. Every short term excuse becomes a grotesque generalization of a uniform past-present-future that endlessly changes state (in an amnesiac way where participants apparently have no memory or awareness of this constant change). 
 A 'sport' example of this may be in international high level chess where the match commentary declares that whatever ephemeral prediction is made now is universally true for all past and future time, changing constantly in a disturbingly amnesiac way. (This may also be a kind of disease of hyperbolic-dialectical-journalism.)
-An institutional example of this borrowed from Daniel Khaneman may be where any short term of no-term abstract success indicator is used to declare an administrator 'always strong and victorious' or 'forever a weak loser' based on completely random noise that changes minute to minute.
+An institutional example of this borrowed from Daniel Kahneman may be where any short term or no-term abstract success indicator is used to declare an administrator 'always strong and victorious' or 'forever a weak loser' based on completely random noise that changes minute to minute.
 
 ## Kahneman & Tversky, et al: effects on systems of decisions
 - decision spaces
@@ -3690,7 +3690,7 @@ Role and Sources of Stochasticity in decision coordination:
 
 ## priorities and the psychology of system visibility: when noise overwhelms perception: Q: in reality, how often does noise overwhelm perception?
 - types of noise and types of perception-distortion?
-- is Khaneman Tversky perception analysis mostly time-invariant in terms of when people can or cannot see through various ebbing and flowing disturbance regimes of noise in a temporally and spatially heterogeneous landscape?
+- is Kahneman-Tversky perception analysis mostly time-invariant in terms of when people can or cannot see through various ebbing and flowing disturbance regimes of noise in a temporally and spatially heterogeneous landscape?
 
 ## evaluating agendas in a project-space of coordinated decisions
 

@@ -1705,6 +1705,11 @@ vs.
 - default easy popular junkfood attractive bad practice: bad equilibrium
 - health food best practice that is unfashionable unattractive unpopular not automatically learned, not automatically percieved, not a default equilibrium
 
+Francis Fukuyama on default tribal modes and ~ participatory self-identification
+- https://www.amazon.com/Origins-Political-Order-Prehuman-Revolution-ebook/dp/B00457X7VI
+- https://www.amazon.com/dp/B08MVZH1KP?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin 
+- https://www.amazon.com/Identity-Demand-Dignity-Politics-Resentment-ebook/dp/B0796WDX5G/ 
+
 ## Demand Distortion: Factors and Areas of impact
 - definition collapse
 - perception collapse
@@ -2488,7 +2493,7 @@ by Deborah M. Gordon
 - parallel systems
 - concurrent systems
 
-## asynchronous systems:
+## Asynchronous Systems:
 - databases
 - concurrency
 - parallelism
@@ -2521,7 +2526,7 @@ by Deborah M. Gordon
 - collapse awareness
 - navigation skills
 
-# passwords, devices, "fido," etc.
+# Passwords, devices, "fido," etc.
 - salt
 
 
@@ -2538,8 +2543,8 @@ by Deborah M. Gordon
 
 # memory management: 
 - security
-	- privacy
-	(lower level: programming language used)
+- privacy
+(lower level: programming language used)
 	
 # character sets, flexibility and security, ascii, fonts
 
@@ -4252,6 +4257,22 @@ browser based...
 app based...
 	- Jefferson-Radio type
 ...
+
+Transparency Administration and Governance
+The dichotomy between public sector and private sector and the strange English language term 'politics' which can ambiguously refer nihilistically to cynical duplicitous bad-actor violence or it can refer other governance and administration topics such as 'Political Philosophy' and western enlightenment-era efforts and institutions toward better governance. (A double-slur is the common combination of the passive-agressively toxic terms 'just' and 'politics')
+
+https://www.economist.com/briefing/2026/02/05/how-democracies-are-using-autocratic-tools-to-muzzle-journalism
+
+"""
+With fear and favour
+And there appears to be a feedback loop: a rise in corruption is also a good predictor that media will subsequently grow less free, perhaps because when those in power have plenty to hide, they have extra cause to gag nosy hacks. “If we report on corruption…our journalists are doxxed,” says Wahyu Dhyatmika, the CEO of Tempo, a weekly in Indonesia. One was sent a severed pig’s head; others have received dozens of unrequested food deliveries, a reminder that the bigwigs they report on know exactly where to find them.
+
+These feedback loops magnify the damage, meaning the full cost of bad policies is felt only gradually. Institutions have inertia: our model implies that on average it takes roughly four years after media clampdowns for just half the eventual rise in corruption to appear. A leader can muzzle the press today, but voters may not notice the subsequent surge in skulduggery until after the next election.
+"""
+
+...
+
+
 
 ## project coordination standards
 - for developers working on project

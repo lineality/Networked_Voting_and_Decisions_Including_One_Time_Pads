@@ -2044,7 +2044,7 @@ none check
 ?set check?
 ?tuple check?
 
-# definitions of criteria in tests
+# Definitions of Criteria in Tests
 
 ## Empirical Tests for Voting Systems
 

@@ -3156,7 +3156,6 @@ The odd paradox of people in the west believing that voting is inherently good, 
 ## Naive 'more connection = better' vs. ecology and system and definition studies
 
 ## Shakespeare on volatility of mind vs. 1970s rational-calculator-mind
-- 
 
 # Math Anziety-Phobia, AI Anziety-Phobia, and ELIZA human-halucinations
 - sport-psychology as a disease
@@ -4918,3 +4917,9 @@ not a good article, but relates to W.L.Shirer's more concrete account of strateg
 
 # Inclusion and Qualification Tests
 The evolution and equilibria of simple stress tests and simple display tests
+
+...
+
+Economics & Governance: As Francis Fukuyama points out, the cultural elements of best practice can be elusive. Opposing the legal underpinnings of markets comes with predictable long term risks.
+
+https://www.economist.com/business/2026/02/09/china-once-stole-foreign-ideas-now-it-wants-to-protect-its-own 

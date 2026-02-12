@@ -4883,7 +4883,6 @@ Jan 26, 2026  Ukraine: The Latest | Podcast | The Telegraph
 Day 1,432.
 
 
-
 Colonel Thurston from the Land Warfare Centre
 https://www.army.mod.uk/learn-and-explore/about-the-army/formations-divisions-and-brigades/field-army-troops/land-warfare-centre/ 
 

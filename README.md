@@ -2929,7 +2929,8 @@ Revisiting Edmond Burke:
 
 ## Process, Best-Practice, Communication & 'Future-You'
 1. alignment with others and alignment with self over time
-2. 
+2. sources of feedback: 
+3. 'Project Areas'
 
 ## Managing different specific large and small unknown values, variables, and geometries
 

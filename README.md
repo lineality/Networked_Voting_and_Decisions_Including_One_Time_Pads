@@ -4283,7 +4283,7 @@ There are a lot of factors and edge cases, with a possibly related topic of dist
 'Make the design-choice go away." is not a good plan.
 
 ## Shannan/Turing information theory/communication theory and decision coordination problem spaces
-- have we learned anything else about signals and information since Shannan?
+- What else have we learned about signals and information since Shannan? (Polyanskiy/Wu)
 - information in coordinated decision making?
 
 ## information collapse vs. signal collapse

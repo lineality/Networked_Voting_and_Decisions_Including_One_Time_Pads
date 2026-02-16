@@ -3763,7 +3763,7 @@ Administrations failing to support their own successors:
 - Biden Administration in 2024 apparently having no successor to run at all.
 - limiting the time and scope of 'emergency powers' which historically are needed in real emergencies, and are also historically frivolously invoked by anyone who wants a power grab at any time for no reason.
 Q: In what specific ways is succession a strongly persistent point constant repeating failure, with only slow and fragile development of methods and technologies for the problem?
-Q: How have the concerns of historical thinkers from Hobbes to Montesque to John Adams (and many others) A. held up as ways of articulating the problems, and B. been addressed by later developments?
+Q: How have the concerns of historical thinkers from Hobbes to Montesquieu to John Adams (and many others) A. held up as ways of articulating the problems, and B. been addressed by later developments?
 
 ## Visualization of Election Data
 - principles
@@ -3786,7 +3786,7 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 - general junkfood
 - measuring a blind junkfood vortex
 
-## measuring collapse 
+## Measuring Collapse 
 (2024.04.27)
 - measuring alignment of goal, means, methods, with non-collapse
 - measuring trajectory of collapse

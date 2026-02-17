@@ -2280,7 +2280,6 @@ derivation and integration of process modules
 - What known issues prevent, suppress, erode, weather, skills and abilities required to support projects and coordinated decisions?
 - What supports, enables, the learning transmission and cultivation of skills and abilities required to support projects and coordinated decisions?
 
-
 ### distortions and illusions
 - causal mirage illusions
 - placeholder reification 

@@ -2541,11 +2541,15 @@ by Deborah M. Gordon
 - character sets
 - data structure types
 
-# memory management: 
+# Memory Management: 
 - security
 - privacy
 (lower level: programming language used)
-	
+
+# NASA Power of 10: (enumerated areas? TODO)
+- 2006 embedded systems context
+- 2026 systems programming context
+
 # character sets, flexibility and security, ascii, fonts
 
 # conflict

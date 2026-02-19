@@ -4910,7 +4910,6 @@ https://www.economist.com/china/2026/01/28/xi-jinping-is-immensely-powerful-why-
 
 2. amazon. com/First-Principles-Americas-Founders-Learned/dp/B084RJ4PFZ/ 
 
-
 Also see William L. Shirer.
 ...
 

@@ -4358,7 +4358,6 @@ note: looking for references to this in Hobbe's discussion of perception and und
 ## OCR
 Where optical character recognition is used, what standards can be optional and in place for how unclear handwriting is handled. Including the question of whether OCR should be avoided.
 
-
 ## Finite(?) Modular Question and Decision Definition
 - selecting translating and connecting clearly defined units of question answer and decision
 
@@ -4526,7 +4525,6 @@ There are a few levels of organization and clarification that are important for 
 As with STEM itself there is often, sadly, so far no clear shared vocabulary for these topics, but the topics are very real empirically and whatever they are called you will face them doing projects.
 
 For example, any policy or feature defining or described with the term/topic 'model explainability' should be clearly described in the areas outlined here.
-
 
 # 1. Categories of Types of Systems and Linearity:
 1. null-core
@@ -4909,6 +4907,7 @@ The quest to overcome corruption and collapse is old and still with us; we shoul
 https://www.economist.com/china/2026/01/28/xi-jinping-is-immensely-powerful-why-cant-he-stamp-out-corruption 
 
 2. amazon. com/First-Principles-Americas-Founders-Learned/dp/B084RJ4PFZ/ 
+
 
 Also see William L. Shirer.
 ...

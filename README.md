@@ -4741,8 +4741,7 @@ We would like to thank the universities, companies, and granting agencies that
 supported this work, but unfortunately none did."
 
 ## consequences on no-runoff single-vote multi-party elections:
-https://www.economist.com/united-states/2024/08/19/good-news-for-kamala-harris-on-third-party-candidates
-
+- https://www.economist.com/united-states/2024/08/19/good-news-for-kamala-harris-on-third-party-candidates
 - https://en.wikipedia.org/wiki/VUCA 
 
 

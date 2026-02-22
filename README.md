@@ -4740,7 +4740,7 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 We would like to thank the universities, companies, and granting agencies that
 supported this work, but unfortunately none did."
 
-## consequences on no-runoff single-vote multi-party elections:
+## Consequences on no-runoff single-vote multi-party elections:
 - https://www.economist.com/united-states/2024/08/19/good-news-for-kamala-harris-on-third-party-candidates
 - https://en.wikipedia.org/wiki/VUCA 
 
@@ -4748,7 +4748,9 @@ supported this work, but unfortunately none did."
 # Link to History Book Recommendations Repo:
 history_book_repository_on_political_philosophy
 
-# misc: 
+https://en.wikipedia.org/wiki/Stilwell_and_the_American_Experience_in_China,_1911%E2%80%9345 
+
+# Misc: 
 ## incentives
 from https://www.economist.com/britain/2025/01/22/what-an-arcane-piece-of-aviation-law-says-about-britains-government 
 "The slots regime is a mid-century relic. In Britain—as around the world—rights are grandfathered: as long as an airline uses a slot 80% of the time, it can hold onto it, free, in perpetuity. That was fine in the 1960s when runway space was abundant; now that such space is heavily congested, it produces a clogged-up market. At Heathrow, 99% of slots are grandfathered: spare ones come up for sale rarely and at a stonking price. Challengers are locked out, or stay small. Inefficiency is rewarded: it is better for an airline to send up small or empty planes than forfeit a slot to a rival."

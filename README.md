@@ -1223,7 +1223,14 @@ Tools, 'Tool Stack / Tech Stack',
 -- The default patterns and processes of drift will misalign the team and user-stakeholders on many levels, making even detection of the misalignment a challenge.
 -- Learning directly and indirectly related to the specific project is necessary. If you do not learn that a user/stakeholder's need is not being met then long term failure is highly probable. If you continually learn and develop useful skills then long term successes are more probable.
 ## Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
-..
+
+
+# Psychology of Explanation
+- Narrow-Model vs. Edge Cases
+- Context vs. General
+- Linearity and Nonlinearity
+
+
 ## Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
 ## Advocacy and support tools for 'process' 
 #### Policy on Feedback, Errors, Mistakes, & Transparency: a process for reporting feedback (there needs to be a process and team-cultural permission to handle feedback and data): [2025.04.27]

@@ -3221,8 +3221,9 @@ In any given human endeavor where there appears to be some relative success and 
 # Certification
 (topics)
 
-## negative definitions and right of refusal
+## Negative Definitions and Right of Refusal
 - "I must, of force."[henry IV,1]
+- 'nudge' the the tyranny of the default in settings/config
 
 ## Historical Terms and Timeless Patterns
 - populism

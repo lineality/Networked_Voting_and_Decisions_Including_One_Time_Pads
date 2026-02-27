@@ -1713,6 +1713,7 @@ vs.
 - health food best practice that is unfashionable unattractive unpopular not automatically learned, not automatically percieved, not a default equilibrium
 
 Francis Fukuyama on default tribal modes and ~ participatory self-identification
+(two books, part 1  par 2, on political order)
 - https://www.amazon.com/Origins-Political-Order-Prehuman-Revolution-ebook/dp/B00457X7VI
 - https://www.amazon.com/dp/B08MVZH1KP?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin 
 - https://www.amazon.com/Identity-Demand-Dignity-Politics-Resentment-ebook/dp/B0796WDX5G/ 
@@ -4888,11 +4889,7 @@ There is a tautological need for more understanding, study, experimentation, and
 How Good STEM & Code helps (and the cost of a bad design):
 https://www.economist.com/by-invitation/2026/01/22/the-biggest-drag-on-global-trade-isnt-tariffs-but-standards 
 
-
-
-
 ...
-
 
 Astonishingly good interview applicable to project management in IT:
 Ostensibly the topic is armed services training, but so many elements are spot on for any projects: coordination-skills, context-dependence, learning-training, risk-incentives, future-unpredictability, knowing history, etc. If too taken for granted in a postwar era now gone, Defense is both a sector of the economy, and part of the rule of law that allows for an economy. 
@@ -4931,8 +4928,8 @@ https://www.economist.com/china/2026/01/28/xi-jinping-is-immensely-powerful-why-
 
 
 Also see William L. Shirer.
-...
 
+...
 
 https://www.economist.com/international/2026/02/03/anger-is-deadly-to-moderate-politicians 
 not a good article, but relates to W.L.Shirer's more concrete account of strategical and tactical 'terror'(rise and fall)

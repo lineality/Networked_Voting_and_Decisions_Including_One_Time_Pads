@@ -1717,6 +1717,11 @@ Francis Fukuyama on default tribal modes and ~ participatory self-identification
 - https://www.amazon.com/Origins-Political-Order-Prehuman-Revolution-ebook/dp/B00457X7VI
 - https://www.amazon.com/dp/B08MVZH1KP?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin 
 - https://www.amazon.com/Identity-Demand-Dignity-Politics-Resentment-ebook/dp/B0796WDX5G/ 
+- computer-science code and law (civil, criminal, etc.)
+- common code management problems
+- NASA's Power of 10 process-rules for govern-able code-law
+- Rust vs. Zig and categories of general-utility code that should lack fragility and not require high or unrealistic skill levels to maintain (e.g. the perpetual-CVE tragedy of ex-vi-vim minimal) 
+
 
 ## Demand Distortion: Factors and Areas of impact
 - definition collapse
@@ -4942,3 +4947,11 @@ The evolution and equilibria of simple stress tests and simple display tests
 Economics & Governance: As Francis Fukuyama points out, the cultural elements of best practice can be elusive. Opposing the legal underpinnings of markets comes with predictable long term risks.
 
 https://www.economist.com/business/2026/02/09/china-once-stole-foreign-ideas-now-it-wants-to-protect-its-own 
+
+...
+
+# information flow, asymmetric information, and byzantine general problems
+
+https://www.economist.com/finance-and-economics/2026/02/19/prediction-markets-are-rife-with-insider-betting
+
+...

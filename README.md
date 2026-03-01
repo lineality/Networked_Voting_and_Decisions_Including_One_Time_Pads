@@ -3023,7 +3023,7 @@ connecting Jan with open frameworks for
 7. AI-open-office
 8. coordinated decision making
 
-## voting on disputed issues
+## Voting on Disputed Issues & between untrusting parties
 - real and theoretical: 'not in my backyard' vs. 'boil 49% in oil'
 - mediation
 - 3rd party arbitration

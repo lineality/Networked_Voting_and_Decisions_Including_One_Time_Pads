@@ -4501,8 +4501,10 @@ scale factors and elections:
 - NLP
 - disinformation?
 
-### minimal and non-minimal software for voting
-- is there such a thing as a simple micro-election that can be quick and secure?
+### Minimal and Non-Minimal Software for Voting
+- Is there such a thing as a simple micro-election that can be quick and secure?
+- Could a basic Uma-type system be part of a minimal coordination system (note: Uma for planning vs. basic-Uma-Data to show/validate-dashboard signal metrics)?  https://github.com/lineality/uma_productivity_collaboration_tool 
+https://github.com/lineality/uma_productivity_collaboration_tool/blob/main/t_is_for_task.md 
 
 #### Trade-off in UI user interface design: secure but use-able
 

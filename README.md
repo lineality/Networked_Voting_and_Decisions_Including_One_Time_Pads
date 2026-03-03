@@ -2931,9 +2931,13 @@ teaching how to participate in coordinated decision making
 - John Adams: "The Tyranny of 'The Many'" (vs. the tyranny of the few) "it was all madness" (letters, ~1813)
 
 Revisiting Thomas Hobbes:
-- 
+- Dynamics of Learning
+- Hobbes and Melville
+- STEM & Law
+- Violence and collapse
 
 Revisiting Edmond Burke:
+- Empiricism and STEM
 
 ## 80-20 Rule in Representation: How modeling society as being entirely of working voters is a rapid way to cover 20% of the work to be done. How 'one person one vote' is a dangerous oversimplification of many issues including montesquieu' checks and balances and Hobbes et al's tradeoff balance agreements. (2024.07.14)
 - meritocratic hierarchies

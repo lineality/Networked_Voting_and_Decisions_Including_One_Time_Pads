@@ -2541,8 +2541,6 @@ by Deborah M. Gordon
 # Passwords, devices, "fido," etc.
 - salt
 
-
-
 # The Stakeholder Perspective:
 - Would a person who relies upon the voting system as infrastructure for survival go along with decisions being made by people who may be indeterminately incompetent or malicious? 
 

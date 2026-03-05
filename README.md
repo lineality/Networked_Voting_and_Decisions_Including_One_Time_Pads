@@ -4294,10 +4294,7 @@ And there appears to be a feedback loop: a rise in corruption is also a good pre
 
 These feedback loops magnify the damage, meaning the full cost of bad policies is felt only gradually. Institutions have inertia: our model implies that on average it takes roughly four years after media clampdowns for just half the eventual rise in corruption to appear. A leader can muzzle the press today, but voters may not notice the subsequent surge in skulduggery until after the next election.
 """
-
 ...
-
-
 
 ## project coordination standards
 - for developers working on project
@@ -4331,10 +4328,8 @@ three? different categories of perceptionL
 3: some sufficiency of long term perception
 note: looking for references to this in Hobbe's discussion of perception and understanding of causality requiring study and learning, not being automatic
 
-
 ## alternatives to first past the post
 - proportional voting
-- 
 
 ...
 # Decisions, Projects and Datatypes:

@@ -547,7 +547,6 @@ note: https://sqrl.grc.com/pages/getting_started_with_sqrl/
 Question: one time pads vs. signing keys for transmitting ballots
 Also: multiple party signing keys?
 
-
 #### Step 3: Voter Obtains Ballot Online
 #### 3 options:
 1. a publicly posted signed ballot (verifiable)
@@ -565,11 +564,9 @@ Optional ways to do this:
 - B. collecting from (and perhaps compared across) various sources by voting software, e.g. a minimal and secure mobile device software application ("app")
 (For the most-resource efficient system, individually sending personalized ballots should perhaps be avoided. Question: What are the factors around this? Does a ballot need to be individualized? How does it need to be individualized?)
 
-
 #### Step 5: (Voter Validate the not-yet-completed Ballot) 
 The voter on-line inspects and validates the ballot. Most likely by checking and comparing multiple sources,possibly signing keys, maybe multiple signing certificates. There could be both manual and automatic options to balance ease of use with manual thoroughness. 
 (note: Finding universities to host copies of the final ballot may be a good option. But this step may not be feasible or necessary.) (Something like a blockchain (immutable ledger) for all users of the voting system may suffice as a good-enough decentered immutable portable verified storage system.)
-
 
 #### Step 6: (Voter Completes the Ballot, Marks Votes) 
 e.g. csv format of data (vs. pdf type doc)
@@ -585,7 +582,6 @@ Authors: Stephen Knack & Martha Kropf
 University of North Carolina at Charlotte
 https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
 
-
 #### Step 7: (Check Completed-Ballot for Errors [done by voter]) 
 - sanitizing inputs
 - adversarial inputs
@@ -593,7 +589,6 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 - no-vote blanks 
 - too few for multiple selections, possiby make vote choices clear so that one selection is required for each question.
 - test-process errors (something breaks processing)
-
 
 #### Step 8: (Encrypt the Completed-Ballot [done by voter]) 
 Details depend on the file system being used.
@@ -608,7 +603,6 @@ immutable ledger system?
 	- dynamic ledger 
 Online: The voter sends (by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.)) the new QR code (containing their encrypted filled-in-and-checked ballot) to the local election office.
 
-
 #### Step 10: (Process the Encrypted Voter-Submitted Ballot)
 - thrifty encryption choice?
 Arguably this is a key area if one-time-pads are not being used, or not in the same way as the proof-of-concept. 
@@ -618,7 +612,6 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 - decrypt
 - data-entry: vote into system
 - an advantage, possibly a significant one, is the ability to skip optical text recognition and keep all data in a stable digital format.
-
 
 #### Step 11: (Process Election Data / Count The Votes)
 (storage: distributed? immutable-ledger?)

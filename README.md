@@ -2938,11 +2938,14 @@ Revisiting Edmond Burke:
 - post-participants
 - checks and balances vs. literal popular vote 'democracy'
 
-## story-relatability and human-understandability of systems and procedures
+## story-relatability & human-understandability of systems & procedures
 
-## dataframes and databases
+## Databases and Dataframes 
 - encrypted contents
 - statistically anonymized content (e.g. Security now when hashes collide)
+- .csv, R, python
+- spreadsheets vs. dataframes vs. notebooks
+- production dataframes
 
 ## Process, Best-Practice, Communication & 'Future-You'
 1. alignment with others and alignment with self over time

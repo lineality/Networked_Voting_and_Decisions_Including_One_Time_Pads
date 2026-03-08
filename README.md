@@ -2120,8 +2120,9 @@ derivation and integration of process modules
 
 ### not mis-interpreting signals
 
-### impulsiveness:
+### Impulsiveness (short term, long term):
 - naive attraction
+
 ### Ulterior motives:
 
 ### Proxy Management:

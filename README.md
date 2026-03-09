@@ -2816,7 +2816,7 @@ An institutional example of this borrowed from Daniel Kahneman may be where any 
 
 ## timescales and coordinated decisions
 
-## over-communication as a goal
+## 'over-communication' as a goal
 - American vs. Japanese norms on re-covering discussed topics for agreement.
 
 ## Arts culture, communication and decisions
@@ -2853,13 +2853,13 @@ e.g. more and less quantifiable and defined topics.
 # Lexical Timeline:
 - modeling currently used operational definitions over time
 
-# definitions, metrics, and quantifiability
+# Definitions, metrics, and quantifiability
 - how definition 'types' are handled
 - how data structures such as meaning-vectors are used
 - issues with decisions around measurable and non-measurable factors: how does that change the problem space of decisions and projects?
 2024.06.23
 
-# measuring feedback: can failures of feedback (a lack of feedback channels) in organizations and institutions be detected
+# Measuring feedback: can failures of feedback (a lack of feedback channels) in organizations and institutions be detected
 
 # Where are cut-up vs. context and state vs stateless involved in coordinated decisions? 
 e.g.

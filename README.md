@@ -2016,7 +2016,7 @@ Episode #940 | 19 Sep 2023 | 104 min.When Hashes Collide
 
 ## process and step definition across integrated sub-steps with break-down into smaller steps
 
-## cost factors & sustainability
+## Cost-Factors & Sustainability
 - low level costs
 - database related costs
 - server related costs

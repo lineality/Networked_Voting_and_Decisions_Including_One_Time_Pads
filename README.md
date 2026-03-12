@@ -3824,7 +3824,7 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesquieu to Jo
 - hybrid
 - hierarchies and sets in comparability
 
-## defining participants and participation for coordinated decision making
+## Defining Participants & Defining Participation for Coordinated Decision Making
 
 ## Potential disputes over 'ownership' of election parts or results
 

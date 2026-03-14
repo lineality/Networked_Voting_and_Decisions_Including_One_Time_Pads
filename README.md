@@ -3278,13 +3278,14 @@ types/categories:
 - populism-fad-ocracy
 - revolution-ocracy
 
-note:
+#### Note:
 - ~participants
 - pre-participants
 - post-participants
 - partial/contextual-participants
 
-## ad-hoc systems
+## ad-hoc Systems
+-
 
 ## Participation, representation, and ways to avoid some groups as being defined outside of the ability to participate:
 - exclusion

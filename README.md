@@ -4128,11 +4128,12 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 
 ### Level 2: Derived Layers: modeling the rows and columns
 A. GOFAI: ELIZA, SHRDLU, etc. (1950-2000)
-B. statistical learning, reinforcement, GA, etc. (1990-2010) (or 1750-2010)
+B. Statistical learning, reinforcement, GA, etc. (1990-2010) (or 1750-2010)
 C. narrow deep learning (~2010-2020) (or 1940-2020)
 D. foundation models (2015/2020-?????)
 E. ? (?-?)
 etc.
+(note: outcomes based learning vs. 'pretrained' learning)
 
 (2024 11 29)
 ## Standards for production data handling

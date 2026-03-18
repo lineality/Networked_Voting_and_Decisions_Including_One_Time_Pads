@@ -4953,3 +4953,8 @@ https://www.economist.com/business/2026/02/09/china-once-stole-foreign-ideas-now
 https://www.economist.com/finance-and-economics/2026/02/19/prediction-markets-are-rife-with-insider-betting
 
 ...
+
+~
+https://www.economist.com/middle-east-and-africa/2026/03/15/open-source-intelligence-shuts-down
+
+

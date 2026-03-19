@@ -1480,8 +1480,7 @@ Stop these assumptions:
 Both are different, and both are often ignored/denied areas. 
 And both may involve the bazaar cargo-cult of undefined 'rational behavior' which emerged or became dominant in the postwar period.
 
-# workflow studies
-- 
+# Workflow Studies
 
 # Bureaucracy and Code, Not a reified Antagonist
 - coding issues and best practice compared with fears of villainous administrations

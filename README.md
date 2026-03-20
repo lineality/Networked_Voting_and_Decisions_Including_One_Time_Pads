@@ -986,9 +986,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 - surveying and analysis
 - certification
 
-
 # Perception-Abstraction and disruptive effects of some processes of observation
-- 
 
 ## Perception: Looking out for likely disjunctions in perception and expectation
 - while it is unavoidable that any level of STEM is not more than it is, with things not discovered being not yet discovered, and while Kuhn type situations may have pronounced ambiguous periods, and much may be nuance and grey areas, that said, there often are situations where legacy-momentum tech-stacks and norms that are unambiguously inappropriate perpetuate themselves. While it is not possible (as Shakespeare noted (~"There's no art To find the mind's construction in the face")) to read into the minds of people to discern what they are really aware of or intending, practices and project areas can be more visible, and as in Definition Behavior Studies, while a mind may hide awareness, project-practices cannot hide: non-automatic perception and clearing with legacy-momentum cargo cults may think that it is STEM and be called STEM and indignantly demand to be called STEM.
@@ -1043,7 +1041,6 @@ What institutions need to officially or more-officially be part of the montesque
 
 # Population Statistics and Individual Statistics
 - Institutions and Representation
-
 
 ## Outlining a System Literacy Curriculum:
 ### General accessible literacy areas:
@@ -4896,8 +4893,6 @@ https://www.economist.com/by-invitation/2026/01/22/the-biggest-drag-on-global-tr
 Astonishingly good interview applicable to project management in IT:
 Ostensibly the topic is armed services training, but so many elements are spot on for any projects: coordination-skills, context-dependence, learning-training, risk-incentives, future-unpredictability, knowing history, etc. If too taken for granted in a postwar era now gone, Defense is both a sector of the economy, and part of the rule of law that allows for an economy. 
 https://www.youtube.com/watch?v=teyInjjbKqA
-
-
 
 Russian city hit with ‘most massive’ strike of the war | Ukraine: The Latest
 The Telegraph

@@ -1932,7 +1932,6 @@ https://www.economist.com/business/2025/10/16/why-bosses-need-to-wake-up-to-dark
 - history of undermined software
 - timescales: case study of 'dinosaur DNA' search
 
-
 ## Evaluation Types:
 - Daniel Kahneman: Evaluate the process not the outcome.
 
@@ -1953,13 +1952,12 @@ https://www.economist.com/business/2025/10/16/why-bosses-need-to-wake-up-to-dark
 - web applications are usually designed with very strange goals that make the overall process extremely brittle, expensive, and unsustainable, in order to chase fetich-goals with little or no real value (fancy UI, high speed)
 - election system should be robust with no added features that are not absolutely needed: few dependencies, secure, 
 
-
 ## location: on edge, on premise, distributed, server, and cloud
 - case studies for distributed systems?
 
 # Data Hygiene and Voting
 
-# Fittness, Behaviors, and Metrics
+# Fitness, Behaviors, and Metrics
 (2024.07.22)
 
 # Basic Utilities
@@ -1973,9 +1971,9 @@ https://www.economist.com/business/2025/10/16/why-bosses-need-to-wake-up-to-dark
 - files and directories
 - slim systems
 
-# Minimal Context Specific Design for production deployment, not a general broad scope solution. Reduced attack surface.
+## Minimal Context Specific Design for production deployment, not a general broad scope solution. Reduced attack surface.
 
-## standards for tool usability and liability transparency
+## Standards for tool usability and liability transparency
 - public sector usability and liabilities
 - private sector usability and liabilities
 

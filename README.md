@@ -2083,7 +2083,7 @@ derivation and integration of process modules
 - role of quality random and pseudo random numbers
 - clock problems and clock accuracy in voting network
 - importance of culture and cultural concepts for testing
-- importance of aspects of testing not being see as culturally 'rude' such as asking questions, double checking, redundant communication, etc. 
+- importance of aspects of testing not being seen as culturally 'rude' such as asking questions, double checking, redundant communication, etc. 
 
 ## Time Databases and Coordinated Decisions
 - race conditions
@@ -2289,7 +2289,7 @@ derivation and integration of process modules
 #  Records, versioning, documentations, testing standards
 
 ## Learning, Need & Assistance Areas:
-- What are the learning and fittness limiting factors in coordinated decisions and projects? 
+- What are the learning and fitness limiting factors in coordinated decisions and projects? 
 - Project Neem
 - Project Uma
 

@@ -1526,7 +1526,7 @@ Biases:
 - externalization challenges
 - perception challenges
 - learning challenges
-- coordination challanges
+- coordination challenges
 - communication challenges
 - project challenges
 - sustainability and liability challenges
@@ -1538,7 +1538,7 @@ Biases:
 - statistical methods 
 - disclosure of methods
 
-## Data types, datatypes
+## Data Types, Datatypes
 - defining datatypes
 - where data must be type specific
 - where data must NOT be type specific
@@ -1582,19 +1582,19 @@ Biases:
 - graphs (the data structure)
 - 
 
-Networks vs. Databases:
+## Networks vs. Databases:
 - Why is data-coordination solved for networks but seen as unsolvable in single databases?
 - 
 - GC garbage collection, database 
 ...
 
-Design Factors and Compromises
+## Design Factors and Compromises
 
 
 ...
 
 
-Equilibria and Tautology: Repeating Invisible Liabilities
+## Equilibria and Tautology: Repeating Invisible Liabilities
 
 ...
 

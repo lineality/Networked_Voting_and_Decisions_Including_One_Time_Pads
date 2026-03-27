@@ -2153,9 +2153,8 @@ derivation and integration of process modules
 
 ## search sort filter order query find
 (The unsolved problem of search)
-- 
 
-## algorithms, computation complexity, and sort-search in particular in coordinated decision tool software
+## Algorithms, computation complexity, and sort-search in particular in coordinated decision tool software
 
 ### What is a balanced architecture between various factors?
 - centered decentered
@@ -2163,7 +2162,7 @@ derivation and integration of process modules
 - public vs. ownership
 - communication vs. encryption
 
-## clarity on divergent project agendas
+## Clarity on divergent project agendas
 
 ## Taboos and Prohibitions that may interfere with coordinated decisions
 - anti-STEM

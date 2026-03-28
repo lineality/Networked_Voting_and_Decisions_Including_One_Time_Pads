@@ -2658,8 +2658,7 @@ Are there use-cases for a robust distributed graph-database that is not reliant 
 
 
 ## Decision-Net, Word-Net, Image-Net: 
-= training sets and testing benchmarks for decisions and coordinated decisions
-
+- training sets and testing benchmarks for decisions and coordinated decisions
 
 ## Training Skill Abilities Learning Measurement
 - competence levels
@@ -4433,7 +4432,7 @@ vs.
 
 ### coordination disinformation and the byzantine generals problem
 
-Include pre-election polling?
+## Include pre-election polling?
 - Voting vs. polling
 - representation and statistical representation
 - vote by proxy

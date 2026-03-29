@@ -2228,7 +2228,7 @@ derivation and integration of process modules
 - measurement and system health measurement
 - system health and system collapse measurement
 
-# functional categories of signals for decisions:
+# Functional categories of signals for decisions:
 - (see hofstedter-gap)
 
 ## Standardization:
@@ -2237,10 +2237,10 @@ derivation and integration of process modules
 
 ## Decisions elections and types of questions
 
-## confronting antisocial behaviors, disinformation, and collapse 
+## Confronting antisocial behaviors, disinformation, and collapse 
 - e.g. when it masquerades as 'culture' 'tradition' etc.
 
-## forms and formats of data
+## Forms and Formats of Data
 - size
 - redundancy
 - anonymized

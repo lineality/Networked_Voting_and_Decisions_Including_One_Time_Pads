@@ -968,8 +968,7 @@ Does it make sense to have lower security standards around registration for voti
 # Voting, Contracts, and Smart Contracts:
 What are the feasible properties of smart contracts that relate to elections, either for their use in a particular situation or as a discussion to elucidate needs and functions?
 
-
-# voting office setup: Computer, OS, and Network security
+# Voting office setup: Computer, OS, and Network security
 What OS, what network architecture, and what cyber security strategies should/could voting offices use?
 - topic: stateless machines
 - topic: air-gapped machines
@@ -4110,7 +4109,7 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 # Group Agreed Upon Goal Means Methods Statements for Coordinated Decision Making
 - note: common areas of real or imagined dispute
 
-## levels of architectural mechanics
+## Levels of Architectural Mechanics
 - ranked choice, noise handling, and Shannon-Turing Unit-Communication
 - ranked choice in accurate option selection as a form of signal error checking
 

@@ -2709,9 +2709,7 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 - concurrent and parallel
 - Fuzzy and Discrete
 ### Tables, Graphs-Nodes and Vectors
-- 
 ### Liability and Sustainability Issues
-- 
 
 ## Design and deployment factors
 - "do one thing well"
@@ -2722,7 +2720,6 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 - databases
 - 'ownership' (as in the Uma signed data system)
 - single points of failure
-- 
 
 # Security: Type of attacks that cannot be entirely prevented:
 - social engineering attacks

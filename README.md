@@ -1185,7 +1185,24 @@ v5
 2. Schedule: (Duration; Start date; Iteration Interval)
 - timelines that need to be short but are never articulated or planned for are unlikely to usually spontaneously match the needed short scale planning needs.
 - timelines that need to be long but are never articulated or planned for are unlikely to usually spontaneously match the needed long scale planning needs.
-- undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
+-- undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
+- laxity about and absence of schedule fitness will increase the likelihood of standard, common, entirely predictable basic schedule problems, including:
+-- putting first steps such as planning, brainstorming and early drafts at or towards the end of the timeline
+-- not scheduling planning time
+-- not using planning time 
+-- miscalculating durations
+-- ignoring scheduled timelines
+-- refusing to communicate about schedules
+-- trying to force others to stop asking and talking about schedules
+-- replacing schedules
+-- having indeterminate schedule plans
+-- having simultaneous paradoxical schedules plans
+-- using nihilistic disinformation to discredit the value, function, and meaning of a schedule
+-- suddenly changing a schedule (or trying to), often at the last minute
+-- not having in scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely)). 
+
+
+
 3. Users: Stakeholders & Needs & Goals Evaluation (of users)
 -- not having and coordinating with users/stakeholders and their needs significantly raises the probability that the project will not improbably spontaneously meet their unknown and possibly unarticulated needs by accident.
 -- not properly doing a needs and goals evaluation significantly raises the risk of goals being either incorrectly identified, or having goals indefinitely changing or rotating between amorphous unexamined but often entirely predictable areas.
@@ -1219,7 +1236,8 @@ Tools, 'Tool Stack / Tech Stack',
 - Linearity and Nonlinearity
 
 
-## Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
+
+
 ## Advocacy and support tools for 'process' 
 #### Policy on Feedback, Errors, Mistakes, & Transparency: a process for reporting feedback (there needs to be a process and team-cultural permission to handle feedback and data): [2025.04.27]
 - handling the predictable 'culture vs. data' conflicts:
@@ -1781,7 +1799,7 @@ Voting and principles of security (ease of use vs. security etc)
 
 ## DNS policy:
 - direct DNS with no lookup
-- dns over https...
+- dns over https
 
 ## Modes for server posted material that cannot be altered by any command on that server
 
@@ -1802,7 +1820,6 @@ Conditional Expression and Signal Gaps: General Signal Processing And General In
 
 ## Mandate Mixtures
 How about a system where a candidate who get's less (or perhaps more too) than a given percentage is required to operate on a mandate system with mandates coming through a proportional consensus system kind of like a parliamentary coalition. 
-
 
 ## Layers of language and collective symbolism
 
@@ -1838,7 +1855,6 @@ electricity cost
 ## mapping schedule perception disorders
 ## solution-reification disorders
 ## What problems can be modeled as equilibria?
-## 
 
 # psychology of schedules (schedule psychology)
 - Can the answer to this question-set about the past "Is there anything you want me to improve on, do more of, do less of, start doing, or stop doing?" depend upon the future in such a way that the answer can be punted as depending on future events?
@@ -4953,3 +4969,20 @@ https://www.economist.com/finance-and-economics/2026/02/19/prediction-markets-ar
 https://www.economist.com/middle-east-and-africa/2026/03/15/open-source-intelligence-shuts-down
 
 
+
+
+...
+
+- putting first steps such as planning, brainstorming and early drafts at or towards the end of the timeline
+- not scheduling planning time
+- not using planning time 
+- miscalculating durations
+- ignoring scheduled timelines
+- refusing to communicate about schedules
+- trying to force others to stop asking and talking about schedules
+- replacing schedules
+- having indeterminate schedule plans
+- having simultaneous paradoxical schedules plans
+- using nihilistic disinformation to discredit the value, function, and meaning of a schedule
+- suddenly changing a schedule (or trying to), often at the last minute
+- not having in scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely). 

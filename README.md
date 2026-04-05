@@ -2457,7 +2457,7 @@ Perhaps as in the more or less deterministic actions of a compiler, what parts o
 - translation of instructions and procedures (automated options
 - character-set issues
 
-## dimensionality and statistical representations
+## Dimensionality and Statistical Representations
 - in various cases what we want from decision data are 
 lower dimensional representations of higher dimensional structures
 represented by low-dimensional language data from the participants
@@ -2563,9 +2563,9 @@ by Deborah M. Gordon
 
 # character sets, flexibility and security, ascii, fonts
 
-# conflict
+# Conflict
 
-# Automation and coordination
+# Automation and Coordination
 
 # Is there a way to standardize and automate statistical reporting on data throughout an 'election'?
 

@@ -4696,7 +4696,7 @@ by Blake J. Harris, Stephen Graybill, et al.
 https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 - open source study book...title? (no starch?)
 
-## Books on Privacy and Public Policy
+## Books on Privacy and Public Policy (and history of cybersecurity, and legal privacy)
 "Strangers and Intimates" Tiffany Jenkins ~2025
 
 ## Other Books

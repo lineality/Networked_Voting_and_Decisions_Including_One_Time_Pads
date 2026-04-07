@@ -2958,7 +2958,7 @@ Revisiting Edmond Burke:
 
 ## Managing different specific large and small unknown values, variables, and geometries
 
-## adversarial and stochastic
+## Adversarial and Stochastic
 - adversarial and stochastic inputs to automated coordinated decision making (indeterminate incompetence and malice
 
 ## operationally defining cases for indeterminate-incompetence-and-malice as part of system collapse 

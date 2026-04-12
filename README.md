@@ -2749,7 +2749,7 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 - map of process-step-analysis applications
 
 ## Short term project state, long term project state and object permanence
-- while some hominids have some object-permanence perception for some overt physical objects, when it comes to long term project state and causality the games of adults are frighteningly similar to games of children. Institutional decisions are made based on crude peek-a-boo brain stimulation either with no evidence of awareness of repeating long term patterns, or with evidence of a deliberate potemkin village to hide the permanent reality in order to cultivate a self-stimulation addiction. Every short term excuse becomes a grotesque generalization of a uniform past-present-future that endlessly changes state (in an amnesiac way where participants apparently have no memory or awareness of this constant change). 
+- While some hominids have some object-permanence perception for some overt physical objects, when it comes to long term project state and causality the games of adults are frighteningly similar to games of children. Institutional decisions are made based on crude peek-a-boo brain stimulation either with no evidence of awareness of repeating long term patterns, or with evidence of a deliberate potemkin village to hide the permanent reality in order to cultivate a self-stimulation addiction. Every short term excuse becomes a grotesque generalization of a uniform past-present-future that endlessly changes state (in an amnesiac way where participants apparently have no memory or awareness of this constant change). 
 A 'sport' example of this may be in international high level chess where the match commentary declares that whatever ephemeral prediction is made now is universally true for all past and future time, changing constantly in a disturbingly amnesiac way. (This may also be a kind of disease of hyperbolic-dialectical-journalism.)
 An institutional example of this borrowed from Daniel Kahneman may be where any short term or no-term abstract success indicator is used to declare an administrator 'always strong and victorious' or 'forever a weak loser' based on completely random noise that changes minute to minute.
 
@@ -2767,7 +2767,7 @@ An institutional example of this borrowed from Daniel Kahneman may be where any 
 - perceptions/schemas of causality
 - intertwined learning areas: articulation, perception, modeling/planning, learning
 
-## categories of CS operations involved in coordinated decision making
+## Categories of CS operations involved in coordinated decision making
 - are there any undefined-behavior or non-analytic components that are unavoidable?
 
 ## Red Herrings
@@ -2775,8 +2775,8 @@ An institutional example of this borrowed from Daniel Kahneman may be where any 
 -- discriminatory goals
 -- arbitrary fetish goals
 -- goals no one can justify or explain at all 
-- scope creep
-- scope drift
+- Scope creep
+- Scope drift
 - while true: processes stuck in loops
 
 ## Specialization, Representation, and contextual hierarchies of participants (2024.07.03)

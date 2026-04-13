@@ -1612,7 +1612,6 @@ Biases:
 
 ...
 
-
 ## Equilibria and Tautology: Repeating Invisible Liabilities
 
 ...
@@ -3606,6 +3605,9 @@ is a set of processes.
 2024.06.17
 -- Extremist Ideology
 -- The Tyranny of the Many
+
+## Decision Skills:
+What can be learned from comparing 'social story puzzles' and task-schedule ('pointless puzzles')? 
 
 ## Decision and Representation on small and large scales, public private sector, open source projects, etc. 
 2024.06.17

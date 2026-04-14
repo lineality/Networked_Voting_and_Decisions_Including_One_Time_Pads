@@ -1613,7 +1613,6 @@ Biases:
 ...
 
 ## Equilibria and Tautology: Repeating Invisible Liabilities
-
 ...
 
 General Participation & The Health of Systems
@@ -1621,7 +1620,6 @@ General Participation & The Health of Systems
 The shift from a simple set of goals into a set of goals much more affirmatively focused on protecting participation, communication, and coordination among diverse participants in a society. 
 
 This set goal could be stated as: Use STEM based methods and policies to help defend against disruption and collapse of communication and coordinated decisions in and across diverse groups and perspectives in project-complating societies with general participation of members. 
-
 ...
 
 # STEM and Participation
@@ -1655,7 +1653,6 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 - 
 
 ...
-
 
 # Whole Voting System
 - cross-platform
@@ -2205,7 +2202,7 @@ derivation and integration of process modules
 
 # Voting Statistic Package
 - frequentist
-- Baysian
+- Bayesian
 - data analysis
 - data visualization
 - statistics and machine learning

@@ -4725,7 +4725,6 @@ https://www.amazon.com/Origins-Political-Order-Prehuman-Revolution-ebook/dp/B004
 - note: balance between local 'kinship' and 'abstract' inter/intra local coordination
 Q: Scale
 
-
 # Books on Project Management
 ( )
 
@@ -4969,8 +4968,6 @@ https://www.economist.com/finance-and-economics/2026/02/19/prediction-markets-ar
 
 ~
 https://www.economist.com/middle-east-and-africa/2026/03/15/open-source-intelligence-shuts-down
-
-
 
 
 ...

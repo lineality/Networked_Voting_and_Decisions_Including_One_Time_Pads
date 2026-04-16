@@ -1810,7 +1810,7 @@ Voting and principles of security (ease of use vs. security etc)
 ## Micro Signal Coordination
 Cellular vs. Macro level for:
 Conditional Expression and Signal Gaps: General Signal Processing And General Instruction Management
-1. 'Artificial' Neural Networks and Neurons vs. Biological Signal Systems
+1. 'Artificial' Neural Networks (deep learning) and Neurons vs. Biological Signal Systems
 1.1  History
 1.2  Future
 2. Chimeric Conditional Expression of Genetic Stored Instruction

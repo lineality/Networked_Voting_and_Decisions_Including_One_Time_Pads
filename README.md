@@ -722,12 +722,9 @@ software platforms/languages:
 - it should be possible for an area to willingly hold an election and publish the results for them to be scrutinized as a fair and due process election without exposing security concerns or identities of any specific people involved
 - diasporic communities
 -"philes"?(sp?) (term Neal Stephenson term? distributed communities based on projects/interests/views?)
-- 
 
 ## pros and cons of methods of vote tallying:
 - decentralized vote handling...
-- 
-
 
 ## Managing Elections vs. managing Open-Source Projects
 - git
@@ -4985,3 +4982,13 @@ https://www.economist.com/middle-east-and-africa/2026/03/15/open-source-intellig
 - using nihilistic disinformation to discredit the value, function, and meaning of a schedule
 - suddenly changing a schedule (or trying to), often at the last minute
 - not having in scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely). 
+
+
+...
+
+https://www.economist.com/culture/2026/04/09/a-third-world-war-is-plausible-heres-how-to-avoid-one 
+Leaders should have speedy and secure means of communication, and meet in person regularly.
+
+
+...
+

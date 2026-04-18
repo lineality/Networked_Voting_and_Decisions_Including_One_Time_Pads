@@ -4615,7 +4615,7 @@ You will need to clearly describe your project manually, not being able to use a
 Undefined terms (one might say 'undefined behaviors') such as the term 'complexity' and 'complex' are often lethally toxic in project management. These terms defy definition and are weapons of system-collapse whether wielded by incompetence, malice, or perhaps more often 'indeterminate incompetence and malice' (which is not even recognized by most people as the real threat and actor that it is). If you encounter such a term, require that it is clearly defined or prohibit its use in planning. "I don't know what I want and I don't know what I'm doing and I don't know what I'm talking about." is not a project plan, outline, or proposal regardless of how much lipstick is used to rephrase it.
 
 
-# Project Areas: v12
+# Project Areas: v12 (see v17)
 - 1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
 - 2. Schedule: (Duration; Start date; Iteration Interval)
 - 3. Users: Stakeholders & Needs & Goals Evaluation (of users) 

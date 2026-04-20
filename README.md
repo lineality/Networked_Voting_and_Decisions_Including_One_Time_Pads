@@ -4804,17 +4804,22 @@ How not to lose your head
 Bartleby’s (May 31st) three principles when managers face a crisis of plan, decentralise and prioritise were firmly embedded a quarter of a century ago in the work of Karl Weick and Kathleen Sutcliffe, which emerged from their empirical research on a multitude of organisations, including defence forces, hospitals and first responders.
 
 They listed five principles (which some have expanded to seven): 
-1. expect failure; 
-2. be sensitive to what is happening—someone is paying attention—and do not wait for directions from headquarters; 
-3. do not simplify and take nothing for granted; 
-4. organise to expect challenge and change—help others and expect to be helped by others; and 
-5. maintain a deference to expertise.
+1. Expect failure; 
+2. Be sensitive to what is happening (someone is paying attention) and do not wait for directions from headquarters; 
+3. Do not simplify and take nothing for granted; 
+4. Organise to expect challenge and change -- help others and expect to be helped by others; and 
+5. Maintain a deference to expertise.
 
 These principles constantly stand the test of time, if only in retrospect, when failing organisations discover them afresh.
 
 J.M. Innes
 Adelaide, Australia
 """
+
+Note: "someone is paying attention" is ambiguous, I think "make sure that, do not assume that, someone on your project is paying attention" rather than an external-locus-of-control 'assume someone above and outside is paying attention to you' (though the original phrasing could be interpreted in a political-performance-first way). 
+
+Note: 'Do not simplify' is also ambiguous, given that failing to simply and use feedback is a main source of errors. Perhaps this means 'do not cut corners' or 'Do not change the scope by ignoring needs.' But this sounds dangerously close to 'do not start with a practical MVP, which would be puzzling advice. "Do not drop off and ignore whole sections of what you are asked to do." is practical and does fit a real-world pattern of people simply ignoring the task description and doing what they feel like (or due to negligent incompetence in not being aligned, though it frequently does happen with outright deliberation: "I do not care that the user said they need ABC-XYZ." vs. "I had no idea we were supposed to do that.")
+
 
 # Articles
 Zero Sum Games and the 'Zero Sum Mindset'

@@ -4391,6 +4391,7 @@ note: looking for references to this in Hobbe's discussion of perception and und
 
 ## OCR
 Where optical character recognition is used, what standards can be optional and in place for how unclear handwriting is handled. Including the question of whether OCR should be avoided.
+(Note: this is not a minor or marginal issue, document formatting and reading is a forever challenge. A significant factor may be the overwhelming force of people's drive to be in denial.)
 
 ## Finite(?) Modular Question and Decision Definition
 - selecting translating and connecting clearly defined units of question answer and decision

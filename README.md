@@ -1226,7 +1226,7 @@ Tools, 'Tool Stack / Tech Stack',
 -- Without timely iterative MVP deliverables, feedback from the user about features and usability will be significantly hindered.
 -- Without data and feedback about initial MVP outcomes, blindness will strangle the management of the project, coordination of people, and the management of resources.
 
-6. Feedback_Learning: Learning, Tests, Communication, Signals, Error-Data (how are errors, mistakes, et al handled and used), Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~Agile); Documenting-teaching-learning(skills); present skills, future skills (learning)
+6. Feedback_Learning: Learning, Tests, Communication, Signals, Error-Data (how are errors, mistakes, et al handled and used), Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~Agile); Documenting-teaching-learning(skills); present skills, future skills (learning) (Including routine checks such as "Is there anything to improve, do more of, do less of, start doing, or stop doing?")
 - Based on what signals will you define failure and orient to measure productivity?
 - Whether formal or informal there must be effective ways of communicating what has been done within the project-team and between the project-team and the user/stakeholder.
 - Long term maintainability involves communication (including with 'future you').
@@ -5003,4 +5003,11 @@ Leaders should have speedy and secure means of communication, and meet in person
 
 
 ...
+
+To heavily paraphrase John Adams:
+Giving illiterate people control of a bureaucracy is not democracy sending, receiving, and using accurate signals in a context of incentives; fantasy and populist madness of crowds are not empirical STEM.
+
+...
+
+
 

@@ -1489,8 +1489,8 @@ Stop these assumptions:
 - predictable most-common patterns: e.g. 'panic mode' mid-sprint in agile
 - predictable most-common bad strategies: overly blocking any management of a basic project area
 
-
-# Panic as a definable project space disfunction
+## "Panic" as a definable project-space disfunction
+- as a standard mode or equilibrium in an agile project time/work unit such as'sprint'/epic etc.
 
 ### Aspects of general junkfood behavior:
 (2025.01.16)

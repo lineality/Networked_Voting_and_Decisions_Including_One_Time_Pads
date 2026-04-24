@@ -1899,6 +1899,10 @@ https://www.economist.com/business/2025/10/16/why-bosses-need-to-wake-up-to-dark
 # Ballot Fraud Detection
 - Machine Learning and Fraud Detection 
 
+# Election Procedures and Best Practice 
+- https://www.economist.com/briefing/2026/04/23/might-donald-trump-try-to-rig-the-midterms 
+- https://www.economist.com/leaders/2026/04/23/america-is-vulnerable-to-electoral-vandalism 
+
 ## various kinds of disinformation relating to coordinated decisions:
 - inability to tell what is computer generated vs. real (may not be a deliberate attack, e.g. misunderstanding of ~art found online)
 - adversarial attacks on AI
@@ -2192,6 +2196,8 @@ derivation and integration of process modules
 - applications to clear language used
 - applications to issues and options
 - applications to best practice operations (for voting and for what is voted on)
+- https://www.economist.com/united-states/2026/04/21/our-midterms-forecast-predicts-pain-for-donald-trump
+- 
 
 ## Locus of Control
 - psychology of external locus of control
@@ -4719,7 +4725,6 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/B0FDH3Z3K6/
 Note: This book unfortunately sometimes uses the term 'process' interchangeably for compulsive-reification-distraction and imaginary rule-procedures about rule-procedures that are not anchored in reality: the is unfortunate and might be confusing to or misleading for people who are not familiar with the Agile or Kahneman-Tversky (or ecology) use of the term 'process' for navigating pragmatically and productively using feedback through distractions and unknowns to focus on measurable outcomes and system productivity. "Process" and "best practice" are important tools in the toolbox for productivity avoiding psychological/perceptual traps. 
 Then in chapter 3-4, the author refers to 'process' with a completely different and positive meaning, ~'process-knowledge' (a topic the economist remarked on regarding NASA loosing know-how after the 'moon-shot' self sabotaging of long term space plans). This focus on maintainability of technology, with the exellent analogy of the Ise-JIngu, is something that should be more discussed. But we should not overload the term 'process' in ways bound to cause confusion: naming things is hard. Do not give one thing two names; do not give two things one name.
 
-
 Lexicon issues aside... so far(still reading) this book is fabulous for cutting through and pointing out the de jure pathological 'anti-productivity' 'anti-maker' 'anti-engineering' 'anti-STEM' 'anti-data' wave of destructive extremist ideology that has been suffocating the USA. It is refreshing to hear a clear voice describing the disfunctional, culturally and psychological toxic, illiterate world I have been unendingly attacked by and have unsuccessfully tried to defend productivity against my entire life, briefly finding glimpses of sanity living abroad in Japan.
 All ~countries/nations/republics including the USA can and should achieve sanity and the ability to navigate: can and should. Just as families, communities, schools and institutions can and do teach and require hand-washing and biological epidemiology safeguards, so we can and should do the same for psychological/perceptual/linguistic hygiene. History is full of the 'disturbance regimes' of popular extremism that destroys geographies just like fires or diseases, yet this seems to be persistently invisible. We need to learn to be aware of this persistent problem.
 
@@ -4863,7 +4868,6 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247223
 https://www.linkedin.com/posts/flyvbjerg_why-so-many-it-projects-go-so-horribly-wrong-activity-7326395483646554112-UlzU
 The Uniqueness of IT Cost Risk https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247223 
 
-
 "ouija-board management: messages are being received even if none have actually been sent"
 https://www.economist.com/business/2025/10/02/how-bosses-unwittingly-exert-power 
 
@@ -4950,7 +4954,6 @@ https://www.economist.com/china/2026/01/28/xi-jinping-is-immensely-powerful-why-
 
 2. amazon. com/First-Principles-Americas-Founders-Learned/dp/B084RJ4PFZ/ 
 
-
 Also see William L. Shirer.
 
 ...
@@ -4978,7 +4981,6 @@ https://www.economist.com/finance-and-economics/2026/02/19/prediction-markets-ar
 ~
 https://www.economist.com/middle-east-and-africa/2026/03/15/open-source-intelligence-shuts-down
 
-
 ...
 
 - putting first steps such as planning, brainstorming and early drafts at or towards the end of the timeline
@@ -5000,7 +5002,6 @@ https://www.economist.com/middle-east-and-africa/2026/03/15/open-source-intellig
 
 https://www.economist.com/culture/2026/04/09/a-third-world-war-is-plausible-heres-how-to-avoid-one 
 Leaders should have speedy and secure means of communication, and meet in person regularly.
-
 
 ...
 

@@ -3081,7 +3081,8 @@ connecting Jan with open frameworks for
 - effects
 - terms
 
-## scalable modular infrastructure
+## Scalable Modular Infrastructure
+- design, communication, and maintainability 'standards'
 
 ## Administrative-State Project Statistics (connections and ambiguities of terms)
 - questions

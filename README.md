@@ -3775,6 +3775,9 @@ Role and Sources of Stochasticity in decision coordination:
 - Drift to arbitrary games
 - Drift to sport (uncivilized, as in Lear "I have seen drunkards do worse in sport.")
 
+## Types of Decisions by Types of Problem Spaces
+- https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles 
+
 ## Demand-Distortion
 - John Adams "It was all madness."　
 

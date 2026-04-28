@@ -1476,6 +1476,8 @@ Stop these assumptions:
 - mirages caused by collapse: 'bad planning' and the illusion of pejorative reifications
 - 'takeover' vs. 'vacuum', 'taken over by a vacuum'?
 
+## Errors, Mistakes, Decisions, Skills, Fitness, Perception, Projects
+
 ## Mapping Bad Equilibria in Mindspace
 - KT kahneman and tversky areas
 - agile areas

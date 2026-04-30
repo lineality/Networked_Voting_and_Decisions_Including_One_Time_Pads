@@ -2902,6 +2902,10 @@ context vs. cutup:
 
 # participation, populations, distillation
 
+# Perception, Gamification, Sportification, Signal and Signal Loss
+- super-signals, red herrings, potemkin villages
+- meaningful models 
+
 # anonymity and toxic behavior online
 - incentives and feedback in behavior
 - possible ongoing denial about the existence of toxic behavior

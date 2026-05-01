@@ -5021,4 +5021,10 @@ Giving illiterate people control of a bureaucracy is not democracy sending, rece
 ...
 
 
+First we shape our tools, then they shape us: (McLuhan et al)
+https://www.economist.com/united-states/2026/04/23/artificial-intelligence-is-creeping-into-american-lawmaking 
+
+
+...
+
 

@@ -5007,7 +5007,6 @@ https://www.economist.com/middle-east-and-africa/2026/03/15/open-source-intellig
 - suddenly changing a schedule (or trying to), often at the last minute
 - not having in scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely). 
 
-
 ...
 
 https://www.economist.com/culture/2026/04/09/a-third-world-war-is-plausible-heres-how-to-avoid-one 
@@ -5023,7 +5022,6 @@ Giving illiterate people control of a bureaucracy is not democracy sending, rece
 
 First we shape our tools, then they shape us: (McLuhan et al)
 https://www.economist.com/united-states/2026/04/23/artificial-intelligence-is-creeping-into-american-lawmaking 
-
 
 ...
 

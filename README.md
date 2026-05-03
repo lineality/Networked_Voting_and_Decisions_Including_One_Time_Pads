@@ -594,7 +594,6 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 Details depend on the file system being used.
 Question: If an anonymized blockchain system is used, is there a need to encrypt the submitted ballot? e.g. could the ballot have an anonymized id?
 
-
 #### Step 9: (Voter Submit encrypted-ballot over network) 
 Question: recommended methods?
 Some kind of MFA? 
@@ -2077,7 +2076,7 @@ derivation and integration of process modules
 
 # Participant and Rules based process for maintaining and publishing about voting system and election
 
-## universal requirements?
+## Universal Requirements?
 1. Externalize, Show work: show all your steps.
 2. Be clear about your project-context.
 3. check your work / peer checking

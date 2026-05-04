@@ -3322,6 +3322,8 @@ types/categories:
 ## example from history and educational stories:
 - The Heike Monogatari
 
+## The mechanics of contraction into short-term distortions
+
 ## Distributed, Bulk and Batch operations:
 - managing 'voter' databases: 
 -- outreach

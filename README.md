@@ -979,6 +979,8 @@ What OS, what network architecture, and what cyber security strategies should/co
 - instruction
 - surveying and analysis
 - certification
+- curricula
+- data on skill proficiency and fitness
 
 # Perception-Abstraction and disruptive effects of some processes of observation
 
@@ -4185,6 +4187,9 @@ etc.
 - The Non-Computer-Science-Design of Scientific-Notation and The Historical Problem of Float-Math
 
 # strict efficiency and emergency standards and limits
+
+# STEM, Education & Project Management: Non-Investment vs. Classic Tragedy of The Commons [2026 05 04]
+- The classic (if somewhat apocryphal) tragedy of the commons is the principle (perhaps related to basic supply and demand) that without any incentive to invest in or produce anything, that item will not be invested in or produced. In the case of STEM, Education, and Project Management we have a less immediately intuitive situation, where despite a strong and clear incentive to invest, there is a predominant ongoing refusal to invest despite a constant on ongoing recognition and protestation against the liabilities and harmful effects (e.g. constantly registering the loss of time due to missing or incorrect code documentation while never investing in that needed code documentation).
 
 ## scalability in the problem space of coordinated decision making
 

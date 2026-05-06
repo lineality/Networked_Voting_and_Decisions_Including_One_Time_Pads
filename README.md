@@ -2991,7 +2991,14 @@ Revisiting Edmond Burke:
 ## Historical and future role of Universities
 (2024.09.25)
 
-## psychology and coordinated decisions
+## Psychology and Coordinated Decisions
+- STEM
+- errors
+- feedback
+- awareness of non-automatic learning
+- project skills
+- specific: the behavioral psychology of schedules
+- investment in system-fitness
 
 ## psychology of repeating the same mistakes indefinately
 - What is going on? We have to figure this out.

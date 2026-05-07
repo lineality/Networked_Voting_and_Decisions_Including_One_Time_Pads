@@ -2089,6 +2089,9 @@ derivation and integration of process modules
 
 ## the importance of open-source for software testing
 
+## Coordinated Decisions and externalized project-state in something like-ish game-theory:
+- https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles 
+
 ## Automation and Voting Systems
 
 ## Checks & Balances & Adam's Creed:

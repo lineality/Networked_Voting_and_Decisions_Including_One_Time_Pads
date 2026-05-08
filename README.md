@@ -932,7 +932,7 @@ Question: possible requiring of ballot being completely filled out
 - externalization without binary serialization
 - maybe field length and type meta-data handling
 
-## automating speaking-time at events such as debates
+## automating/managing speaking-time at events such as debates
 - defining and classifying bad actors
 
 ## types of bytes in coordination data
@@ -2043,6 +2043,10 @@ Episode #940 | 19 Sep 2023 | 104 min.When Hashes Collide
 - time-planning costs
 - high level costs
 - incentives for participants: do any participants have an incentive to dismantle the entire system and or the providing of user-needed services? (e.g. upgrading the system to better meet the needs is not bad, but dismantling and upgrading can become ambiguous, as with the 1990's bank-mergers the closed down banks of the closing of local newspapers, was that optimal to meet user needs? (on the other hand, keeping an ineffective operation going for the sake of it (Stalin's regime?) is also not a good option)
+
+# Definitions of administration and definitions of fraud, crime, corruption, bad actors, disinformation, nihilism, cynicism, and system collapse
+- It is not sustainable to have ambiguous overlap between definitions of good-governance and bad-governance; it is not viable to have the definition of a responsible administrator being the same as the definition of a criminal bad actor. In the English language this is probably not an easy problem to solve, because of the unfortunate pejorative meaning of the terms "political" and "politics"
+
 
 ## details of confirming voter choice data-types:
 string check
@@ -5031,7 +5035,7 @@ Leaders should have speedy and secure means of communication, and meet in person
 ...
 
 To heavily paraphrase John Adams:
-Giving illiterate people control of a bureaucracy is not democracy sending, receiving, and using accurate signals in a context of incentives; fantasy and populist madness of crowds are not empirical STEM.
+Giving illiterate people control of a bureaucracy is not democracy sending, receiving, and using accurate signals in a context of check-and-balance incentives; fantasy and populist madness of crowds are not empirical STEM.
 
 ...
 

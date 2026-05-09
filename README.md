@@ -2599,6 +2599,12 @@ by Deborah M. Gordon
 - see automated benchmarks
 - decision coordination and STEM (see Online Voting Using One Time Pads github >= v76)
 
+## Specific types of decision coordination skills, fitness, tasks, metrics:
+- object perminance skills(?)
+- specific schedule/time related skills(?)
+- by project area?
+- negatively defined / testable skills?
+
 # modeling, testing, benchmarking
 - the need to specify what exactly is meant contextually by 'model'
 - tests for a given system, tool, etc.

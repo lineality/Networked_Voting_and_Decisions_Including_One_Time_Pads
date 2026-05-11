@@ -2600,7 +2600,7 @@ by Deborah M. Gordon
 - decision coordination and STEM (see Online Voting Using One Time Pads github >= v76)
 
 ## Specific types of decision coordination skills, fitness, tasks, metrics:
-- object perminance skills(?)
+- object permanence skills(?)
 - specific schedule/time related skills(?)
 - by project area?
 - negatively defined / testable skills?

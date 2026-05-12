@@ -2920,6 +2920,17 @@ context vs. cutup:
 - super-signals, red herrings, potemkin villages
 - meaningful models 
 
+## Sport Perceptions of Process, Administration, Governance, and Political Process
+- 
+- In education
+
+### Teaching Civics, Coordinated Project Training
+(2026.05.11)
+- Can-Do statements from definition behavior studies
+- Feedback based, game-based, training
+- Specifically monitoring for bad equilibria (sport-gang psychology, gambling psychology, known prospect-theory biases, standard schedule mismanagement areas, each project area, etc.)
+
+
 # anonymity and toxic behavior online
 - incentives and feedback in behavior
 - possible ongoing denial about the existence of toxic behavior

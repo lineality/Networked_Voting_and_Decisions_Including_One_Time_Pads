@@ -3759,7 +3759,7 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 ## Institutions:
 - What is the difference between an oppressive institution that stifles society, and a productive institution in a check-and-balance ecosystem? 
 When productive diverse-institution countries look at desert-theocracies:
--- Alfred W. Crosby quote on middle east view of europe pre-renaissance,
+-- Alfred W. Crosby quote on middle east view of europe pre-renaissance
 
 ## standard task and behavior benchmarks
 - coordination
@@ -3792,7 +3792,7 @@ Role and Sources of Stochasticity in decision coordination:
 ## Mapping out STEM and communication protocols
 - medicine in STEM
 - network 'layers'
-- Hobbes, Montesquieu, Franklin Challenges
+- Hobbes, Montesquieu, Franklin, Challenges
 
 # Hobbes and Fukuyama
 - describing apparent equilibria

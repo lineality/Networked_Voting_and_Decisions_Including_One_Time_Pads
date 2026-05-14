@@ -2516,6 +2516,8 @@ The Ecology of Collective Behavior Paperback – October 24, 2023
 by Deborah M. Gordon 
 - alternatives to whole-part contexts
 
+## Planning and the Cost of Coordination
+
 ## Case studies in ideas and literature
 
 # direct programming: coordinated decisions and moving parts

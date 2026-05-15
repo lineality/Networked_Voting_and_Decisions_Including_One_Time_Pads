@@ -3557,6 +3557,13 @@ Types of 'state'? (as in values being odd in lambda-calc?)
 - radicalization, extremism, demand-distortion, and 'rip-off economy' 'bad actors'(terminology from The Economist) 
 - bubble echo-chambers can exacerbate
 
+# Balancing Types:
+- "symbolic" (horrible misnomer) computation and structured data
+- statefull systems
+- stateless "sub-symbolic" processes
+- coordination protocols
+
+
 # Best Practice
 ## Definition Behavior & System Collapse
 ## Tools for Project Management (non-collapsing projects)

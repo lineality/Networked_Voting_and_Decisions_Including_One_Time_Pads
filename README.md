@@ -3507,7 +3507,7 @@ temporal measures of legibility
 2025.02.17
 - history of bad technology use and planning
 
-## System design
+## System Design
 - secure by design
 - trust vs. trust-less
 - permissions vs. no-permissions
@@ -3531,7 +3531,7 @@ temporal measures of legibility
 - Health, long-term and sustainability
 - information-resources and data-ecology
 
-## trade offs and contexts for optimization
+## Tradeoffs and Contexts for Optimization
 
 ## data ~handling policy:
 - function-equation data 
@@ -3562,7 +3562,6 @@ Types of 'state'? (as in values being odd in lambda-calc?)
 - statefull systems
 - stateless "sub-symbolic" processes
 - coordination protocols
-
 
 # Best Practice
 ## Definition Behavior & System Collapse

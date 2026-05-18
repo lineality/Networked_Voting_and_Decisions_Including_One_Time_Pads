@@ -1485,6 +1485,10 @@ Stop these assumptions:
 - areas known since greece
 - survival of mind issues
 
+## Sport and Sportsmanship
+- lexicon in Shakespeare
+- "hooligan'
+
 # Survival of Mind
 - to what extent can habitability conditions be modeled in a stable-enough way?
 - the psychology of illusions, the dynamics of getting disconnected from reality
@@ -5068,6 +5072,24 @@ Giving illiterate people control of a bureaucracy is not democracy sending, rece
 First we shape our tools, then they shape us: (McLuhan et al)
 https://www.economist.com/united-states/2026/04/23/artificial-intelligence-is-creeping-into-american-lawmaking 
 
+
+
+
+
+...
+
+More maddness of crowds and other issues, waves of 'exciting' extreamist populism
+
+https://www.economist.com/britain/2026/05/14/how-tommy-robinson-gained-extraordinary-influence 
+
+
 ...
 
 
+The topic of designing voting systems, from first-past-the-post, to run-off, to proportional-representation, etc., this is an important topic.
+
+There are a number of articles and hopefully studies about this in the 2020's in the UK as marginal-differences lead to exagerated election outcome differences.
+
+https://www.economist.com/britain/2026/05/14/who-can-save-the-labour-party 
+
+...

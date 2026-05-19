@@ -3297,6 +3297,13 @@ In any given human endeavor where there appears to be some relative success and 
 - ideology (e.g. from French revolution)
 - optimism (From Candid)
 
+## Moron-Farming
+- circle of 'yes-men'
+- "I choose to surround myself with the least qualified people."
+- potemkin-villages
+- Anne Applebalm's introduction to 'Twilight of democracy'
+
+
 ### What does it mean to discuss a topic?
 - Listening
 - Questions

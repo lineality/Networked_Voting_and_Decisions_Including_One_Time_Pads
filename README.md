@@ -5085,7 +5085,7 @@ https://www.economist.com/united-states/2026/04/23/artificial-intelligence-is-cr
 
 ...
 
-More maddness of crowds and other issues, waves of 'exciting' extreamist populism
+More madness of crowds and other issues, waves of 'exciting' extremist populism
 
 https://www.economist.com/britain/2026/05/14/how-tommy-robinson-gained-extraordinary-influence 
 
@@ -5095,7 +5095,7 @@ https://www.economist.com/britain/2026/05/14/how-tommy-robinson-gained-extraordi
 
 The topic of designing voting systems, from first-past-the-post, to run-off, to proportional-representation, etc., this is an important topic.
 
-There are a number of articles and hopefully studies about this in the 2020's in the UK as marginal-differences lead to exagerated election outcome differences.
+There are a number of articles and hopefully studies about this in the 2020's in the UK as marginal-differences lead to exaggerated election outcome differences.
 
 https://www.economist.com/britain/2026/05/14/who-can-save-the-labour-party 
 

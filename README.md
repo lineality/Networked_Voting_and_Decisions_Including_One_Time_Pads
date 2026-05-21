@@ -3570,7 +3570,7 @@ Types of 'state'? (as in values being odd in lambda-calc?)
 
 # Balancing Types:
 - "symbolic" (horrible misnomer) computation and structured data
-- statefull systems
+- stateful systems
 - stateless "sub-symbolic" processes
 - coordination protocols
 
@@ -4278,10 +4278,10 @@ data engineering:
 - data for graphs?
 - data for vectorization
 
-## voting system logs and transparency
+## Voting System Logs and Transparency
 - network monitor logs
 
-## do one things well, limited functionality
+## do one thing well, limited functionality
 - 'living off the land' attacks
 
 ## The need for a resource-thin framework

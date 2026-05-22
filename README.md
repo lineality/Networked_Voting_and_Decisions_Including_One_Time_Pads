@@ -2585,7 +2585,7 @@ by Deborah M. Gordon
 - 2006 embedded systems context
 - 2026 systems programming context
 
-# character sets, flexibility and security, ascii, fonts
+# Character sets, flexibility and security, ascii, fonts
 
 # Conflict
 
@@ -2597,7 +2597,14 @@ by Deborah M. Gordon
 - minimal
 - secure
 
-### social problems with best practice not being observed
+### Social problems with best practice not being observed
+- project skills
+- social-story skills
+- object permanence
+- project object permanence
+- energy quantizing
+- sally-anne type point of view 
+- cut-up projects
 
 ## coordinated decisions in open, closed, and semi-closed data-ecosystems
 

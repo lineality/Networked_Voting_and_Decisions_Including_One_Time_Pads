@@ -2095,7 +2095,7 @@ derivation and integration of process modules
 
 # on productures, "trust", measures, standards, and ethics
 
-## the importance of open-source for software testing
+## The importance of open-source for software testing
 
 ## Coordinated Decisions and externalized project-state in something like-ish game-theory:
 - https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles 

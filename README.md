@@ -1937,6 +1937,14 @@ https://www.economist.com/business/2025/10/16/why-bosses-need-to-wake-up-to-dark
 - quarums
 - "ticket"-requests
 
+### Modular Processes and Applications: Ants and Horses
+- Uma for planning a decision/vote
+- Uma for the logistics of a decision/vote
+- Uma for data analysis of logistics
+- Uma for data analysis of decision/choices/signals/votes
+- Uma as an ecosystem of interaction modules, including those operating outside of uma itself: detached distributed platform applications.
+- Uma's application layer
+
 ## Formalities of Biology and STEM and Choices in Epiphenomena
 
 ## Modular vs. non-modular 'objects' and processing
@@ -5086,19 +5094,13 @@ Giving illiterate people control of a bureaucracy is not democracy sending, rece
 First we shape our tools, then they shape us: (McLuhan et al)
 https://www.economist.com/united-states/2026/04/23/artificial-intelligence-is-creeping-into-american-lawmaking 
 
-
-
-
-
 ...
 
 More madness of crowds and other issues, waves of 'exciting' extremist populism
 
 https://www.economist.com/britain/2026/05/14/how-tommy-robinson-gained-extraordinary-influence 
 
-
 ...
-
 
 The topic of designing voting systems, from first-past-the-post, to run-off, to proportional-representation, etc., this is an important topic.
 

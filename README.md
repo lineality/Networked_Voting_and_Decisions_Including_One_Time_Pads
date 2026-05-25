@@ -2424,7 +2424,7 @@ or in category or finite choice selection
 
 Equivalence and Non-equivalence in representation of situations and choices.
 
-## project definition frameworks
+## Project definition frameworks
 - metadata
 - standard formats
 

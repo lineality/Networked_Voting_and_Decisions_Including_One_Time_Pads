@@ -1,4 +1,5 @@
 ##### Networked_Voting_and_Decisions_Including_One_Time_Pads
+gga, 2021.01-...
 - https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads/
 
 # Decision Coordination: General and Specific
@@ -1644,8 +1645,6 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 - 36 years as required age of person to be able to be elected
 (issues around this)
 - alternatives to age for fitness measures
-
-....
 
 # Auditing Election Processes (vs. specific elections):
 - operationally defining problems with election procedures
@@ -3494,6 +3493,41 @@ vs.
 ## Parties, history of representation
 
 ## Mandates, history of representation
+
+# Abstract Negotiation:
+- https://arxiv.org/abs/2605.22855
+
+# Abstract Voting:
+- Nice reference section in  https://arxiv.org/pdf/2605.22846 An Axiomatic Theory of Tie-Breaking: Impossibility, Characterization, and Decomposition Frank M. V. FeysMay 25, 2026
+- https://link.springer.com/book/10.1007/978-3-642-57748-2 Donald G. Saari, Basic Geometry of Voting, Springer, Berlin, 1995
+Kenneth J. Arrow, Social Choice and Individual Values, 2nd ed., Cowles Foundation Mono-
+graph 12, Yale University Press, New Haven, 1963.
+- Laurent Bartholdi, Wade Hann-Caruthers, Maya Josyula, Omer Tamuz, and Leeat Yariv,
+Equitable voting rules, Econometrica 89 (2021), no. 3, 1463–1483.
+- Daniela Bubboloni and Michele Gori, Anonymous and neutral majority rules, Social Choice
+and Welfare 43 (2014), no. 2, 377–401.
+- Daniela Bubboloni and Michele Gori, Resolute refinements of social choice correspondences,
+Mathematical Social Sciences 84 (2016), 37–49.
+- Daniela Bubboloni and Michele Gori, Breaking ties in collective decision-making, Decisions
+in Economics and Finance 44 (2021), no. 1, 411–457.
+- László Csató, On the ranking of a Swiss-system chess team tournament, Annals of Operations
+Research 254 (2017), no. 1–2, 17–36.
+- Allan Gibbard, Manipulation of schemes that mix voting with chance, Econometrica 45
+(1977), no. 3, 665–681.
+- Felix Brandt, Vincent Conitzer, Ulle Endriss, Jérôme Lang, and Ariel D. Procaccia (eds.),
+Handbook of Computational Social Choice, Cambridge University Press, Cambridge, 2016.
+- Hervé Moulin, The Strategy of Social Choice, Advanced Textbooks in Economics 18, North-
+Holland, Amsterdam, 1983.
+- Donald G. Saari, Basic Geometry of Voting, Springer, Berlin, 1995.
+- Julius Petersen, Die Theorie der regulären graphs, Acta Mathematica 15 (1898), 193–220.
+- Lloyd S. Shapley, A value for n-person games, in Contributions to the Theory of Games,
+Volume II (H. W. Kuhn and A. W. Tucker, eds.), Annals of Mathematics Studies 28,
+Princeton University Press, Princeton, 1953, pp. 307–317.
+- Lirong Xia, Most equitable voting rules, in Proceedings of the 24th ACM Conference on
+Economics and Computation (EC ’23), 2023, pp. 1133–1162.
+- Lirong Xia, Computing most equitable voting rules, in Proceedings of the 20th Conference
+on Web and Internet Economics (WINE ’24), 2024
+
 
 # Modeling the space of definitions for coordinated decision projects
 (2024.08.30)

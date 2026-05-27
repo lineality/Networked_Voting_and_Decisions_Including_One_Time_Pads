@@ -3361,7 +3361,7 @@ types/categories:
 - post-participants
 - partial/contextual-participants
 
-## ad-hoc Systems
+## Ad-Hoc Systems
 -
 
 ## Participation, representation, and ways to avoid some groups as being defined outside of the ability to participate:
@@ -5141,5 +5141,10 @@ The topic of designing voting systems, from first-past-the-post, to run-off, to 
 There are a number of articles and hopefully studies about this in the 2020's in the UK as marginal-differences lead to exaggerated election outcome differences.
 
 https://www.economist.com/britain/2026/05/14/who-can-save-the-labour-party 
+
+...
+
+# As of 2026 there is no simple universal solution to the question of how to balance dense-urban and sparse rural areas for voting (it is unlikely that there is a single simplistic approach to a class of problems). The USA and India are two case studies:
+https://www.economist.com/asia/2026/05/17/indias-loudest-political-fight-obscures-a-more-urgent-one 
 
 ...

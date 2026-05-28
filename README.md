@@ -359,6 +359,7 @@ To improve accessibility, it is conceivable that some local voting systems would
 -- modeling decision outcomes
 -- 
 
+
 # Security Section
 ### Additional steps can be taken to increase security. 
 #### For example: 
@@ -1655,7 +1656,6 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 - security audit
 - long term data storage and records audit
 - step by step audit of process?
-
 ...
 
 ## incentives and long term incentives

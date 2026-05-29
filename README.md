@@ -3164,7 +3164,7 @@ connecting Jan with open frameworks for
 
 ## Projects, Puzzles, Games, Tests
 (2024.09.12)
-- fittness
+- fitness
 - feedback
 - learning
 - skill/ability

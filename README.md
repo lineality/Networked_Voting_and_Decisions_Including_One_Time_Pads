@@ -1881,6 +1881,12 @@ electricity cost
 https://www.economist.com/business/2025/10/16/why-bosses-need-to-wake-up-to-dark-patterns
 - "to eschew dark patterns is that they can hurt their firms’ long-term interests. Consumers dislike egregious attempts to manipulate them into buying things: the study by Messrs Luguri and Strahilevitz found that aggressive techniques upset the consumers"
 - "patterns can replicate without much thought. According to Marie Potel, a co-founder of Fair Patterns, a firm that helps to fix dark patterns, problematic designs are often cut and pasted from standard templates."
+
+
+### Nihilism and Short Term Thinking
+Is there a pattern whereby nihilism ends up aligning with short term fraud and fanticism, for example in the perhaps measurable sales-fraud, potemkin village, shoot the messenger, 
+relating weak business leadership to 'political' populist extremism?
+
 ### Detection of short term and long term problems
 - short cycle bubbles (fewer than 5 years)
 - indefinite embedded long term problems 
@@ -2880,6 +2886,11 @@ e.g. more and less quantifiable and defined topics.
 - process Assets and liabilities
 - context specific assets and liabilities
 
+# War
+
+## Monetesque and the archetype of the Arena: If war is a sport, does an ~international community need to create an 'Arena' space to distance long term habitats from the attractor of sport-thrill?
+[2026 05 29]
+
 # Projects 
 (2024.08.09)
 - project psychology
@@ -3551,6 +3562,8 @@ from decentered /decentralized elections and networks to centralized political p
 # STEM Perception and Psychology of Metrics
 - Measures
 - Scores
+
+
 
 ## Applications of Mandate-Based Systems
 

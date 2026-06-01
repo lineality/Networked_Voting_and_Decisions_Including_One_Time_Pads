@@ -501,7 +501,6 @@ Other methods such as chains-of-trust may be useful to harden thrifty online sys
 - data format / presentation format 
 - character type...ascii?
 
-
 # Proposed Steps for Practical Secure Online Voting (section under construction)
 
 For a voting system to be practical, the requirements for implementation and assumptions about what resources voters have must align and align with reality. 
@@ -5136,7 +5135,6 @@ To heavily paraphrase John Adams:
 Giving illiterate people control of a bureaucracy is not democracy sending, receiving, and using accurate signals in a context of check-and-balance incentives; fantasy and populist madness of crowds are not empirical STEM.
 
 ...
-
 
 First we shape our tools, then they shape us: (McLuhan et al)
 https://www.economist.com/united-states/2026/04/23/artificial-intelligence-is-creeping-into-american-lawmaking 

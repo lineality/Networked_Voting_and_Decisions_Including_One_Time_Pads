@@ -5159,3 +5159,10 @@ https://www.economist.com/britain/2026/05/14/who-can-save-the-labour-party
 https://www.economist.com/asia/2026/05/17/indias-loudest-political-fight-obscures-a-more-urgent-one 
 
 ...
+
+Shashank Joshi, Defence editor at The Economist
+
+It is a fool’s errand to predict what war will look like in the future. In a wonderful lecture, delivered in 1961 to the Royal United Services Institute (RUSI), a think-tank in London, Michael Howard, a great historian, warned: “The soldier has to steer between the danger of repeating the errors of the past because he is ignorant that they have been made, and the danger of remaining bound by theories deduced from past history although changes in conditions have rendered these theories obsolete.”
+
+...
+

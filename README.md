@@ -4109,10 +4109,10 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 ## reporting
 ### data visualization
 
-## useful, practical, finite character sets for standard use:
+## Useful, practical, finite character sets for standard use:
 - ascii is a bit too small
 - unicode utf8 is too large
-- instruction characters are still needed
+- Instruction characters are still needed
 - character-sets, language archeology, and the katakana (or romaji-katakana) approach for language approximation
 
 ## How to measure lack of understanding, lack of communication:
@@ -4126,7 +4126,7 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 ## Safeguards and Hygiene in Coordination
 2024.09.13
 
-## write-in options
+## Write-in options
 - multiple choice vs. free response systems
 - equivalence and deterministic handling of options
 

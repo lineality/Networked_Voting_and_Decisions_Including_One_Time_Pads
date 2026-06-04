@@ -2340,15 +2340,15 @@ derivation and integration of process modules
 - Project Neem
 - Project Uma
 
-## operationally defining freedom for free elections: see
+## Operationally defining freedom for free elections: see
 From Sin-obsessed-authoritarianism to Naive-rebellion-revolution to 1970's denial-ism, to 2020-Information-War from/in
 The Spirit of The Code
 From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund Burke: Edmund Burke, Jeffrey Hinton, and the Evolution of STEM in Culture and AI-Computer-Science in Practice
 2024.02.20-22
 
-## long term infrastructure costs
+## Long term infrastructure costs
 
-# platform and OS safety policies
+# Platform and OS safety policies
 - OS update policies
 - choice of OS
 - factors
@@ -2370,14 +2370,14 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 - 'magical thinking'
 - learned helplessness
 
-## interconnected decision events
+## Interconnected decision events
 - interaction and feedback
 
 ## Responsibility, STEM & Values 
 (2024.10.05)
 - Is responsibility being fraudulently obfuscated?
 
-### abstractness or concreteness of designs and interfaces
+### Abstractness or concreteness of designs and interfaces
 - clarity of definition
 
 # short term long term disjunctions / long term short term disjunctions
@@ -2405,7 +2405,7 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 -- cryptography
 -- communication theory ('information theory')
 
-## constructive or collapse-inducing sport and gamification of process
+## Constructive or collapse-inducing sport and gamification of process
 in all parts and discussions of coordinated decisions
 - simplification, gamification, definition, perception,and coordination
 - function and fiction in gamification-simplification of vague processes.

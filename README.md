@@ -11,13 +11,13 @@ gga, 2021.01-...
 ## Part 2: Practical-&-Secure Online-Voting
 ## Part 3: Whole-Election and Vote-Analysis Platforms
 ## Part 4: Generalized Decision Coordination
-- https://github.com/lineality/object_relationship_spaces_ai_ml 
-- https://github.com/lineality/definition_behavior_studies 
+- https://github.com/lineality/object_relationship_spaces_ai_ml
+- https://github.com/lineality/definition_behavior_studies
 ### Bibliography & Resources
 
 # Clarifying Goals and Questions:
 - Main Goal: Systematize secure online voting.
-- Main Questions: 
+- Main Questions:
 #### 1. Is secure-auditable online-voting possible in principle?
 #### 2. Is reliable online-vote-result-publishing possible in principle?
 #### 3. Can election-processes and election-results-publishing be feasibly, sustainably, pragmatically, realistically, implemented given real world limitations on resources? How is security measured? What specific measures are required for security to be sufficient?
@@ -30,9 +30,9 @@ gga, 2021.01-...
 ## Questions For Clarification
 To clarify goals and questions, below are two lists of questions. Below is a list of questions that we ARE attempting to answer with this project, and below is another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help with focus, so that questions we are NOT asking do not become confused with questions that we ARE asking.
 
-### Questions to answer and focus on include the following: 
-1. Is secure over-a-network(online) voting possible? (Here 'secure' is defined as being 'as secure as a non-networked paper-ballot-voting-system.') 
-2. Is it possible for a voter to securely receive a ballot from a Vote-Office over-a-network(online)? 
+### Questions to answer and focus on include the following:
+1. Is secure over-a-network(online) voting possible? (Here 'secure' is defined as being 'as secure as a non-networked paper-ballot-voting-system.')
+2. Is it possible for a voter to securely receive a ballot from a Vote-Office over-a-network(online)?
 3. Is it possible for a voter to submit a ballot securely over-a-network(online)?
 4. Is it possible for a voting-office to securely receive a completed ballot from the voter over-a-network(online)? [Including: verifying what ballot was used, verifying who submitted the ballot, checking for over errors in filling out the ballot]
 5. Is there an effective equivalent of 'encryption' to allow non-tampering over-a-network?
@@ -41,11 +41,11 @@ To clarify goals and questions, below are two lists of questions. Below is a lis
 8. What is the best way, or what are the best ways, of concretely defining "over-a-network(online)"?
 9. What specific instances are there of voting within systems and projects that share the same core processes of choice, voting, and decision making, coordination, etc., while covering applications beyond the single instance of, for example, US national presidential elections, and that cover more partially or entirely automated systems?
 
-## Questions that we are NOT attempting to answer and that we are NOT focusing on in this project include the following: 
+## Questions that we are NOT attempting to answer and that we are NOT focusing on in this project include the following:
 1. NOT: Can online voting be an absolutely effortless and perfectly ecstatic experience?
-2. NOT: Can a person outside of the direct-voting-process be provably safe from any voter intimidation, coercion, brainwashing, threats, harassment, discouragement, etc? 
-3. NOT: Can a person make no mistakes while filling out their ballot? (Though some additional safeguards from this have been successfully used in some states.See reference.) 
-4. NOT: Can the physical offices of staff be absolutely impenetrable to a physical break-in or loss of records due to causes such as fires. 
+2. NOT: Can a person outside of the direct-voting-process be provably safe from any voter intimidation, coercion, brainwashing, threats, harassment, discouragement, etc?
+3. NOT: Can a person make no mistakes while filling out their ballot? (Though some additional safeguards from this have been successfully used in some states.See reference.)
+4. NOT: Can the physical offices of staff be absolutely impenetrable to a physical break-in or loss of records due to causes such as fires.
 5. NOT: Can hecklers and trolls be prevented from criticizing, slandering, and defaming, the election and election process even when or where there is nothing legitimate to criticize?
 6. NOT: Can all disinformation campaigns be eliminated/precluded/etc.?
 
@@ -57,7 +57,7 @@ To clarify goals and questions, below are two lists of questions. Below is a lis
 # Concept: Universality, Voting-Procedures and Voting-Processes
 The view taken here is that 'voting' is a science-like process. Voting is based on procedures, numbers, measurements, feedback, and data. Voting is neither based on nor negated by not-operationally-defined essences, reifications, fears, dramas, feelings, threats, wishes, trust, authorization, belief-ness, faith, tradition, habits, permission, labels, declarations, blustering, doubts, etc. A vote is like a physical piece of machined metal; A vote exists or does not exist with the measurable features that it has, and these measurable features are and must be measurable and confirm-able by anyone who measures it. The behavior and functionality of a vote is equivalent to that vote's repeatedly measurable features. Any group of people who carry out the STEM-math-science-data process of best-practice-voting have performed voting in a way that can be audited, measured, repeated, clearly discussed, debugged, and results published. No group of people can skip or shortcut required STEM-math-science-data processes without having skipped those required STEM-math-science-data processes. As with a surgeon washing their hands before surgery, "trust" is a term better used to mean that you trust the surgeon IS following best practice, though even then it is best to verify without trust that best practice is being followed. Under no circumstances can (so called) 'trust' replace or permit the skipping of best-practice-processes for people or groups, however much disinformation may demand and violently seek to enforce exemptions from best-practice-processes. In other words, if a person or group says "You MUST trust me, so I do NOT need to wash my hands before performing surgery on you, or processing your vote, in a best practice auditable way", you are by definition being subjected to violence, coercion, fraud, disinformation, and classically-defined tyranny.
 
-(General best practice, systems engineering?) 
+(General best practice, systems engineering?)
 
 # Conceptual Note on Identification & Verification
 ## Voter Identification, Voting-Office Identification, And One-Time-Pads
@@ -67,21 +67,21 @@ One way of looking at the use of one-time-pads when voting (entirely setting asi
 Like anything else, 'social engineering' and physical disruption are not prevented by a one-time-pad or a voter id. If the earth is destroyed by an asteroid, or a person is murdered or dies, or a voting office is hit by a tornado, or a persuasive neighbor influences and convinces the voter to not participate in the upcoming election by their own individual adult choice, or if there is too severe a weathering and erosion of institutions between which there are checks and balances leaving extreme ignorant volatility to lurch systems into collapse, these issues cannot be solved as part of solving the solve-able problems of verification and identification. Just as coordinating decisions in projects should not have a single point of failure, there is no single minimal function that is equivalent to architectures in contexts with multiple categories of diverse participants and institutions, however cumbersome or premature it may be to define individuals, participants, and institutions.
 
 # Proposed Steps for Secure Online Voting
-This section is primarily a proof of concept, though it should be possible to implement. The emphasis here is on best-practice process, not on maximum convenience or maximum time-resource cost efficiency. So while this model may not be ideal to use directly in all situations, it may be seen (provided tests and audits) as an ideal to not stray too far from. 
+This section is primarily a proof of concept, though it should be possible to implement. The emphasis here is on best-practice process, not on maximum convenience or maximum time-resource cost efficiency. So while this model may not be ideal to use directly in all situations, it may be seen (provided tests and audits) as an ideal to not stray too far from.
 
 ## Rules & Assumptions (For Conceptual-Ideal Election)
 - Rule/Assumption 1: There is a physical voting-office, just as there would be in the case of an all-paper election.
 
-- Rule/Assumption 2: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
+- Rule/Assumption 2: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).
 
 - Rule/Assumption 3: Empirical tests, hypothetical tests, and security checks should be done to demonstrate how this (or any) voting system measurably succeeds or measurably fails to work. In some cases falsifiability may need to be a criteria for types of requirements for voting and coordination systems.
 [E.g. "I just like it." or: "I just don't like it." or "It must (or must not) have undefineable_property_X." are not sufficient reasons to use or to not use a given voting process.]
 
-- Rule/Assumption 4: Voting issues must be definable and defined in measurable and testable ways. E.g. If this system does work, disinformation will be used to prevent it from working. 
+- Rule/Assumption 4: Voting issues must be definable and defined in measurable and testable ways. E.g. If this system does work, disinformation will be used to prevent it from working.
 
 - Rule/Assumption 5: If the context is critiquing the mechanics of casting/submitting ballots and votes, then a failure to agree on design and rules for an election (e.g. doing a run-off or not doing a run-off, how proportional representation is, etc.) should not be considered relevant to the context of submitting a ballot. (E.g. complaints about how votes are counted (or ignored) should not be used as an argument against secure methods to (the context of the mechanics of) casting/submitting ballots and votes.)
 
-Question: Design Questions: 
+Question: Design Questions:
 - printable-document format vs. .csv format?
 - reading document
 - storing document
@@ -90,25 +90,25 @@ Question: Design Questions:
 - csv., dataframe, tensor
 - rsv format? (rows of string values)
 - file and directory delimited values
-- 
+-
 
 ## Steps (For Conceptual-Ideal Election)
 
-#### Step 1: (During in-person Voter Registration: start registration [not-over-a-network/not-online]:) 
-Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Voting-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
+#### Step 1: (During in-person Voter Registration: start registration [not-over-a-network/not-online]:)
+Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Voting-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process.
 
-(Note: There is a system-design-choice to allow (or not) registration for more than one election. This issue can be related to the format/type of the submitted ballot. For example: 
-#### A. ballots that have been (or can have been) designed at the time of registration, and 
-#### B. Standardized or truncated ballots containing just choices and not all the text of the ballot (possibly a choice (e.g. choice number) and the initials of the person's name as a second factor) and 
+(Note: There is a system-design-choice to allow (or not) registration for more than one election. This issue can be related to the format/type of the submitted ballot. For example:
+#### A. ballots that have been (or can have been) designed at the time of registration, and
+#### B. Standardized or truncated ballots containing just choices and not all the text of the ballot (possibly a choice (e.g. choice number) and the initials of the person's name as a second factor) and
 #### C. whether whatever form of ballot is customized for each voter (e.g. with a custom-id, verifiable as going to and coming from that one voter) or whether the ballot is standardized (and verifiable as the standard ballot for that election or more standardized) )
 
-#### Step 2: (During in-person Registration: Make one-time-pads.) 
+#### Step 2: (During in-person Registration: Make one-time-pads.)
 For a given single vote-ballot in a given single-election (note: multiple is another design option) there need to be four physical paper documents. One "pad" (as defined here) is two identical paper documents, one for each party (two parties, in this case: 1. The Voter and 2. The Vote-Office). Since there will be two "exchanges (people sending things to each other)" (one (1) where the blank-ballot is sent to the voter, and another (2) where the filled-in-ballot is sent by the voter to the vote-office), there need to be two pads. E.g. If the voter obtains a ballot from a compromised public ballot website or a fake website (disinformation) then that vote could be disrupted unless the problem is detected and the danger avoided.
 
-(Alternately the voting-system could be streamlined to use only one pad for submitting a standardized public ballot, but this shorter process does not include the step for the voter to confirm that the ballot was sent by the vote-office and it also prevents the office from confirming that the ballot used was the same ballot sent by the vote-office to the voter. See below for more details.) 
+(Alternately the voting-system could be streamlined to use only one pad for submitting a standardized public ballot, but this shorter process does not include the step for the voter to confirm that the ballot was sent by the vote-office and it also prevents the office from confirming that the ballot used was the same ballot sent by the vote-office to the voter. See below for more details.)
 
 Using two one-time-pads has several advantages.
-To recap: one pad is for sending the voter a blank ballot (from the voting office), the second pad is for the voter to send the completed ballot to the voting office. This allows the voter to verify that the ballot they are filling out comes from the Vote-Office at which they registered, and that only someone with physical access to the physical one-time-pad created at the time and place of their registration has sent them this ballot. And this allows for a comparison by the Vote-Office, likewise, of the ballot sent and the ballot received. The benchmark for success here is for an over-a-network(online) voting system to be as-secure-as an in-person, all-paper, voting system. Just as it is possible (in theory) for a hostile group to physically take over a Vote-Office and issue people fake ballots, or send people fake mail-in ballots in the mail, this one-time-pad-vote-by-network proposal does not prevent such physical attacks on physical paper voting infrastructure. It does however create an extra layer of verifications that can be used during and after the vote takes place, which in theory could also be used to security-harden an all-in-person all-paper voting process to make it more secure and auditable (this may also relate to the use of and questions about asymmetric keys which are different from one-time-pads). (Note: Another additional or alternative method for some of these checks may be cryptographic signing (with optional multiple signatures) from trusted authorities (Vote-Office, federal or state agency, universities, 3rd party certifiers, etc). 
+To recap: one pad is for sending the voter a blank ballot (from the voting office), the second pad is for the voter to send the completed ballot to the voting office. This allows the voter to verify that the ballot they are filling out comes from the Vote-Office at which they registered, and that only someone with physical access to the physical one-time-pad created at the time and place of their registration has sent them this ballot. And this allows for a comparison by the Vote-Office, likewise, of the ballot sent and the ballot received. The benchmark for success here is for an over-a-network(online) voting system to be as-secure-as an in-person, all-paper, voting system. Just as it is possible (in theory) for a hostile group to physically take over a Vote-Office and issue people fake ballots, or send people fake mail-in ballots in the mail, this one-time-pad-vote-by-network proposal does not prevent such physical attacks on physical paper voting infrastructure. It does however create an extra layer of verifications that can be used during and after the vote takes place, which in theory could also be used to security-harden an all-in-person all-paper voting process to make it more secure and auditable (this may also relate to the use of and questions about asymmetric keys which are different from one-time-pads). (Note: Another additional or alternative method for some of these checks may be cryptographic signing (with optional multiple signatures) from trusted authorities (Vote-Office, federal or state agency, universities, 3rd party certifiers, etc).
 
 
 During the in-person one-time-pad-voter-registration: Two physical copies (e.g. QR codes printed on paper) of two one-time-pads are created (2x2 = 4 printed paper items); one set of the two pads are stored (not-over-a-network/not-online) by the local Vote-Office, the other set (pair) of one time pads is kept by the voter themselves (physically, not-over-a-network/not-online).
@@ -116,30 +116,30 @@ During the in-person one-time-pad-voter-registration: Two physical copies (e.g. 
 The software will print the one-time pads. The software will check (confirm, verify) the one-time pads. The software will erase thoroughly from memory (e.g. physically overwrite) any record of what the printed one-time-pads were.
 (Note, if this process is done not-over-a-network/not-online using a dedicated machine, the risk (attack-surface) of someone being able to take (exfiltrate) the one-time-pads is reduced. Especially if the custom machine does not have enough memory to store any old pads but can only process and re-write-over one pad at a time.)
 
-#### Step 3: (During in-person Registration: Create Encrypted Ballot) 
+#### Step 3: (During in-person Registration: Create Encrypted Ballot)
 For the voting-office to send one ballot to one voter:
-The election office, not-over-a-network/not-online (enforced by software), uses the first 1:2 of the pair of printed QR codes to create an 'encrypted' version of the ballot for that one voter. 
+The election office, not-over-a-network/not-online (enforced by software), uses the first 1:2 of the pair of printed QR codes to create an 'encrypted' version of the ballot for that one voter.
 Note: The ballot may be public, but it still needs to be verified. This illustrates the "verification" role sometimes lumped together with "security" and "encryption." The emphasis is not on 'hiding' the public ballot form, but on verifying that the specific ballot form that the voter is filling out is (identical to) the form that the local election office gave them.
 
-Note: It may be desirable to have a 'verified public ballot' as opposed to a 'private ballot' which in theory could vary (for security and verification) from the standard public ballot (in a context of mapping out a potential attack space). 
-In the case that a truncated-submitted ballot is used, some way may be desired to, e.g. make a short hash of the original ballot itself (e.g. to convert the ballot by OCR or perhaps have a QR code on the ballot (though a QR on a ballot received by a voter code could be forged, whereas a hash made by the voter of the whole ballot could not be). Perhaps having a multi-pass OCR hash of a public ballot submitted with the vote to indicate that the correct ballot was used (again, in the case of a truncated submission, for a full ballot return the whole ballot is there)(also see asymmetric signing keys). 
+Note: It may be desirable to have a 'verified public ballot' as opposed to a 'private ballot' which in theory could vary (for security and verification) from the standard public ballot (in a context of mapping out a potential attack space).
+In the case that a truncated-submitted ballot is used, some way may be desired to, e.g. make a short hash of the original ballot itself (e.g. to convert the ballot by OCR or perhaps have a QR code on the ballot (though a QR on a ballot received by a voter code could be forged, whereas a hash made by the voter of the whole ballot could not be). Perhaps having a multi-pass OCR hash of a public ballot submitted with the vote to indicate that the correct ballot was used (again, in the case of a truncated submission, for a full ballot return the whole ballot is there)(also see asymmetric signing keys).
 It may be possible to have both a public verified 'open' ballot format and some unique element for the voter to check that the ballot comes from the Vote-Office with the voters one-time-pad (such as a unique id code at the bottom or top of the ballot)
 
 
-#### Step 4: (Voter Gets Not-Yet-Completed Ballot over-a-network) 
+#### Step 4: (Voter Gets Not-Yet-Completed Ballot over-a-network)
 During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent [from the voting-office to the voter] by whatever agreed upon ("electronic" or non-paper) method (website, email, SMS-text, mobile-app, S3, api-endpoint, etc.) in the form of a QR code.
 (note: document vs. .csv file format)
 
-Note: As an example method for a 'personalized ballot,' a randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random, increasing the entropy of the unique ballot (e.g. so that the voting-office can increase confidence that the ballot they receive back from the voter is the one they set). 
+Note: As an example method for a 'personalized ballot,' a randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random, increasing the entropy of the unique ballot (e.g. so that the voting-office can increase confidence that the ballot they receive back from the voter is the one they set).
 
 Note: Public Ballot vs. Private Ballot vs. Hybrid
-1. Public 'open' ballots over a network and verifiable, maybe multi-factor verifiable. (Asymmetric signed by voting office, asymmetric signed by other trusted groups: ngo, university, sister cities, etc. The idea being that 'multi-factor' significantly increases the difficulty of attack; a public open-ledger ballot on a block-chain type system may also be either an alternative or another multi-factor. 
+1. Public 'open' ballots over a network and verifiable, maybe multi-factor verifiable. (Asymmetric signed by voting office, asymmetric signed by other trusted groups: ngo, university, sister cities, etc. The idea being that 'multi-factor' significantly increases the difficulty of attack; a public open-ledger ballot on a block-chain type system may also be either an alternative or another multi-factor.
 2. Send the vote (or allow them to download) a private ballot (or a public ballot)
 
 Note: Another type of hybrid approach is to physically hand out general or unique ballots at the ballot office to the voter in-person, in the same process where the voter registers to vote.
 
 
-#### Step 5: (Voter Receives the not-yet-completed ballot [over-a-network]) 
+#### Step 5: (Voter Receives the not-yet-completed ballot [over-a-network])
 Voter Receives Ballot online.
 
 (Note: There is a choice here between using a public standardized ballot or a per-person ballot (e.g. with a unique id number or such, to verify that the ballot-form sent was the same as that received, or a short-form vote which contains just the choices and not all the text of the ballot.)
@@ -153,25 +153,25 @@ Using one piece of software, the voter not-over-a-network/not-online (enforced b
 physically prints the decrypted ballot
 
 
-#### Step 8: (Validate the not-yet-completed Ballot [not-over-a-network/not-online]) 
+#### Step 8: (Validate the not-yet-completed Ballot [not-over-a-network/not-online])
 The voter not-over-a-network/not-online(enforced by software), inspects and validates that their digital scanned version of their not-yet-filled-out-ballot is the correct ballot-form intended for that election (e.g. not a tampered with or accidentally incorrect ballot). There are various and possibly multiple ways to check this (elaboration pending).
 
 (Note: possibly the validity of the ballot could or should be checked during both steps)
 
 
-#### Step 9: (Complete/Mark/Fill-in the Ballot with Vote-Choices [not-over-a-network/not-online]) 
+#### Step 9: (Complete/Mark/Fill-in the Ballot with Vote-Choices [not-over-a-network/not-online])
 The voter, not-over-a-network/not-online(using pen and paper), fills out the ballot (selecting their vote choices). (Details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
 
 
-#### Step 10: (Digitize the Completed Ballot not-over-a-network/not-online] ) 
-The voter, not-over-a-network/not-online (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
-(Note: maybe some kind of mono-space font and dashes between lines to avoid spacing errors?) 
+#### Step 10: (Digitize the Completed Ballot not-over-a-network/not-online] )
+The voter, not-over-a-network/not-online (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character).
+(Note: maybe some kind of mono-space font and dashes between lines to avoid spacing errors?)
 
 
-#### Step 11: (Check Completed-Ballot for Errors [not-over-a-network/not-online]) 
+#### Step 11: (Check Completed-Ballot for Errors [not-over-a-network/not-online])
 The voter confirms that the information in their (the voter's)  electronic scanned ballot is the same as the paper version of their (the voter's) filled out ballot. (Checking for errors.) (Note: Automated processes for checking ballots for standard mistakes.)
 
-~ Step: An optional but recommended intermediate step here is to have a 3rd set of not-over-a-network/not-online-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
+~ Step: An optional but recommended intermediate step here is to have a 3rd set of not-over-a-network/not-online-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully.
 
 Question: Is there a way to optimize OCR? e.g. letter per box format? Alternatives to OCR?
 - various ocr applications that can be used
@@ -181,25 +181,25 @@ Question: Is there a way to optimize OCR? e.g. letter per box format? Alternativ
 
 
 
-#### Reference: 
+#### Reference:
 "Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
 December 2003 Politics & Policy 31(4):575 - 594
 DOI:10.1111/j.1747-1346.2003.tb00163.x
 Authors: Stephen Knack & Martha Kropf
 University of North Carolina at Charlotte
-https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
+https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections
 (end of reference)
 
 Another ~'multifactor' check may be to both mark a vote-choice on the ballot also and give some information about that choice, e.g. mark candidate 2 and in a second field enter the first letter of that candidate's last name. If these do not match, the voter should be alerted to check their ballot selections.
-The voter, not-over-a-network/not-online(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot.  
+The voter, not-over-a-network/not-online(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot.
 (Question: ...print formats...)
 
 
-#### Step 12: (Encrypt the Ballot [not-over-a-network/not-online]) 
+#### Step 12: (Encrypt the Ballot [not-over-a-network/not-online])
 The voter, not-over-a-network/not-online(enforced by software), uses the one-time-pad to 'encrypt' the completed ballot, producing a new QR code (which is then 'encrypted' ballot). All digital files of the unencrypted ballot are removed and the memory physically over-written on the voter's device. The paper copy of the voter's ballot can be saved for evidence or destroyed for privacy based on the voter's choice. (Note: signing signatures can be used with the printed ballot or QR-code to increase confidence that the ballot is authentic. This combines advantages of asymmetric encryption along with a physical printed paper trail for audits.)
 
 
-#### Step 13: (Voter Submits Encrypted-ballot Over-a-Network) 
+#### Step 13: (Voter Submits Encrypted-ballot Over-a-Network)
 Online: The voter sends their completed-ballot-QR-code (containing the voter's encrypted filled-in and checked ballot) to the local election office (sent by whatever agreed upon method (website, email, text, messaging software, shared storage (e.g. S3), api-endpoint, etc.)).
 
 
@@ -208,23 +208,23 @@ The local election office physically prints onto paper the QR code for the 'encr
 1. Print
 2. Check
 3. Delete
- 
+
 ##### Note: This step will most likely be done on a "computer" that is connected to a "network."
 
 
 #### Step 15: (Processing the Voter-Submitted Ballot [not-over-a-network / not-online])
-not-over-a-network/not-online, using a separate piece of software, the local election office "decrypts" the QR code for the 'encrypted' completed(choices-filled-in) ballot using the second(2:2) of the pair of printed (pad)QR codes for the one-time pad, and physically prints on paper the voter's filled-in ballot. 
+not-over-a-network/not-online, using a separate piece of software, the local election office "decrypts" the QR code for the 'encrypted' completed(choices-filled-in) ballot using the second(2:2) of the pair of printed (pad)QR codes for the one-time pad, and physically prints on paper the voter's filled-in ballot.
 (Note: one choice in designing the software is to directly-print-to-paper or to decrypt and display on a screen or possible save as a computer file)
 The voter's completed ballot is stored along with any completed paper ballot (e.g. mail-in ballots, or paper ballots delivered in person or filled out in person).
 (Note: Depending on the details, an additional step may be needed to convert the format of the QR code (or abridged format) to the same format as an in-person ballot. For example, if only the vote choice data are recorded in the QR code (or abridged format) the exact placement of each printed character on paper may be needed or useful for manual or automated ballot counting).
 
-Question: How much data can a QR code contain? 
+Question: How much data can a QR code contain?
 
 Question: How redundant can a QR be for error-correction?
 
 Question: Other pros and cons of qr codes?
 
-Note: If the ballot is processed on an not-over-a-network/not-online not-connected to a network computer then the chances of 'hacking' the vote are reduced (the 'attack surface' is reduced). 
+Note: If the ballot is processed on an not-over-a-network/not-online not-connected to a network computer then the chances of 'hacking' the vote are reduced (the 'attack surface' is reduced).
 
 Enter voter data into the election-results-data-set.
 
@@ -239,47 +239,47 @@ The election results are processed and published.
 
 
 # Information-Entropy, One time pads, old pads, and random number generation.
- 
+
 The neglected topic of entropy often comes back to byte us. If:
 If someone wishes to save old one-time-pads(e.g. QR-codes). Or: If someone does not dispose of old one-time-pads(e.g. QR-codes). And: If one-time-pads(e.g. QR-codes) were not generated in a sufficiently random way, then by studying a collection of old one-time-pads(e.g. QR-codes) that were generated using a not-sufficiently-random process it could be possible (or even trivial) to 'hack' the one-time-pad(e.g. QR-code) generation process and thereby be able to disrupt many parts of the voting system.
 
 
 Note: 2025.04.24
-Sharing whitelist-ip information while sharing One Time Pad information may be useful. 
+Sharing whitelist-ip information while sharing One Time Pad information may be useful.
 
 # Risks, Attacks & Security
 
-## Identifying Risks 
+## Identifying Risks
 Here we look at risks from bad-actors or bad-agents. A bad-agent may be human or automated, may be local or non-local agents such as foreign states / groups. (As of 2022 ransomware is popular, and it is possible that an election system could be targeted e.g. for ransom, so designing a distributed and attack resistant framework may be important.)
-An 'agent' may be anything from a single person to a group of people to an AI-bot, software suit, malware software, ransomware software, thinktank, etc. (or something unclear and not simple to identify) (note: other areas of risks should be explored, and may include: 
+An 'agent' may be anything from a single person to a group of people to an AI-bot, software suit, malware software, ransomware software, thinktank, etc. (or something unclear and not simple to identify) (note: other areas of risks should be explored, and may include:
 -1. Constant 'internet background radiation'
 -2. Unintentional user-misuse
 -3. Unintentional administrative bungling
 -4. Oversights and biases (e.g. setting up a voting system and obsessing so much over absolutely obscure vote secrecy that vote auditing and best practice domestic and international observation of the vote process is impeded, impracticable, or impossible)
--5. practical feasibility vs. ideals in principle (possibly similar to "letting the perfect be the enemy of the good') 
+-5. practical feasibility vs. ideals in principle (possibly similar to "letting the perfect be the enemy of the good')
 -6. Software design problems that cause time, logistical, or reliability problems
 -7. Etc.
 
-Note: It may be important to consider both (unsuccessful) attempted-attacks and successful attacks. An unsuccessful attempted-attack should likely be considered important and not ignored simply because it was not entirely successful. E.g. possibly considering attack-attempts to be the unit in attack-space, not successful-attacks. 
+Note: It may be important to consider both (unsuccessful) attempted-attacks and successful attacks. An unsuccessful attempted-attack should likely be considered important and not ignored simply because it was not entirely successful. E.g. possibly considering attack-attempts to be the unit in attack-space, not successful-attacks.
 
 ## Bad-agents
 1. A bad-agent will intercept one-time-pads:
 
-1.1 - The agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steal from the person, without anyone knowing the QR codes were stolen. 
+1.1 - The agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steal from the person, without anyone knowing the QR codes were stolen.
 
 1.2 - The one-time-pads are never stored digitally anywhere, but are only physically printed by an not-over-a-network/not-online computer.
 
 1.3 - If the voter loses the QR code the person should cancel the process.
 
 2. A bad-agent will send the voter a fake blank-ballot:
-- additional step: there can be additional checks such as a passphrase chosen by the person which could not be electronically surveilled from any computer (e.g. written in pen on the QR pad) 
+- additional step: there can be additional checks such as a passphrase chosen by the person which could not be electronically surveilled from any computer (e.g. written in pen on the QR pad)
 
 3. A bad-agent will send the voting system a fake filled-in ballot (pretending to be the voter):
 
 - 3.1  The bad-agent would need to have both stolen QR codes and a stolen ballot that was sent to the voter.
 
 - 3.2  If a voter loses the QR code then that voter should cancel/restart the process.
-	
+
 4. A bad-agent will record a fake record of the vote from the ballot:
 - while a possible risk, depending on the online-voting system this process (a fake record of the vote from the ballot) is the same as for any paper ballot.
 Variants:
@@ -304,11 +304,11 @@ Variants:
 
 10. A bad-agent will attempt to tamper with vote reporting including any information put out by a Vote-Office or similar authority.
 
-11. A bad-agent will attempt to disrupt the sending and receiving of vote information (including but not restricted to blank and filled-in ballots (e.g. voting times, places, registration, ballot items, etc). 
+11. A bad-agent will attempt to disrupt the sending and receiving of vote information (including but not restricted to blank and filled-in ballots (e.g. voting times, places, registration, ballot items, etc).
 
-12. A bad-agent will attempt general or specific disinformation attacks that negatively impact the overall voting and election processes and systems. 
+12. A bad-agent will attempt general or specific disinformation attacks that negatively impact the overall voting and election processes and systems.
 
-13. A bad agent will attempt to disrupt or disperse the population or geography of a vote (creating a need for refugee voting). 
+13. A bad agent will attempt to disrupt or disperse the population or geography of a vote (creating a need for refugee voting).
 
 14. A bad agent will attempt to gain access to a system (network, server, etc.) as a goal in and of itself: e.g. to then sell or transfer that access to a separate attacker-agent.
 
@@ -320,7 +320,7 @@ Variants:
 
 18. A bad-agent will attempt to disrupt the network.
 
-19. A bad agent may behave in ways that are indeterminately incompetent and malicious. 
+19. A bad agent may behave in ways that are indeterminately incompetent and malicious.
 
 20. A bad-agent will attempt social engineering attacks.
 
@@ -328,7 +328,7 @@ Variants:
 
 22. A bad-agent will attempt to disrupt infrastructure that the election relies upon (electricity, post office, transportation, new-media, schools, etc.).
 
-23. A bad-agent will attempt, or otherwise effect, the disruption or prevention of the study and communication of the security, data-hygiene, or safe-use, etc., of a feature, product, item, use, context, noun, verb, etc. 
+23. A bad-agent will attempt, or otherwise effect, the disruption or prevention of the study and communication of the security, data-hygiene, or safe-use, etc., of a feature, product, item, use, context, noun, verb, etc.
 
 
 (note: There are bad agents but there are also other cases and factors which at times should not be confused with bad agents. For example a tester/developer whose goal is to find and fix issues working with other developers is not a bad agent. There are various appropriate and inappropriate factors in different contexts, not everyone can be divided into bad agents and innocent users. And the details and edge cases can become tricky to manage clearly and optimally. )
@@ -336,36 +336,36 @@ see book references
 
 
 ## Description & Overview of Process-in-Principle
-This is a proposed process for reasonably secure 'online (over a network) voting.' Part of this design is that the entire process is not on-line. Rather, physical printed materials and not-over-a-network/not-online computers are used to reduce the online attack surface. A person or bad-agent can feasibly steal or tamper with a file in a network-connected computer from a remote location, but a person or bad-agent cannot feasibly/easily tamper with or steal documents in a filing cabinet or from a computer connected to the internet. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place. 
+This is a proposed process for reasonably secure 'online (over a network) voting.' Part of this design is that the entire process is not on-line. Rather, physical printed materials and not-over-a-network/not-online computers are used to reduce the online attack surface. A person or bad-agent can feasibly steal or tamper with a file in a network-connected computer from a remote location, but a person or bad-agent cannot feasibly/easily tamper with or steal documents in a filing cabinet or from a computer connected to the internet. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place.
 
-The primary focus of this report is the question of whether casting a ballot/vote over-a-network(online) can in principle be done with sufficient security and soundness. Secondarily, this report explores 'practical and thrifty' variations which add in factors of feasibility, cost, equipment availability, and other real-world factors that communities around the world may face in actually holding an election (i.e. not everyone has ideal funding and resources with which to carry out the perfect election). Another way to look at this distinction is that we first look at an ideal voting system to aim for, and then look at realistic voting systems. 
+The primary focus of this report is the question of whether casting a ballot/vote over-a-network(online) can in principle be done with sufficient security and soundness. Secondarily, this report explores 'practical and thrifty' variations which add in factors of feasibility, cost, equipment availability, and other real-world factors that communities around the world may face in actually holding an election (i.e. not everyone has ideal funding and resources with which to carry out the perfect election). Another way to look at this distinction is that we first look at an ideal voting system to aim for, and then look at realistic voting systems.
 
 
 ## Implementation & Secure Voting
 (see practical implementation as separate after proof of concept implementation)
-These are recommendations for a reasonably secure online voting system that should not be significantly more cumbersome than a physical paper voting system. 
+These are recommendations for a reasonably secure online voting system that should not be significantly more cumbersome than a physical paper voting system.
 
 To improve accessibility, it is conceivable that some local voting systems would prefer to simplify some of the security step to allow broader accessibility:
 - voters who have no access to a printer
 - voters who cannot physically travel (e.g. elderly persons in retirement home or hospital), perhaps allowing a proxy to carry documents for that person.
 
-- institutions large or small such as retirement homes or other such community organizations are well placed to be involved where voters are not physically able to travel to poles. 
+- institutions large or small such as retirement homes or other such community organizations are well placed to be involved where voters are not physically able to travel to poles.
 
-- Military overseas are another important group of voters who are both not physically able to travel overseas yet often close to bodies of administration and organization who can facilitate voting.  
+- Military overseas are another important group of voters who are both not physically able to travel overseas yet often close to bodies of administration and organization who can facilitate voting.
 
 - Coordinated Decisions for Field-Research
 -- data-informed decision making
 -- testing decision proposals
 -- modeling decision outcomes
--- 
+--
 
 
 # Security Section
-### Additional steps can be taken to increase security. 
-#### For example: 
+### Additional steps can be taken to increase security.
+#### For example:
 1. To reduce the possibility that local staff will accidentally connect to the internet or run the software on insecure or already compromised hardware, it should be possible to create a cost effective system where staff will run a custom made operating system (custom BSD or Linux or FreeDOS, etc.) that lacks the ability to use the internet. It may also be possible to use cost effective hardware such as a raspberry pi or microcontrollers. There may be safety advantages to using micro-controllers that lack overall computer abilities and thereby lack security risks associated with those.
 
-2. Put safeguards into the software to at least try to prevent using the same one-time-pad more than once. 
+2. Put safeguards into the software to at least try to prevent using the same one-time-pad more than once.
 
 3. Known issues and areas:
 - memory issues: use memory safe languages
@@ -380,33 +380,33 @@ At this time or at a later time [a printed copy of a unique ballot] (depending o
 
 ## Challenges:
 One area that may cause issues is if the office or voter is 'unable' to scan or take a clear photo of the document, in the same way that some people are 'unable' (which ranges from people having legitimate physical or mental handicaps to people not bothering to try) to take a clear picture of their check for their bank (so a less secure non-printed option may be desired in some cases).
-It is also possible that OCR (optical character recognition) may not be good enough to perform a computer-automated visual reading of a printed paper ballot, but given the use of OCR to read more obscurely printed checks, sloppily written mailing addresses on envelopes, etc., this is possibly not a terminal obstacle. 
-#### (note: .csv files may have a standardizing role here) 
-#### (note: writing characters in a grid may have a standardizing role here) 
+It is also possible that OCR (optical character recognition) may not be good enough to perform a computer-automated visual reading of a printed paper ballot, but given the use of OCR to read more obscurely printed checks, sloppily written mailing addresses on envelopes, etc., this is possibly not a terminal obstacle.
+#### (note: .csv files may have a standardizing role here)
+#### (note: writing characters in a grid may have a standardizing role here)
 
-Note: It might be possible to make a kind of hybrid document solution. There can be a QR code that gives template and instruction information as to what the fields are, then items selected (boxes filled, or circles filled in) can be identified without the use of OCR. In the case of write-in ballot areas, there may be various factors that make OCR 'good enough.' e.g. if any candidate receives enough write-in votes, that situation will make that popular name a more likely candidate for matching in the case of mostly illegible scrawling. And having one letter per box may also help legibility for write-in names. 
+Note: It might be possible to make a kind of hybrid document solution. There can be a QR code that gives template and instruction information as to what the fields are, then items selected (boxes filled, or circles filled in) can be identified without the use of OCR. In the case of write-in ballot areas, there may be various factors that make OCR 'good enough.' e.g. if any candidate receives enough write-in votes, that situation will make that popular name a more likely candidate for matching in the case of mostly illegible scrawling. And having one letter per box may also help legibility for write-in names.
 
 The task of automated ballot-reading perhaps should be steered away from subtle character recognition of natural-language phrases and towards clear, easily defined, targets such as a binary check-box selection. An exception to this may be write-in ballots which do occur, where some other system may be needed (binary as in: checked-box vs. not-checked-box).
-Though even here, OCR and having the vote double-check to see that the OCR is correct may be sufficient. 
+Though even here, OCR and having the vote double-check to see that the OCR is correct may be sufficient.
 (Note: The direct use of .csv files may be ideal. CSV files can also account for write-in and other edge cases. Any 'field' to fill in can simply be included either as an item in the same row and or as a column heading).
 
 
 ## About One Time Pads
-A one-time-pad is not the same as a re-use-able 'code.' A re-use-able code 'encodes' a signal and is re-used, such that 'breaking the code' will allow decrypting the document. A one-time-pad is different; a unique one-time-pad is used only one time. A one-time-pad is a one-for-one set of changes for every character in the document, each completely random, with no pattern, and each one-time-pad is used only one-time. Even in principle you cannot 'break' a one-time pad however much you examine the encrypted document (unless the one-time-pad itself is somehow defective: to be a real one time pad it must be used only once and it must be unique and random).  Unfortunately, the terminology can be overlapping and a bit unclear between the reusable codes and one-time-pads. For example, the terms 'encode' and 'decode' may be used in both cases, and the overall process and purpose is usually similar or the same. 
+A one-time-pad is not the same as a re-use-able 'code.' A re-use-able code 'encodes' a signal and is re-used, such that 'breaking the code' will allow decrypting the document. A one-time-pad is different; a unique one-time-pad is used only one time. A one-time-pad is a one-for-one set of changes for every character in the document, each completely random, with no pattern, and each one-time-pad is used only one-time. Even in principle you cannot 'break' a one-time pad however much you examine the encrypted document (unless the one-time-pad itself is somehow defective: to be a real one time pad it must be used only once and it must be unique and random).  Unfortunately, the terminology can be overlapping and a bit unclear between the reusable codes and one-time-pads. For example, the terms 'encode' and 'decode' may be used in both cases, and the overall process and purpose is usually similar or the same.
 
 Historically, a 'one time pad' was literally a pair of identical physical paper note-pads, two notebooks, with the same set of characters on corresponding pages 1,2,3 etc. in both notebooks. By analogy this is like two copies of the same book (such as two identical copies and identical editions of Alice in Wonderland), with the same exact characters on the same numbered page of each book). Each code (e.g. each page) was used only one time, hence the term "one-time-pad". In summary: a pair of identical physical paper note-pads, each page of which was used only one time: a "one time pad."
 
-With a one-time-pad, every character (letter, number, symbol, etc.) in the document that you are encrypting is individually changed using just one character in the [one time]pad. There is no predetermining pattern or system behind the sequence of changes resulting from using a one-time-pad that can be outsmarted or 'cracked.' The only way to 'decode' a one-time-pad 'encrypted' message is with that one-time-pad; a one-time-pad is a one-by-one, one-for-one, one character at a time, change of what the original text says. There is no key. There is no password. There is no equation. There is no shortcut. Every character or unit of the entire document is individually changed into something else in an independent way. 
+With a one-time-pad, every character (letter, number, symbol, etc.) in the document that you are encrypting is individually changed using just one character in the [one time]pad. There is no predetermining pattern or system behind the sequence of changes resulting from using a one-time-pad that can be outsmarted or 'cracked.' The only way to 'decode' a one-time-pad 'encrypted' message is with that one-time-pad; a one-time-pad is a one-by-one, one-for-one, one character at a time, change of what the original text says. There is no key. There is no password. There is no equation. There is no shortcut. Every character or unit of the entire document is individually changed into something else in an independent way.
 
-One-time-pads are not as efficient and user-friendly as shorter and or 're-use-able' codes in some ways, but one-time-pads are more secure and more simple. Because there is no 'key,' there is no possibility in principle to 'guess the key.' The one-time-pad must be as long as the original text itself, unlike a 'password' or short 'key' that might be only eight characters long. 
+One-time-pads are not as efficient and user-friendly as shorter and or 're-use-able' codes in some ways, but one-time-pads are more secure and more simple. Because there is no 'key,' there is no possibility in principle to 'guess the key.' The one-time-pad must be as long as the original text itself, unlike a 'password' or short 'key' that might be only eight characters long.
 
 
 #### Low-Tech Security & Limited-Resources
 Question: Is there a lower-tech version with reasonable security for geographic locations with limited resources?
 
-Often fewer features and narrower footprint and attack-surface increase security, but in a system starting entirely with paper and pencil, in this case the meaning of 'less' may require more explanation. 
+Often fewer features and narrower footprint and attack-surface increase security, but in a system starting entirely with paper and pencil, in this case the meaning of 'less' may require more explanation.
 
-Details: The first part of this report is a more abstract proof-of-concept about whether one-time-pad voting over a network is any less secure than one-time-pad secured voting over-a-network. However, in reality actual voters and voting-offices may refuse to use an ideal secure voting system (for reasons legitimate or illegitimate). It is entirely within keeping with computer science that there are multiple possible solutions to a problem, and while one solution may be perfectly fine in theory it is simply not practical or feasible to implement (often: requiring too many resources (including time as a resources), either relatively too many (resources-required) compared to another solution or too many as in that requirement simply cannot be met with known technology (e.g. taking a length of time longer than the age of the universe to solve the problem: in principle: problem solved! in practical reality: problem not solved.)). There should be a discussion of what a good-enough solution is, and how a good-enough solution may meet the practical demands of users. 
+Details: The first part of this report is a more abstract proof-of-concept about whether one-time-pad voting over a network is any less secure than one-time-pad secured voting over-a-network. However, in reality actual voters and voting-offices may refuse to use an ideal secure voting system (for reasons legitimate or illegitimate). It is entirely within keeping with computer science that there are multiple possible solutions to a problem, and while one solution may be perfectly fine in theory it is simply not practical or feasible to implement (often: requiring too many resources (including time as a resources), either relatively too many (resources-required) compared to another solution or too many as in that requirement simply cannot be met with known technology (e.g. taking a length of time longer than the age of the universe to solve the problem: in principle: problem solved! in practical reality: problem not solved.)). There should be a discussion of what a good-enough solution is, and how a good-enough solution may meet the practical demands of users.
 
 - focusing on accessible technology
 
@@ -433,9 +433,9 @@ There is a difference between only the step of casting a vote being done online-
 - faster
 - cheaper
 - available to oppressed and under-represented groups
-- modular: voting and election do not only happen during governmental elections, that is just one instance of a more general process. 
+- modular: voting and election do not only happen during governmental elections, that is just one instance of a more general process.
 
-####  Some voting locations (or regions) may not have: 
+####  Some voting locations (or regions) may not have:
 1. printers, ink, and paper
 2. extra air-gapped computers
 3. a physical location to securely store paper files
@@ -447,12 +447,12 @@ There is a difference between only the step of casting a vote being done online-
 1. basic mobile phones
 2. basic (not high speed) internet access
 
-Writing down the numbers and confirming with a photo (no printers needed) may be able to replace a printed QR code system while still having a paper-backup form, if only as an option (e.g. you cannot hack into and change a piece of paper). 
+Writing down the numbers and confirming with a photo (no printers needed) may be able to replace a printed QR code system while still having a paper-backup form, if only as an option (e.g. you cannot hack into and change a piece of paper).
 
 A separate air-gapped mobile device would be feasible, or perhaps a more decentralized system would be more secure.
 (note: 'certificate' model)
 
-# An alternative thrifty-protocol for resource-limited situations/geographies 
+# An alternative thrifty-protocol for resource-limited situations/geographies
 (section under construction)
 
 ## Practical Voting
@@ -466,19 +466,19 @@ Q: who is who over network...
 
 The goal here (for this practical-tool section, vs. the above secure voting in principle) is more a practical-project and less abstract (proof of concept or standard-setting): How can a local community organize and carry out a best-practice auditible vote and publish the results using (widely available and) accessible technology (such as mobile phones)?
 
-What are some of the factors that characterize a realistically resource-limited situation? Are there some general groups of common sets of constraints? E.g. Some groups may have a safe place for a voting office but no funds for extra equipment. Other groups may not have a safe place for any voting office or official positions (needing the management of the election to be virtual and decentralized). 
+What are some of the factors that characterize a realistically resource-limited situation? Are there some general groups of common sets of constraints? E.g. Some groups may have a safe place for a voting office but no funds for extra equipment. Other groups may not have a safe place for any voting office or official positions (needing the management of the election to be virtual and decentralized).
 
 Question: Can virtual distributed elections be best carried out with or without support from institutions such as universities? Or more generally, what roles do 'institutions' including legal institutions, have with a fundamentally STEM/math/engineering process of carrying out and publishing the results of elections which have no reliance upon culture or belief and yet the results of which for practicality must be integrated with the 'social' system that is voting? (probably a bad analogy example: you do not need social institutions to measure the temperature of the (for example) the air, but without 'institutions' around standards and measures and even media of communication it would be infeasible to physically or intellectually communicate and use that measurement-data. (E.g. go back in time a million years: you could measure the temperature of the air just fine, but how would you usefully-communicate that temperature-information to STEM-institution-less-communities of people and how would they use that information?)
 
-Thrifty voting systems may make more use of available multi-factor authentication and less use of equipment-expensive methods (such as dedicated printing and scanning machines). 
+Thrifty voting systems may make more use of available multi-factor authentication and less use of equipment-expensive methods (such as dedicated printing and scanning machines).
 
-Depending on the details of the situation, there may be some option for physical printed documents, but there will most likely be more use of non-paper methods for a thrifty resource-slim and more user-friendly system, for example in cases where there is no possible way to use physical documents. 
+Depending on the details of the situation, there may be some option for physical printed documents, but there will most likely be more use of non-paper methods for a thrifty resource-slim and more user-friendly system, for example in cases where there is no possible way to use physical documents.
 
 Other methods such as chains-of-trust may be useful to harden thrifty online systems.?
 
 #### General Revisions for Thrifty-Secure-Voting:
 1. use-able with only standard mobile devices possessed by voters
-2. no physical printed copies, so a change from OCR and paper documents to basic characters in a file. 
+2. no physical printed copies, so a change from OCR and paper documents to basic characters in a file.
 3. no separate air-gapped hardware
 4. one pad per set of elections vs. two pads per single election (backup pads?)
 5. more cryptographic signature use?
@@ -498,12 +498,12 @@ Other methods such as chains-of-trust may be useful to harden thrifty online sys
 
 ## Ballot format standardization?
 - csv format: pads, ballots, votes
-- data format / presentation format 
+- data format / presentation format
 - character type...ascii?
 
 # Proposed Steps for Practical Secure Online Voting (section under construction)
 
-For a voting system to be practical, the requirements for implementation and assumptions about what resources voters have must align and align with reality. 
+For a voting system to be practical, the requirements for implementation and assumptions about what resources voters have must align and align with reality.
 
 #### This thrifty-and-pragmatic (if not perfect) system does NOT assume:
 - that there is a voting office either as a building or as human staff
@@ -512,38 +512,38 @@ For a voting system to be practical, the requirements for implementation and ass
 - that there are institutions for safe and secure elections
 
 
-#### Step 1: (Election-Setup: [over-a-network / online]) 
+#### Step 1: (Election-Setup: [over-a-network / online])
 - scheduling
 - enrollment
 - standards protocols methods and procedures
 
-#### Step 2: (Voter-Setup: During online registration time period [over-a-network / online]) 
-Before the election ends: A voter registers for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
+#### Step 2: (Voter-Setup: During online registration time period [over-a-network / online])
+Before the election ends: A voter registers for the vote-over-a-network (with One-Time-Pad) (online voting) process.
 This may be done entirely online for most-practical voting, or other elements may be added.
 (Note: setup questions for entirely online vote: How list of voters is selected or checked. Voter identification online... In theory the same online system as for current voter-registration may be used and considered sufficient.)
 
-For entirely-online-voting there is the challenge of selecting who on the internet may participate. 
-A kind of hybrid may involve e.g. sending snail-mailed to voters (or picked up with ID from an office) to use to authenticate their online connection. 
+For entirely-online-voting there is the challenge of selecting who on the internet may participate.
+A kind of hybrid may involve e.g. sending snail-mailed to voters (or picked up with ID from an office) to use to authenticate their online connection.
 note: using signing-signatures
 
-While the thrifty/pragmatic-protocol is designed to avoid extra printer hardware, the option still exists to hand-write one-time pads, which for an election with fewer than five or 10 choices on the ballot would be practical to write down on wallet sized note (and check electronically (OCR) to make sure it is correct). 
+While the thrifty/pragmatic-protocol is designed to avoid extra printer hardware, the option still exists to hand-write one-time pads, which for an election with fewer than five or 10 choices on the ballot would be practical to write down on wallet sized note (and check electronically (OCR) to make sure it is correct).
 A short-form ballot one-time-pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
 
 (Question: How reliable is OCR? Is OCR reliability an issue? Is this a strong argument for all-digital and no-conversion process? (can still be printed or saved records etc.)
 
 A short-form or truncated ballot may contain:
 e.g.
-- the number of the option-choice and perhaps 
-- a first/last letter in the candidate's name (which could also serve as a check, similar to an empty choice check, if the name-letter does not agree with the number option). 
+- the number of the option-choice and perhaps
+- a first/last letter in the candidate's name (which could also serve as a check, similar to an empty choice check, if the name-letter does not agree with the number option).
 (also a check against a vote left empty?)
-Note: Write-in may be an issue for the truncated ballot. 
+Note: Write-in may be an issue for the truncated ballot.
 
 #### Note: Ways to make sure a one-time-pad is not being used a 2nd time...a log of already used one-time-pads to check against...?...or a small hash?
 
 The idea of a non-recoverable system, disposable, that you would restart if something went wrong, but no back-doors, side doors, etc.
 voter...re-register...multiple registrations?
 
-note: https://sqrl.grc.com/pages/getting_started_with_sqrl/ 
+note: https://sqrl.grc.com/pages/getting_started_with_sqrl/
 
 Question: one time pads vs. signing keys for transmitting ballots
 Also: multiple party signing keys?
@@ -551,61 +551,61 @@ Also: multiple party signing keys?
 #### Step 3: Voter Obtains Ballot Online
 #### 3 options:
 1. a publicly posted signed ballot (verifiable)
-2. a ballot including a unique personal id sent only to that one person 
+2. a ballot including a unique personal id sent only to that one person
 3. both
 4. some kind of redundancy and checking between sources and agreement of online ballots. (e.g. .edu hosting, or distributed software held by voters?)
 
 During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.) in the form of another QR code.
-Part of this process is an at-the-time randomized process of frame-shifting the ballot so that the location on the page where each person's vote-choices appear is random. 
+Part of this process is an at-the-time randomized process of frame-shifting the ballot so that the location on the page where each person's vote-choices appear is random.
 
-  
-#### Step 4: (Voter Gets the not-yet-completed Ballot)  
+
+#### Step 4: (Voter Gets the not-yet-completed Ballot)
 Optional ways to do this:
 - A. posted on several public sites and signed and can be compared/verified
 - B. collecting from (and perhaps compared across) various sources by voting software, e.g. a minimal and secure mobile device software application ("app")
 (For the most-resource efficient system, individually sending personalized ballots should perhaps be avoided. Question: What are the factors around this? Does a ballot need to be individualized? How does it need to be individualized?)
 
-#### Step 5: (Voter Validate the not-yet-completed Ballot) 
-The voter on-line inspects and validates the ballot. Most likely by checking and comparing multiple sources,possibly signing keys, maybe multiple signing certificates. There could be both manual and automatic options to balance ease of use with manual thoroughness. 
+#### Step 5: (Voter Validate the not-yet-completed Ballot)
+The voter on-line inspects and validates the ballot. Most likely by checking and comparing multiple sources,possibly signing keys, maybe multiple signing certificates. There could be both manual and automatic options to balance ease of use with manual thoroughness.
 (note: Finding universities to host copies of the final ballot may be a good option. But this step may not be feasible or necessary.) (Something like a blockchain (immutable ledger) for all users of the voting system may suffice as a good-enough decentered immutable portable verified storage system.)
 
-#### Step 6: (Voter Completes the Ballot, Marks Votes) 
+#### Step 6: (Voter Completes the Ballot, Marks Votes)
 e.g. csv format of data (vs. pdf type doc)
 Question: id such as biometric data?
 
-~ step: an optional intermediate step here is to have a 3rd set of not-over-a-network/not-online-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
+~ step: an optional intermediate step here is to have a 3rd set of not-over-a-network/not-online-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully.
 
-#### See Article: 
+#### See Article:
 "Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
 December 2003 Politics & Policy 31(4):575 - 594
 DOI:10.1111/j.1747-1346.2003.tb00163.x
 Authors: Stephen Knack & Martha Kropf
 University of North Carolina at Charlotte
-https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
+https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections
 
-#### Step 7: (Check Completed-Ballot for Errors [done by voter]) 
+#### Step 7: (Check Completed-Ballot for Errors [done by voter])
 - sanitizing inputs
 - adversarial inputs
 - impossible options (more than one option selected where only one can be)
-- no-vote blanks 
+- no-vote blanks
 - too few for multiple selections, possiby make vote choices clear so that one selection is required for each question.
 - test-process errors (something breaks processing)
 
-#### Step 8: (Encrypt the Completed-Ballot [done by voter]) 
+#### Step 8: (Encrypt the Completed-Ballot [done by voter])
 Details depend on the file system being used.
 Question: If an anonymized blockchain system is used, is there a need to encrypt the submitted ballot? e.g. could the ballot have an anonymized id?
 
-#### Step 9: (Voter Submit encrypted-ballot over network) 
+#### Step 9: (Voter Submit encrypted-ballot over network)
 Question: recommended methods?
-Some kind of MFA? 
+Some kind of MFA?
 immutable ledger system?
 	- frozen ledger (duplicated with hash checks)
-	- dynamic ledger 
+	- dynamic ledger
 Online: The voter sends (by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.)) the new QR code (containing their encrypted filled-in-and-checked ballot) to the local election office.
 
 #### Step 10: (Process the Encrypted Voter-Submitted Ballot)
 - thrifty encryption choice?
-Arguably this is a key area if one-time-pads are not being used, or not in the same way as the proof-of-concept. 
+Arguably this is a key area if one-time-pads are not being used, or not in the same way as the proof-of-concept.
 - format of ballot
 (file format: csv?)
 (voter checks on status?)
@@ -646,18 +646,18 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 - description of system
 - open source code
 
-#### Note: It is not clear that saving the QR codes serves any function, nor is there any need to carefully dispose of a QR code after it is used (if each is only used once). 
+#### Note: It is not clear that saving the QR codes serves any function, nor is there any need to carefully dispose of a QR code after it is used (if each is only used once).
 
 #### What kind of software (singular or plural) would be needed to arrange a secure election?
 
 #### Voting and the byzantine general problem
 
-#### Immutable-Ledger Data-Structures (blockchains): 
-- Could some form of blockchain constructed by election participants be used as a decentered election results platform? 
+#### Immutable-Ledger Data-Structures (blockchains):
+- Could some form of blockchain constructed by election participants be used as a decentered election results platform?
 - General record and evidence chains. (admittance of observers, reports, events, etc.)
-- Note: while 'blockchains' per-se have gotten a lot of bad press, there are various ways to accomplish the goal of having distributed redundancy. 
+- Note: while 'blockchains' per-se have gotten a lot of bad press, there are various ways to accomplish the goal of having distributed redundancy.
 
-#### Resilience: 
+#### Resilience:
 One strategy: Part of an online system may be to increase the number of channels by which people can try to vote, and possibly have a backup-pad. Thereby, if bad-agents shut down the main channel for sending in votes (which may be a single point of failure) the process will not be disrupted.
 
 Is there a formal way to map the attack-surface areas of, and to compare, different systems of voting?
@@ -742,7 +742,7 @@ software platforms/languages:
 
 
 #### Possible Multi-factor Authentication Tools:
-(how much the system is data-slim... e.g. ascii cli vs. 
+(how much the system is data-slim... e.g. ascii cli vs.
 multi-media gui bloated)
 1. voice print
 2. picture of hand (for fingerprints)
@@ -774,7 +774,7 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting?
 
 
 # Additional Questions:
-1. What additional vote process transparency information should be included with vote results publishing? 
+1. What additional vote process transparency information should be included with vote results publishing?
 https://github.com/lineality/Auditable_Elections_Projects
 
 ### Scale and Decision-Making
@@ -789,7 +789,7 @@ https://github.com/lineality/Auditable_Elections_Projects
 (related issue: geopolitical violence & cybercrime?)
 (types of sources, books, articles, news...)
 - Estonia?
-#### Books: 
+#### Books:
 "we are all targets",
 "sandworm"
 "Fancy Bear Goes Phishing"
@@ -798,12 +798,12 @@ https://github.com/lineality/Auditable_Elections_Projects
 
 
 ## An annotated history of how election design effects election process:
-- 
+-
 
 
 #### Case Studies in Disrupted and Problematic Elections:
 (international?)
-- 
+-
 
 #### Case Studies in Failing to agree locally on election rules:
 -(Q: how far back in time?)
@@ -812,7 +812,7 @@ book: the fall and rise of democracy
 - interesting group-organization models study
 
 #### Case Studies in Long Term Technical Design Issues:
-- SN https://www.grc.com/sn/sn-914-notes.pdf 
+- SN https://www.grc.com/sn/sn-914-notes.pdf
 
 
 # Goals, Rules, Policies, Procedures, & Methods, Statements (etc.)
@@ -842,16 +842,16 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for election-results-challenge
 - rules, policies, and procedures for recount (automatic recounts, type of recount, etc.)
 - rules, policies, and procedures for overruling-election-results e.g. by gov. branches, evidence requirements
-- rules, policies, and procedures for chain of custody of election materials, equipment, etc., Provenance   
-- rules, policies, and procedures for announcing and publishing results 
-- rules, policies, and procedures for reporting information about the vote: procedures, voter enrollment and participation numbers, etc. 
+- rules, policies, and procedures for chain of custody of election materials, equipment, etc., Provenance
+- rules, policies, and procedures for announcing and publishing results
+- rules, policies, and procedures for reporting information about the vote: procedures, voter enrollment and participation numbers, etc.
 - Should there be a 'log' of who makes changes to procedures and how?
 - rules, policies, and procedures for open and transparent observation of election and ballot counting & processing
 - rules, policies, and procedures for exit polls (what collected, from whom, released when)
 - rules, policies, and procedures for meetings and correspondence transparency around voting infrastructure and offices and resources
 - rules, policies, and procedures for foreign domestic local and internal interference with the attacks on the election process
 - rules, policies, and procedures for voter registration
-- rules, policies, and procedures for voter identification 
+- rules, policies, and procedures for voter identification
 - rules, policies, and procedures for evaluation of best practice, performance, and ethics: standards, guidelines, benchmarks and audit materials
 - rules, policies, and procedures for raw vote results (including ranked-choice etc.)
 - rules, policies, and procedures for choosing vote calculation method
@@ -862,12 +862,12 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for election observers
 - rules, policies, and procedures for canvassing
 - rules, policies, and procedures for advertising
-- rules, policies, and procedures for auditing, vetting, and guarantors: items to be audited: ballot counting, whole voting system, audits themselves, security 
+- rules, policies, and procedures for auditing, vetting, and guarantors: items to be audited: ballot counting, whole voting system, audits themselves, security
 - rules, policies, and procedures on best practice
 - rules, policies, and procedures on rules
 - rules, policies, and procedures on disinformation & nihilism
 - rules, policies, and procedures on interactions between separate or connected groups holding elections.
-- rules, policies, and procedures for post-election analysis, challenges, and moving on. 
+- rules, policies, and procedures for post-election analysis, challenges, and moving on.
 - rules, policies, and procedures for initiating an election
 - rules, policies, and procedures for scheduling
 
@@ -942,8 +942,8 @@ Question: possible requiring of ballot being completely filled out
 ## Practical Model 2:
 Similar to baseline secure model with these changes.
 1. allows registered phone number use:
-- ballots can be exchanged by ~sms or 
-- possible voice print ID: e.g. similar to online-voter 
+- ballots can be exchanged by ~sms or
+- possible voice print ID: e.g. similar to online-voter
 - registration credentials
 
 ### Practical Model 3:
@@ -958,7 +958,7 @@ Security issues?
 ### practical model 5:
 Using existing online registration systems
 
-A note on election security and registration security: 
+A note on election security and registration security:
 Does it make sense to have lower security standards around registration for voting than casting of votes? A similar or perhaps identical question is: Does it make sense to have a less security system for registration than for voting? E.g. in Pennsylvania in 2022 you can register to vote and change your party-registration, address, etc., on a simple website with no additional security, no MFA multi factor authentication, no personal in face verification, no biometrics, no mailing address sent verification, etc. And I have never heard anyone complain about the insecurity of this registration system, and a proposal to use the same system for voting immediately results in a vitriolic hyperbolic uproar of arm-waving indignation. Personally I think online registration should be more secure. My overall point here is that both registration and voting should be discussed and implemented as they relate to each-other, and not treated as if they are unrelated with inconsistent security considerations. If the standard for security is good enough for registration, that should be the same standard for voting.
 
 
@@ -970,7 +970,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 - topic: stateless machines
 - topic: air-gapped machines
 - topic: not-networked Operating Systems
-- topic: memory throttling 
+- topic: memory throttling
 
 ## Education
 - skills and fitness for projects and collaboration
@@ -987,7 +987,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 ## Perception: Looking out for likely disjunctions in perception and expectation
 - while it is unavoidable that any level of STEM is not more than it is, with things not discovered being not yet discovered, and while Kuhn type situations may have pronounced ambiguous periods, and much may be nuance and grey areas, that said, there often are situations where legacy-momentum tech-stacks and norms that are unambiguously inappropriate perpetuate themselves. While it is not possible (as Shakespeare noted (~"There's no art To find the mind's construction in the face")) to read into the minds of people to discern what they are really aware of or intending, practices and project areas can be more visible, and as in Definition Behavior Studies, while a mind may hide awareness, project-practices cannot hide: non-automatic perception and clearing with legacy-momentum cargo cults may think that it is STEM and be called STEM and indignantly demand to be called STEM.
-https://en.wikipedia.org/wiki/Thomas_Kuhn 
+https://en.wikipedia.org/wiki/Thomas_Kuhn
 
 ## STEM & Navigation: Northstars and Gifts That Keep on Giving
 - timelines
@@ -1055,80 +1055,80 @@ Goals, Scope Alignment: definition items (2025.01.19)
 ### Goals & Scope Alignment: definition items (2025.01.22)
 - Process, Values, Collapse & Ecological Productivity
 - Schedule
-- Users & Stakeholders & Needs & Goals Evaluation (of users) 
-- Features: User-Features & Subfeatures (or hidden features) 
+- Users & Stakeholders & Needs & Goals Evaluation (of users)
+- Features: User-Features & Subfeatures (or hidden features)
 - Scope & MVPs (Minimum Viable Products)
 - Tools & 'Tool Stack / Tech Stack'
 - Feedback & Tests, Ecological Effects, Communication & Iteration (~agile)
-- v3- 
+- v3-
 - Process, Values, Agenda: [Data/System]Ecology: Collapse & Productivity
 - Schedule: (?; whole; this iteration)
-- Users: Stakeholders & Needs & Goals Evaluation (of users) 
-- Features: User-Features & Subfeatures (or hidden features) 
+- Users: Stakeholders & Needs & Goals Evaluation (of users)
+- Features: User-Features & Subfeatures (or hidden features)
 - Scope: MVPs (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 - Feedback: Tests, Ecological Effects, Communication & Iteration (~agile)
 - v4 -
 ### Goals & Scope Alignment: definition items (2025.01.19)
 - Process: Values, Agenda, Methods, (Data/System)Ecology: Collapse & Productivity
 - Schedule: (?; whole; this iteration)
-- Users: Stakeholders & Needs & Goals Evaluation (of users) 
-- Features: User-Features & Subfeatures (or hidden features) 
+- Users: Stakeholders & Needs & Goals Evaluation (of users)
+- Features: User-Features & Subfeatures (or hidden features)
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 - Feedback: Tests, Ecological Effects, Communication & Iteration (~agile)
 v5
 ### Goals & Scope Alignment: definition items (2025.02.08)
 - Process: Values, Agenda, Methods, (Data/System)Ecology: Collapse & Productivity
 - Schedule: (?; whole; this iteration)
-- Users: Stakeholders & Needs & Goals Evaluation (of users) 
-- Features: User-Features & Subfeatures (or hidden features) 
+- Users: Stakeholders & Needs & Goals Evaluation (of users)
+- Features: User-Features & Subfeatures (or hidden features)
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 - Feedback: Tests, Ecological Effects, Communication, Documentation & Iteration (~agile)
 #### v6
 - Process: Values, Agenda, Methods, Coordinated Decisions (Data/System)Ecology: Collapse & Productivity
 - Schedule: (?; whole; this iteration)
-- Users: Stakeholders & Needs & Goals Evaluation (of users) 
-- Features: User-Features & Subfeatures (or hidden features) 
+- Users: Stakeholders & Needs & Goals Evaluation (of users)
+- Features: User-Features & Subfeatures (or hidden features)
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 - Feedback: Tests, Ecological Effects, Communication, Documentation & Iteration (~agile)
 #### v7
 - Process: Values, Agenda, Methods, Coordinated Decisions (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
 - Schedule: (Duration; Start date)
-- Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- Users: Stakeholders & Needs & Goals Evaluation (of users)
 - Features: User-Features & Subfeatures/Under-The-Hood Features
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 - Feedback: Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile)
 #### v8
 - Process: Workflow Type, STEM Integration, Values, Agenda, Methods, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
 - Schedule: (Duration; Start date)
-- Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- Users: Stakeholders & Needs & Goals Evaluation (of users)
 - Features: User-Features & Subfeatures/Under-The-Hood Features
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 - Feedback: Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile)
 #### v9
 - Process: Workflow Type, STEM Integration, Values, Agenda, Methods, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
 - Schedule: (Duration; Start date)
-- Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- Users: Stakeholders & Needs & Goals Evaluation (of users)
 - Features: User-Features & Subfeatures/Under-The-Hood Features
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 - Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile)
 #### v10
 - Process: Workflow Type, STEM Integration, Values, Agenda, Methods, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
 - Schedule: (Duration; Start date)
-- Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- Users: Stakeholders & Needs & Goals Evaluation (of users)
 - Features_Skills: User-Features & Subfeatures/Under-The-Hood Features
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
 - Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
 #### v11
 - Process: Workflow Type, STEM Integration, Values, Agenda, Methods, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
 - Schedule: (Duration; Start date; Iteration Interval)
-- Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- Users: Stakeholders & Needs & Goals Evaluation (of users)
 - Features_Goals: User-Features & Subfeatures/Under-The-Hood Features
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
 - Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
 #### v12
 - 1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
 - 2. Schedule: (Duration; Start date; Iteration Interval)
-- 3. Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- 3. Users: Stakeholders & Needs & Goals Evaluation (of users)
 - 4. Features_Goals: User-Features & Subfeatures/Under-The-Hood Features including Categories of Types of Systems, Data-Types, Data-Structures, Structured Vs. Unstructured Data.
 - 5. MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
 - 6. Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
@@ -1136,23 +1136,23 @@ v5
 #### v13
 - 1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies (including for predictables issues problems and collapse elements: scope-churn, panic-halting, planning-blackout), Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
 - 2. Schedule: (Duration; Start date; Iteration Interval)
-- 3. Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- 3. Users: Stakeholders & Needs & Goals Evaluation (of users)
 - 4. Features_Goals: User-Features & Subfeatures/Under-The-Hood Features including Categories of Types of Systems, Data-Types, Data-Structures, Structured Vs. Unstructured Data.
 - 5. MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
 - 6. Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
 #### v14
 - 1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies (including for predictables issues problems and collapse elements: scope-churn, panic-halting, planning-blackout), Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
 - 2. Schedule: (Duration; Start date; Iteration Interval)
-- 3. Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- 3. Users: Stakeholders & Needs & Goals Evaluation (of users)
 - 4. Features_Goals: User-Features & Subfeatures/Under-The-Hood Features including Categories of Types of Systems, Data-Types, Data-Structures, Structured Vs. Unstructured Data. (tech-stack and resources may be implicit for higher-level goals or explicit for resource-defined needs)
 - 5. MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
 - 6. Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
 ..
-#### Project Areas & Problem-Examples 
+#### Project Areas & Problem-Examples
 #### v15
 1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies (including for predictable issues problems and collapse elements: scope-churn, panic-halting, planning-blackout), Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
 - process/policy areas may be seen as preventable-predictable-collapse-areas; each is an area of preventable mistakes that are not automatically self-preventing and that must be deliberately prevented. Problems that are not automatically visible or understandable can repeat indefinitely. Using process and policy can significantly help prevent and navigate recurring problems that are not automatically visible.
-- not accounting for different workflows (e.g. frontend, backend, data-science, production machine-learning, R&D, test-reporting, etc.) will lead to delays and failures that should not have occurred. In the absence of communication and learning, these failures may be invisible and repeat indefinitely because they are not seen and understood. 
+- not accounting for different workflows (e.g. frontend, backend, data-science, production machine-learning, R&D, test-reporting, etc.) will lead to delays and failures that should not have occurred. In the absence of communication and learning, these failures may be invisible and repeat indefinitely because they are not seen and understood.
 2. Schedule: (Duration; Start date; Iteration Interval)
 - Timelines that need to be short but are never articulated or planned for are unlikely to usually spontaneously match the needed short scale planning needs.
 - Timelines that need to be long but are never articulated or planned for are unlikely to usually spontaneously match the needed long scale planning needs.
@@ -1166,9 +1166,9 @@ v5
 4. Features_Goals: User-Features & Subfeatures/Under-The-Hood Features including Categories of Types of Systems, Data-Types, Data-Structures, Structured Vs. Unstructured Data.(tech-stack and resources may be implicit for higher-level goals or explicit for resource-defined needs)
 -- if you do not have a clear articulation of what you are doing (for a user/stakeholder to meet their clarified need) then it is unlikely that the possibly unknown goal will be accomplished in a maintainable way meeting the need of the user/stakeholder.
 5. MVP: 'MVP's (Minimum Viable Products); Tools, 'Tool Stack / Tech Stack', lexicon: jargon vs. description; skills(learning)
--- an MVP must not be an invocation of a reification-hallucination 
+-- an MVP must not be an invocation of a reification-hallucination
 -- iteratively proceeding with transparency and feedback to align and fine-tune is appropriate and time-tested in many projects.
--- articulating incremental MVP (minimum-viable-product) goals and stepping stones is an important part of progressing and communicating incrementally and/or progressing maintainably and sustainably. 
+-- articulating incremental MVP (minimum-viable-product) goals and stepping stones is an important part of progressing and communicating incrementally and/or progressing maintainably and sustainably.
 -- articulating incremental MVP (minimum-viable-product) goals and stepping stones is a skill in and of itself
 6. Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
 -- whether formal or informal there must be effective ways of communicating what has been done within the project-team and between the project-team and the user/stakeholder.
@@ -1176,15 +1176,15 @@ v5
 -- long term maintainability involves communication (including 'future you')
 -- learning directly and indirectly related to the specific project is necessary. If you do not learn that a user/stakeholder's need is not being met then long term failure is highly probable. If you continually learn and develop useful skills then long term successes are more probable.
 
-# Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes. 
-## The Problem-Checklist approach to project areas: 
-- Defining Agile-Type Areas of Projects as a set of predictable recurring problems, such as can be checked for after each iteration of a project, and that evaluation used in future planning: I.e. Here are lists of known issues; Are any of these happening? If so, there are likely invisible problems that are entirely solvable on the level of process, communication, and (except for extremes) universally accessible skills and practices. The approach here is not to try to micro-manage a one-size fits all positive-definition that should apply to everything (all projects, teams, and workshops), but rather a negative-definition of problem-areas that every unique project in a unique situation in a unique place needs to (and can) figure out how to address. 
+# Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
+## The Problem-Checklist approach to project areas:
+- Defining Agile-Type Areas of Projects as a set of predictable recurring problems, such as can be checked for after each iteration of a project, and that evaluation used in future planning: I.e. Here are lists of known issues; Are any of these happening? If so, there are likely invisible problems that are entirely solvable on the level of process, communication, and (except for extremes) universally accessible skills and practices. The approach here is not to try to micro-manage a one-size fits all positive-definition that should apply to everything (all projects, teams, and workshops), but rather a negative-definition of problem-areas that every unique project in a unique situation in a unique place needs to (and can) figure out how to address.
 - Schedule-issues may be the most demonstrably relatable for any participants (if also not easy to communicate about smoothly even in extremely remedial ways). It may be helpful to think of a kind of 'schedule object permanence' in a kind of project-space-sally-anne test. Some people are skilled at perceiving and managing schedule-object permanence space, many people are not, but likely ~all people are able to learn basic schedule object permanence skills and have basic fitness. A key problem is that many people do not understand the possibility of there being a lack of schedule-object-perminance-space fitness (and other project areas), assuming that all world fitness is automatic. The concept of not-automatically-learned-skills, is itself not automatically learned.
 #### Project Areas & Problem-Examples
 #### v18
 1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies (including for predictable issues problems and collapse elements: scope-churn, panic-halting, planning-blackout), Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies), for macro: Mapping/Modeling, Strategizing, Navigating, Decision-making, forming conclusions, planning, initiative-taking, leadership, etc.
 - process/policy areas may be seen as preventable-predictable-collapse-areas; each is an area of preventable mistakes that are not automatically self-preventing and that must be deliberately prevented. Problems that are not automatically visible or understandable can repeat indefinitely. Using process and policy can significantly help prevent and navigate recurring problems that are not automatically visible.
-- not accounting for different workflows (e.g. frontend, backend, data-science, production machine-learning, R&D, test-reporting, etc.) will lead to delays and failures that should not have occurred. In the absence of communication and learning, these failures may be invisible and repeat indefinately because they are not seen and understood. 
+- not accounting for different workflows (e.g. frontend, backend, data-science, production machine-learning, R&D, test-reporting, etc.) will lead to delays and failures that should not have occurred. In the absence of communication and learning, these failures may be invisible and repeat indefinately because they are not seen and understood.
 
 2. Schedule: (Duration; Start date; Iteration Interval)
 - timelines that need to be short but are never articulated or planned for are unlikely to usually spontaneously match the needed short scale planning needs.
@@ -1206,14 +1206,14 @@ v5
 -- having simultaneous paradoxical schedules plans
 -- using nihilistic disinformation to discredit the value, function, and meaning of a schedule
 -- suddenly changing a schedule (or trying to), often at the last minute
--- not having in scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely)). 
+-- not having in scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely)).
 
 3. Users: Stakeholders & Needs & Goals Evaluation (of users)
 -- not having and coordinating with users/stakeholders and their needs significantly raises the probability that the project will not improbably spontaneously meet their unknown and possibly unarticulated needs by accident.
 -- not properly doing a needs and goals evaluation significantly raises the risk of goals being either incorrectly identified, or having goals indefinitely changing or rotating between amorphous unexamined but often entirely predictable areas.
 
-4. Features_Goals: User-Features & Subfeatures/Under-The-Hood Features including design factors such as Categories of Types of Systems, Data-Types, Data-Structures, Structured Vs. Unstructured Data.(E.g. tech-stack and resources may be implicit for higher-level goals or explicit for resource-defined needs); lexicon: clarify jargon vs. description; 
-- From a user-story standpoint, what is this project making? 
+4. Features_Goals: User-Features & Subfeatures/Under-The-Hood Features including design factors such as Categories of Types of Systems, Data-Types, Data-Structures, Structured Vs. Unstructured Data.(E.g. tech-stack and resources may be implicit for higher-level goals or explicit for resource-defined needs); lexicon: clarify jargon vs. description;
+- From a user-story standpoint, what is this project making?
 - From an Under-the-hood standpoint, what needs to be made and how for the project to be maintainable?
 - Are these known? Do these need to be researched?
 -- If you do not have a clear articulation of what you are doing (for a user/stakeholder to meet their clarified need) then it is unlikely that the possibly unknown goal will be accomplished in a maintainable way meeting the need of the user/stakeholder.
@@ -1221,9 +1221,9 @@ v5
 
 5. MVP: 'MVP's (Minimum Viable Products); Deliverables Checklist;
 Tools, 'Tool Stack / Tech Stack',
-- Each MVP must not be an invocation of a reification-hallucination. 
+- Each MVP must not be an invocation of a reification-hallucination.
 - Iteratively proceeding with transparency and feedback to align and fine-tune is appropriate and time-tested in many projects.
-- Articulating incremental MVP (minimum-viable-product) goals and stepping stones is an important part of progressing and communicating incrementally and/or progressing maintainably and sustainably. 
+- Articulating incremental MVP (minimum-viable-product) goals and stepping stones is an important part of progressing and communicating incrementally and/or progressing maintainably and sustainably.
 - Articulating incremental MVP (minimum-viable-product) goals and stepping stones is a skill in and of itself.
 -- Without timely iterative MVP deliverables, feedback from the user about features and usability will be significantly hindered.
 -- Without data and feedback about initial MVP outcomes, blindness will strangle the management of the project, coordination of people, and the management of resources.
@@ -1247,7 +1247,7 @@ Tools, 'Tool Stack / Tech Stack',
 
 
 
-## Advocacy and support tools for 'process' 
+## Advocacy and support tools for 'process'
 #### Policy on Feedback, Errors, Mistakes, & Transparency: a process for reporting feedback (there needs to be a process and team-cultural permission to handle feedback and data): [2025.04.27]
 - handling the predictable 'culture vs. data' conflicts:
 -- rejecting [data, feedback, results, process, policy,] as being [disloyal, disrespectful, contrary to hierarchy-status, conspiracy, disobedience, etc.]
@@ -1263,7 +1263,7 @@ Tools, 'Tool Stack / Tech Stack',
 - skipping steps: trying to jump to later steps without doing early-stage steps (not uncommon)
 - indeterminate goals: constantly changing, appearing and disappearing, vague placeholders and proxies (not uncommon)
 - no-plan: project description areas were, are, and likely will be empty; they need to be filled in. (not uncommon)
-- lack of alignment around a Discovery & Identification Phase (not uncommon) ‘Where are you? -> Where are you going? -> How do you get there?’ You cannot skip the first part. 
+- lack of alignment around a Discovery & Identification Phase (not uncommon) ‘Where are you? -> Where are you going? -> How do you get there?’ You cannot skip the first part.
 ## General Project State: (2025.01.27
 - team project state (Agile, Kahneman Tversky, 6sigma)
 - organizational project state (companies, libraries, schools, offices, labs)
@@ -1276,7 +1276,7 @@ Agile-Kahneman-Tversky-STEM-Productivity
 ### Questions on Collaboration Tools.
 1. Timeline: Could Agile-Kahneman-Decision tools have been built in the 1960's?
 2. Features: What User-Features/Functionalities are needed for a project to use best-practice satisfying the standards of (if not using all methods of) Agile Agile-Kahneman-Tversky-Decision Project-Product Management?
-3. Tools: What tools are needed to effect what features? (E.g. In 2024 what if any tools could a non-clearweb business/ngo/institution/municipality/etc. use to effect 
+3. Tools: What tools are needed to effect what features? (E.g. In 2024 what if any tools could a non-clearweb business/ngo/institution/municipality/etc. use to effect
 Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best practice Project-Product Management? [GGA answer: None that I know of in 2024])
 4. 2024 tool availability
 5. 'technology' role as in 1936 computable numbers paper: 'manual human' vs. 'automated'
@@ -1303,7 +1303,7 @@ Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best
 - task planner tool
 - vote tool
 (where are alignment procedures?)
-- schedule and scope? 
+- schedule and scope?
 ...
 - tasks, kanban, task-lists, misc task datastructures, project-task-management tool
 - voting, forms, questionnaire, survey, tool
@@ -1316,7 +1316,7 @@ Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best
 - instant message browser
 - task (kanban) browser
 - vote-feedback survey browser
-- team-role-project-alignement-sync tool 
+- team-role-project-alignement-sync tool
 ### ?
 - productivity tools
 - collaboration tools
@@ -1333,7 +1333,7 @@ Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best
 - fitness, disinformation, toxicity stat
 - life-long-learning stats
 ### Basic Project/Task Description Fields:
-- Policy 
+- Policy
 - Scope (user feature, sub-features)
 - Schedule (days)
 ## Bad Proxies for Agendas & Policy
@@ -1363,18 +1363,18 @@ problem_diangostics
 - panic
 - agile-churn
 - fear of data and love of reifications
-- 'blank stair' vacant-policy where there is zero identification of, recognition of, response or reaction to, or response to questions and feedback about clear (especially trivial or solvable) errors and problems (with or without their long term impacts). Blandly and blindly accumulating liabilities with no apparent consciousness of the trajectory of failure where such awareness is learn-able is a serious problem the correction of which is a high priority imperative. 
+- 'blank stair' vacant-policy where there is zero identification of, recognition of, response or reaction to, or response to questions and feedback about clear (especially trivial or solvable) errors and problems (with or without their long term impacts). Blandly and blindly accumulating liabilities with no apparent consciousness of the trajectory of failure where such awareness is learn-able is a serious problem the correction of which is a high priority imperative.
 - STEM values, policy, and perception vs. unproductive default values and perceptions: the whole area of feedback, data, and ~agile alignment in projects relates to skills that must be learned and a default reaction that is dangerously unproductive: errors and feedback are by default repellant in a sport-ego-something-supersticious-ignorance modality of 'saving face' and potemkin village building. 'Policy' is a key concept area for learning and perceiving new areas of distinction that do not exist by default: long term matters, finding errors is not bad, feedback exists, feedback is an asset, alignment exists, alignment is an asset, solving-problems exists, solving-problems is an asset. [2025.09.12]
 '''
 The idea that you should not use process because you lack perfect eternal knowledge about a situation is strongly invalid. An analogy may be like saying "I won't ask the waiter for their recommendation if I don't know what's on the menu, because I don't know what's on the menu' is strategically incoherent: asking, communicating, and iterating is time tested "process" for both mostly known situations and especially for volatile and unknown situations. Another analogy might be saying, "We can't use a random-walk heuristic navigation process because we don't know where things are located, and/or locations might change beyond our control." This is strategically inverted and backwards: process is especially important when static knowledge about static conditions is absent, not the other way around. (2025/05)
 '''
-## The phenomena of minds being unsettled by looking 'lower' than a layer of abstraction that they have learned to handle, ranging from 'showing ankles' significant disruption from anatomical lack of trained familiarity to 'math-phobia.' 
+## The phenomena of minds being unsettled by looking 'lower' than a layer of abstraction that they have learned to handle, ranging from 'showing ankles' significant disruption from anatomical lack of trained familiarity to 'math-phobia.'
 
 ## Long Term Codebase Maintenance
 - Codebase Maintainer will likely need to be both an occupation and a cost, which some institutions will struggle to afford. [01.2026]
 
 # STEM Values
-- "Can" 
+- "Can"
 - "Should"
 - https://github.com/lineality/definition_behavior_studies
 - Are long term maintainability, auditability, productivity, and survival, a lack of system-collapse,  'STEM values' or is STEM nihilistically 'value neutral' and absolutely disconnected from any aspect of values, ethics, morals, health, etc.?
@@ -1385,10 +1385,10 @@ The idea that you should not use process because you lack perfect eternal knowle
 ## common perception problems and pitfalls
 - causality perception
 -  the 'sweet tooth' or 'channel surfing' problem, or 'eternal quest' problems
-- people ignore details and endlessly search for a 'feels perfect' solution on entirely entertainment-stimulation criteria. 
+- people ignore details and endlessly search for a 'feels perfect' solution on entirely entertainment-stimulation criteria.
 - rebellion
 - KT areas
-- 
+-
 ## STEM pathology psychology
 - religious pathology
 - sport pathology
@@ -1396,13 +1396,13 @@ The idea that you should not use process because you lack perfect eternal knowle
 - See: 2.2.5 Mismanaging Standard System Policy Areas
 2.2.5 Mismanaging Standard System Policy Areas:
 	is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
-For example:  
-1. Mismanaging Split substantiations: for example 
-'they are all good' 
-'they are all bad' 
+For example:
+1. Mismanaging Split substantiations: for example
+'they are all good'
+'they are all bad'
 'they should be dealt with by cramming them together or splitting them apart"
-2. Golden circle asymmetry / inside outside asymmetry, deleterious effects include: 
-- causality, 
+2. Golden circle asymmetry / inside outside asymmetry, deleterious effects include:
+- causality,
 - schedules,
 - contracts.
 3. System inversion (is a standard data artifact)
@@ -1460,8 +1460,8 @@ There are a lot of tradeoffs with no automatic or easily findable balance, and t
 ### oositive goals, ish:
 - data/information hygiene is a goal
 
-## Bad Wrong Assumptions about Mind 
-Stop these assumptions: 
+## Bad Wrong Assumptions about Mind
+Stop these assumptions:
 - everyone is automatically aligned (on scope, goals decisions)
 - everyone has automatic perfect time-traveling knowledge from and about everyone else
 - everyone know what is going on and what to do
@@ -1471,7 +1471,7 @@ Stop these assumptions:
 - communication is automatic and effortless and uses time travel
 
 ## Modeling a persistent failure to learn
-- 
+-
 - cases: 'reappraisals' --TJ
 
 ## Collapse & Negative Definitions
@@ -1505,18 +1505,18 @@ Stop these assumptions:
 1. choices made in strongly private situations (maybe not the same an anonymous environments)
 2. peer pressure and trolling bullying hazing disinformation torture against health food and healthy habits.
 
-Both are different, and both are often ignored/denied areas. 
+Both are different, and both are often ignored/denied areas.
 And both may involve the bazaar cargo-cult of undefined 'rational behavior' which emerged or became dominant in the postwar period.
 
 # Workflow Studies
 
 # Bureaucracy and Code, Not a reified Antagonist
 - coding issues and best practice compared with fears of villainous administrations
-- feedback and cargo cults  
+- feedback and cargo cults
 
 ## externalizing Datastructures and Delineations
 - swap 'demarcation' system (term to use... 'syntax' swap?)
-- TOML swap, swap, 
+- TOML swap, swap,
 
 # Decisions, Coordinated Decisions, Tasks and Project State:
 - 1. case study: "ticket" ownership vs. 'assignment'
@@ -1526,7 +1526,7 @@ And both may involve the bazaar cargo-cult of undefined 'rational behavior' whic
 
 # The General Problem Space of Project Decisions:
 - Decision making skills especially in a context of projects are a critical part of education and fall naturally into general-STEM education.
-- It is possible that planning STEM-Education is itself a classic example of the presence of significant definable deficits in decision-making skills and abilities, especially including coordinated-decisions and project outcomes. 
+- It is possible that planning STEM-Education is itself a classic example of the presence of significant definable deficits in decision-making skills and abilities, especially including coordinated-decisions and project outcomes.
 Biases:
 - aesthetic bias
 - momentum/tradition bias
@@ -1565,7 +1565,7 @@ Biases:
 - file types
 - data types
 - calculation methods
-- statistical methods 
+- statistical methods
 - disclosure of methods
 
 ## Data Types, Datatypes
@@ -1583,7 +1583,7 @@ Biases:
 -
 
 ## clear definitions in coordination
-- 
+-
 
 # "explainability" and context
 - GLM
@@ -1601,7 +1601,7 @@ Biases:
 -- storage formats
 -- data types
 
-- size-management 
+- size-management
 - parallelism
 - concurrency
 - mutability
@@ -1610,12 +1610,12 @@ Biases:
 - quantizing (of floats)
 - externalization
 - graphs (the data structure)
-- 
+-
 
 ## Networks vs. Databases:
 - Why is data-coordination solved for networks but seen as unsolvable in single databases?
-- 
-- GC garbage collection, database 
+-
+- GC garbage collection, database
 ...
 
 ## Design Factors and Compromises
@@ -1628,9 +1628,9 @@ Biases:
 
 General Participation & The Health of Systems
 2024.01.06
-The shift from a simple set of goals into a set of goals much more affirmatively focused on protecting participation, communication, and coordination among diverse participants in a society. 
+The shift from a simple set of goals into a set of goals much more affirmatively focused on protecting participation, communication, and coordination among diverse participants in a society.
 
-This set goal could be stated as: Use STEM based methods and policies to help defend against disruption and collapse of communication and coordinated decisions in and across diverse groups and perspectives in project-complating societies with general participation of members. 
+This set goal could be stated as: Use STEM based methods and policies to help defend against disruption and collapse of communication and coordinated decisions in and across diverse groups and perspectives in project-complating societies with general participation of members.
 ...
 
 # STEM and Participation
@@ -1658,7 +1658,7 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 ...
 
 ## incentives and long term incentives
-- 
+-
 
 ...
 
@@ -1706,7 +1706,7 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 
 ## What are various either easily or not-easily measured goals and problems or errors for coordinated decisions?
 
-### Why are specific technologies used for voting? 
+### Why are specific technologies used for voting?
 
 ### What is different about 'electronic,' 'network,' and data structure technologies? (making them appropriate or inappropriate for voting systems)
 
@@ -1715,8 +1715,8 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 - learning
 - collapse
 - compassion
-- product development valley of death, demand distortion, want 
-vs. 
+- product development valley of death, demand distortion, want
+vs.
 'should want', education, learning, non-automatic learning, equilibria, bad-equilibria, etc.
 
 ## Defaults and Equilibria
@@ -1727,12 +1727,12 @@ vs.
 Francis Fukuyama on default tribal modes and ~ participatory self-identification
 (two books, part 1  par 2, on political order)
 - https://www.amazon.com/Origins-Political-Order-Prehuman-Revolution-ebook/dp/B00457X7VI
-- https://www.amazon.com/dp/B08MVZH1KP?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin 
-- https://www.amazon.com/Identity-Demand-Dignity-Politics-Resentment-ebook/dp/B0796WDX5G/ 
+- https://www.amazon.com/dp/B08MVZH1KP?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
+- https://www.amazon.com/Identity-Demand-Dignity-Politics-Resentment-ebook/dp/B0796WDX5G/
 - computer-science code and law (civil, criminal, etc.)
 - common code management problems
 - NASA's Power of 10 process-rules for govern-able code-law
-- Rust vs. Zig and categories of general-utility code that should lack fragility and not require high or unrealistic skill levels to maintain (e.g. the perpetual-CVE tragedy of ex-vi-vim minimal) 
+- Rust vs. Zig and categories of general-utility code that should lack fragility and not require high or unrealistic skill levels to maintain (e.g. the perpetual-CVE tragedy of ex-vi-vim minimal)
 
 
 ## Demand Distortion: Factors and Areas of impact
@@ -1797,7 +1797,7 @@ Voting and principles of security (ease of use vs. security etc)
 - the term 'production'
 
 #### Note: RC4 used correctly (discarding early output)
-- https://en.wikipedia.org/wiki/RC4 
+- https://en.wikipedia.org/wiki/RC4
 
 ## Improvised or ad-hoc Network in case of public internet disruptions:
 - mesh?
@@ -1826,7 +1826,7 @@ Conditional Expression and Signal Gaps: General Signal Processing And General In
 2.2  Optional Information-Signal Pathways
 
 ## Mandate Mixtures
-How about a system where a candidate who get's less (or perhaps more too) than a given percentage is required to operate on a mandate system with mandates coming through a proportional consensus system kind of like a parliamentary coalition. 
+How about a system where a candidate who get's less (or perhaps more too) than a given percentage is required to operate on a mandate system with mandates coming through a proportional consensus system kind of like a parliamentary coalition.
 
 ## Layers of language and collective symbolism
 
@@ -1845,7 +1845,7 @@ for systems of coordinated decisions on processes?
 - medical
 - education
 
-# How much does a decision/Election Cost? 
+# How much does a decision/Election Cost?
 Process Duration / Resource-Cost
 How long can and should it take for an election to be organized, carried out and reported on, now including any arbitrary window allowed for extra voting (e.g. you could hold a vote open for 5 years, but that doesn't mean it takes 5 years to count the votes and publish).
 
@@ -1883,13 +1883,13 @@ https://www.economist.com/business/2025/10/16/why-bosses-need-to-wake-up-to-dark
 
 
 ### Nihilism and Short Term Thinking
-Is there a pattern whereby nihilism ends up aligning with short term fraud and fanticism, for example in the perhaps measurable sales-fraud, potemkin village, shoot the messenger, 
+Is there a pattern whereby nihilism ends up aligning with short term fraud and fanticism, for example in the perhaps measurable sales-fraud, potemkin village, shoot the messenger,
 relating weak business leadership to 'political' populist extremism?
 
 ### Detection of short term and long term problems
 - short cycle bubbles (fewer than 5 years)
-- indefinite embedded long term problems 
-- Thomas Hobbs and long-term survival via learning, allegories of knowledge based ignorance-based-collapse avoidance. 
+- indefinite embedded long term problems
+- Thomas Hobbs and long-term survival via learning, allegories of knowledge based ignorance-based-collapse avoidance.
 
 ## Value Function and Meaning
 - detecting disingenuous short term thrill seeking
@@ -1899,20 +1899,20 @@ relating weak business leadership to 'political' populist extremism?
 - interpretation and ambiguity
 - spelling correction
 
-## Metrics 
+## Metrics
 - definitions
 - falsifiability
 
 ## Metrics and Policies for operational and project ambiguity
 - problema detection
-- problem resolution/solving 
+- problem resolution/solving
 
 # Ballot Fraud Detection
-- Machine Learning and Fraud Detection 
+- Machine Learning and Fraud Detection
 
-# Election Procedures and Best Practice 
-- https://www.economist.com/briefing/2026/04/23/might-donald-trump-try-to-rig-the-midterms 
-- https://www.economist.com/leaders/2026/04/23/america-is-vulnerable-to-electoral-vandalism 
+# Election Procedures and Best Practice
+- https://www.economist.com/briefing/2026/04/23/might-donald-trump-try-to-rig-the-midterms
+- https://www.economist.com/leaders/2026/04/23/america-is-vulnerable-to-electoral-vandalism
 
 ## various kinds of disinformation relating to coordinated decisions:
 - inability to tell what is computer generated vs. real (may not be a deliberate attack, e.g. misunderstanding of ~art found online)
@@ -1931,7 +1931,7 @@ relating weak business leadership to 'political' populist extremism?
 - 'physically etc, metally etc., morally etc' as from boyscouts
 
 ## Modular Decision / Choice / Vote, etc. Areas:
-- 
+-
 - 'multiple choice' systems
 - writein systems
 - questionaires
@@ -1953,7 +1953,7 @@ relating weak business leadership to 'political' populist extremism?
 
 ## Modular vs. non-modular 'objects' and processing
 
-## Production and Productivity: 
+## Production and Productivity:
 - process-productivity vs. incidental-productivity
 - long-term productivity vs. incidental-productivity
 
@@ -1989,7 +1989,7 @@ relating weak business leadership to 'political' populist extremism?
 
 ## realistic efficiency:
 - web applications are usually designed with very strange goals that make the overall process extremely brittle, expensive, and unsustainable, in order to chase fetich-goals with little or no real value (fancy UI, high speed)
-- election system should be robust with no added features that are not absolutely needed: few dependencies, secure, 
+- election system should be robust with no added features that are not absolutely needed: few dependencies, secure,
 
 ## location: on edge, on premise, distributed, server, and cloud
 - case studies for distributed systems?
@@ -2041,7 +2041,7 @@ judges, judge_1, MY_CHOICE\n
 ## input and clarity standard: a very long and vague story that needs to be very brief and clear: what are symbols and what gets printed?
 
 ## Privacy and anonymity: "When Hashes Collide"
-uses of hashes for statistical usefulness for behavior patterns for statistically anonymous for identifying specific people. 
+uses of hashes for statistical usefulness for behavior patterns for statistically anonymous for identifying specific people.
  Episode #940 | 19 Sep 2023 | 104 min.
 https://www.grc.com/sn/sn-940.txt
 https://www.grc.com/sn
@@ -2068,21 +2068,21 @@ Episode #940 | 19 Sep 2023 | 104 min.When Hashes Collide
 string check
 float check
 int check
-boolean check 
+boolean check
 none check
 
 ### list check
 --string check
 --float check
 --int check
---boolean check 
+--boolean check
 --none check
 
 ### dict check
 --string check
 --float check
 --int check
---boolean check 
+--boolean check
 --none check
 ?set check?
 ?tuple check?
@@ -2110,7 +2110,7 @@ derivation and integration of process modules
 ## The importance of open-source for software testing
 
 ## Coordinated Decisions and externalized project-state in something like-ish game-theory:
-- https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles 
+- https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles
 
 ## Automation and Voting Systems
 
@@ -2129,7 +2129,7 @@ derivation and integration of process modules
 - role of quality random and pseudo random numbers
 - clock problems and clock accuracy in voting network
 - importance of culture and cultural concepts for testing
-- importance of aspects of testing not being seen as culturally 'rude' such as asking questions, double checking, redundant communication, etc. 
+- importance of aspects of testing not being seen as culturally 'rude' such as asking questions, double checking, redundant communication, etc.
 
 ## Time Databases and Coordinated Decisions
 - race conditions
@@ -2141,12 +2141,12 @@ derivation and integration of process modules
 - delayed source UTC
 - Astronomical and off-planet time
 
-## Franklin's Commonwealth 
+## Franklin's Commonwealth
 2024.08.06
--  
+-
 
 ## Views and Depictions of "Bureaucracy"
-- 
+-
 
 ## Using Technology (including NLP-AI) to search and explain about voting topics, ballot initiatives, and issues connected. etc. e.g. All the issues related to a water-regulation change and what might be affected in the short and long term.
 
@@ -2173,17 +2173,17 @@ derivation and integration of process modules
 - serializability
 - fault tolerance or fault reaction
 - redundancy
-- scale 
+- scale
 - speed
 
 ## Municipal and Academic
 - software requirements and skill-ability goals
 
-## architectural problem spaces 
+## architectural problem spaces
 - different types of problem-spaces with decentered coordinated decisions vs. centrally handled
 - how many parties are coordinating
 - synchronous, asynchronous
-- state or stateless (as in memory, not gov) 
+- state or stateless (as in memory, not gov)
 
 
 
@@ -2214,16 +2214,16 @@ derivation and integration of process modules
 - anti-STEM
 - anti-data
 - there seems to be an extreme
-- trolling-disinformation nonsense objections 
+- trolling-disinformation nonsense objections
 
 # Analysis Section
-- reification and randomness in patterns, from 'elimination' contest artificiality to Kahneman business and market randomness illusions. 
+- reification and randomness in patterns, from 'elimination' contest artificiality to Kahneman business and market randomness illusions.
 - applications to fitness of persons
 - applications to clear language used
 - applications to issues and options
 - applications to best practice operations (for voting and for what is voted on)
 - https://www.economist.com/united-states/2026/04/21/our-midterms-forecast-predicts-pain-for-donald-trump
-- 
+-
 
 ## Locus of Control
 - psychology of external locus of control
@@ -2243,7 +2243,7 @@ derivation and integration of process modules
 - statistics and machine learning
 - decision trees and statistics
 - continuous functions vs. classification
-- targets of analysis: participation, time-space, security, results, process efficiency, QC/QA reporting, 
+- targets of analysis: participation, time-space, security, results, process efficiency, QC/QA reporting,
 (see Daniel Kahnemann's book on 'Noise')
 
 # Defining "Technology" for coordinated decision making including elections
@@ -2285,14 +2285,14 @@ derivation and integration of process modules
 
 ## Decisions elections and types of questions
 
-## Confronting antisocial behaviors, disinformation, and collapse 
+## Confronting antisocial behaviors, disinformation, and collapse
 - e.g. when it masquerades as 'culture' 'tradition' etc.
 
 ## Forms and Formats of Data
 - size
 - redundancy
 - anonymized
-- statistically identifiable (when hashes collide) 
+- statistically identifiable (when hashes collide)
 
 # checks and balances vs. mob violence
 
@@ -2330,13 +2330,13 @@ derivation and integration of process modules
 
 ### distortions and illusions
 - causal mirage illusions
-- placeholder reification 
+- placeholder reification
 - cargo cults
 
 #  Records, versioning, documentations, testing standards
 
 ## Learning, Need & Assistance Areas:
-- What are the learning and fitness limiting factors in coordinated decisions and projects? 
+- What are the learning and fitness limiting factors in coordinated decisions and projects?
 - Project Neem
 - Project Uma
 
@@ -2373,7 +2373,7 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 ## Interconnected decision events
 - interaction and feedback
 
-## Responsibility, STEM & Values 
+## Responsibility, STEM & Values
 (2024.10.05)
 - Is responsibility being fraudulently obfuscated?
 
@@ -2444,7 +2444,7 @@ Equivalence and Non-equivalence in representation of situations and choices.
 
 ## Data and Illusions:
 coordination decision systems need to set up in such a way that data and a tether to reality are able to keep in check and prevail over the tendency towards illusions and coverups and in potemkin villages.
-Literally or proverbially software since 1970 has been a self-conspiracy among complacent developers who prioritize their won recreation and entertainment experience over reality and the effects of the software they create to result in a space-trash 'polluted' environment of hidden problems where the priority is lipstick-on-a-pig fads and pedantic distractions. Developers spend huge amounts of time entertaining themselves with the 'self-care' of beautifying their keyboard and beautifying their desk and beautifying their background and beautifying editor/IDE and beautifying their 'self commenting' code, and creating the fun-illusion of their own personal entertainment pleasure seeking experience, complete with the fun of being a bullying manager, the fun of randomizing other people's schedules, blaming interns for the problems of senior staff etc, enjoyably, defiantly defying basic Agile project management areas and being a coder cowboy bro rockstar. The result is very predictably ruin and toxification, which is predictably (potemkin village) hidden away and covered up with more lipstick and distraction beautification, blaming down hill, wasting more time on entertainment junkfood and 'self-care.' By analogy, coordinated decisions and elections may be able to work well or fail to work well around similar criteria. 
+Literally or proverbially software since 1970 has been a self-conspiracy among complacent developers who prioritize their won recreation and entertainment experience over reality and the effects of the software they create to result in a space-trash 'polluted' environment of hidden problems where the priority is lipstick-on-a-pig fads and pedantic distractions. Developers spend huge amounts of time entertaining themselves with the 'self-care' of beautifying their keyboard and beautifying their desk and beautifying their background and beautifying editor/IDE and beautifying their 'self commenting' code, and creating the fun-illusion of their own personal entertainment pleasure seeking experience, complete with the fun of being a bullying manager, the fun of randomizing other people's schedules, blaming interns for the problems of senior staff etc, enjoyably, defiantly defying basic Agile project management areas and being a coder cowboy bro rockstar. The result is very predictably ruin and toxification, which is predictably (potemkin village) hidden away and covered up with more lipstick and distraction beautification, blaming down hill, wasting more time on entertainment junkfood and 'self-care.' By analogy, coordinated decisions and elections may be able to work well or fail to work well around similar criteria.
 - Kahneman & Tversky
 - Joseph Weizenbaum & Eliza
 
@@ -2468,7 +2468,7 @@ Perhaps as in the more or less deterministic actions of a compiler, what parts o
 ## Formalities of ownership and tragedy of the commons
 
 ## Non-Automatic Processes & Equilibria
-- Implications of non-automatic learning 
+- Implications of non-automatic learning
 - system literacy for local and regional project administration
 
 # Equilibria, Catalysis, Default-Modes, and Non-Automatically Learned Areas:
@@ -2477,9 +2477,9 @@ Perhaps as in the more or less deterministic actions of a compiler, what parts o
 - STEM-literacy
 - project-area
 - value-literacy
-- short-term/long-term 
-- basal-distal 
-- general perception-illusion 
+- short-term/long-term
+- basal-distal
+- general perception-illusion
 - sportsmanship
 - ~rolemodel/heros
 
@@ -2492,10 +2492,10 @@ Perhaps as in the more or less deterministic actions of a compiler, what parts o
 - character-set issues
 
 ## Dimensionality and Statistical Representations
-- in various cases what we want from decision data are 
+- in various cases what we want from decision data are
 lower dimensional representations of higher dimensional structures
 represented by low-dimensional language data from the participants
-this also may trace a distinction between vote/decisions that can 
+this also may trace a distinction between vote/decisions that can
 be clearly defined as simple choices, that can elusively be defined,
 or decisions that cannot be reduced to binary or classification
 choices
@@ -2527,9 +2527,9 @@ choices
 - disinformation in supposedly educational institutions
 
 ## Signal Coordination Ecology
-https://www.amazon.com/Ecology-Collective-Behavior-Deborah-Gordon/dp/0691232156/ 
+https://www.amazon.com/Ecology-Collective-Behavior-Deborah-Gordon/dp/0691232156/
 The Ecology of Collective Behavior Paperback – October 24, 2023
-by Deborah M. Gordon 
+by Deborah M. Gordon
 - alternatives to whole-part contexts
 
 ## Planning and the Cost of Coordination
@@ -2579,7 +2579,7 @@ by Deborah M. Gordon
 - salt
 
 # The Stakeholder Perspective:
-- Would a person who relies upon the voting system as infrastructure for survival go along with decisions being made by people who may be indeterminately incompetent or malicious? 
+- Would a person who relies upon the voting system as infrastructure for survival go along with decisions being made by people who may be indeterminately incompetent or malicious?
 
 ## Problems of linguistics and psychology
 - narrowing manageable scope for project decisions and project state
@@ -2588,7 +2588,7 @@ by Deborah M. Gordon
 - character sets
 - data structure types
 
-# Memory Management: 
+# Memory Management:
 - security
 - privacy
 (lower level: programming language used)
@@ -2615,7 +2615,7 @@ by Deborah M. Gordon
 - object permanence
 - project object permanence
 - energy quantizing
-- sally-anne type point of view 
+- sally-anne type point of view
 - cut-up projects
 
 ## coordinated decisions in open, closed, and semi-closed data-ecosystems
@@ -2644,7 +2644,7 @@ by Deborah M. Gordon
 - choice:
 - voted_for_choice_or_choices:
 - write-in:
-This overall same information can be expressed and in various specific situations will need to be expressed and externalized in significantly different ways, such that handling and comparing such structure is not automatically simple. 
+This overall same information can be expressed and in various specific situations will need to be expressed and externalized in significantly different ways, such that handling and comparing such structure is not automatically simple.
 ## Definitions of emergencies
 - as in the classic problems on spurious and ongoing claims of emergency-administration
 
@@ -2656,18 +2656,18 @@ One of the founding inspirations in the history of the developing of UMA, where 
 There are a few main things that UMA needs to be or have for an SOS team-channel to work in a way that could have helped in the Daishinsai or in other or lesser situations.
 
 1. finely constrained and load-managed signals:
-For better or worse, the history of signal sending from (if proverbial) Byzantine General problems, to early Gutenberg incunabula, to the management of codes and signals during WWI that came from and fed back into computer science: computer science is not based on and does not confirm the naive ideology that 'computer everything in every way and print everything in every way forever' is a feasible way get anything done; disregard for details is completely contrary to computer science. There are a large but manageable number of feasibility constraints that a solution must satisfy in order to be a practical project and product plan: using more resources than exist won't work. 
+For better or worse, the history of signal sending from (if proverbial) Byzantine General problems, to early Gutenberg incunabula, to the management of codes and signals during WWI that came from and fed back into computer science: computer science is not based on and does not confirm the naive ideology that 'computer everything in every way and print everything in every way forever' is a feasible way get anything done; disregard for details is completely contrary to computer science. There are a large but manageable number of feasibility constraints that a solution must satisfy in order to be a practical project and product plan: using more resources than exist won't work.
 
-Security and data hygiene are also important factors on many levels: Sending data types or quantities of data that break the system won't work. 
+Security and data hygiene are also important factors on many levels: Sending data types or quantities of data that break the system won't work.
 
-Deliberate abuse is (again, look at history) a prominent consideration that cannot be claimed to be a surprise. 
+Deliberate abuse is (again, look at history) a prominent consideration that cannot be claimed to be a surprise.
 
-The Open-SOS team-channel/mode is not designed to be a vaguely open network where anyone or everyone can send anything or everything in any way or every way to anyone or everyone anywhere or everywhere at any time or at all times. 
+The Open-SOS team-channel/mode is not designed to be a vaguely open network where anyone or everyone can send anything or everything in any way or every way to anyone or everyone anywhere or everywhere at any time or at all times.
 
-The Open-SOS team-channel/mode will be as narrowly an strictly and minimally defined so as to be robust and practical within the scope of what is needed. 
+The Open-SOS team-channel/mode will be as narrowly an strictly and minimally defined so as to be robust and practical within the scope of what is needed.
 For example:
 reserved specified listening port: 44444
-enum: u8 byte array for latitude 
+enum: u8 byte array for latitude
 enum: u8 byte array for longitude
 enum: u16 int pre-specified situation code, borrowed from first responders
 
@@ -2675,27 +2675,27 @@ At a super-minimal SOS signal system, these three size and type constrained byte
 
 Another part of this is making sure that the receiving side, however imperfectly, has a minimal scope as well, e.g.
 - listen at 44444
-- if you get flooded with signals, e.g. if more than 8 signals in 10 sec, pause listening for 10-min (or some number). 
+- if you get flooded with signals, e.g. if more than 8 signals in 10 sec, pause listening for 10-min (or some number).
 - store only a reasonably small number of signals (which depends on how small the signals are), perhaps in the range of 8-512 signals (with 8 being a lite default)
 - be able to externalize these signals to pass them on to an emergency service.
 
 Even though at some times and places deranged people will spam fake emergency signals just to be destructive (with no benefit to anyone), the overall system can likely be designed so that this is an acceptable amount of noise just in case the system really is needed. e.g. 8 small spam signals every 10 minutes that you can just ignore is not going to over-tax your system.
 
-This is not without risk but likely has minimal risk. You cannot use this to send an open-ended message, e.g. something a young student should not see. The worst may be if someone is lured to a bandit trap location from a fake signal. This may or may not be a significant risk depending on the details. There is no requirement to have such an S.O.S. channel if it is a liability. 
+This is not without risk but likely has minimal risk. You cannot use this to send an open-ended message, e.g. something a young student should not see. The worst may be if someone is lured to a bandit trap location from a fake signal. This may or may not be a significant risk depending on the details. There is no requirement to have such an S.O.S. channel if it is a liability.
 
-A more useful but also more risky option is to allow a person to share connection information as fields in the signal. There are emergency situations where this would be an asset, but general default-malicious behavior demonstrates that most of the time this would be used by predators to attempt attacks on people who were lured into creating a connection with the attacker. There may be reasonable balances where for example completely vulnerable young children would not be able to set up and configure this feature on their own (or build their own software and hardware from scratch to do the same thing), but emergency-tech-teams would have the option to send and receive connection information as an option. 
+A more useful but also more risky option is to allow a person to share connection information as fields in the signal. There are emergency situations where this would be an asset, but general default-malicious behavior demonstrates that most of the time this would be used by predators to attempt attacks on people who were lured into creating a connection with the attacker. There may be reasonable balances where for example completely vulnerable young children would not be able to set up and configure this feature on their own (or build their own software and hardware from scratch to do the same thing), but emergency-tech-teams would have the option to send and receive connection information as an option.
 
 See the next section for another significant part of the puzzle.
 
-2. Multi-Band Signal Use: 
+2. Multi-Band Signal Use:
 Uma is designed deliberately to only have connection, configuration information exchanged and set up out-of-band manually by the user: connections cannot be added or removed maliciously or deliberately by a remote-collaborator. Only a local user can, out of band (not as part of an online connection) add or remove team-channel and address-book configuration files; these files are not in the shared synced project-graph-nodes data.
 
-Also, in version 1 Uma only uses internet IP signals and addresses: if you do not know someone's IP (and all the other team-channel configuration information) you cannot send them any information. 
+Also, in version 1 Uma only uses internet IP signals and addresses: if you do not know someone's IP (and all the other team-channel configuration information) you cannot send them any information.
 
-In this context, where SOS is a (theoretical) 'minimal-open-channel' you would still need to know someone's IP address to send them an S.O.S. signal: this alone likely make the whole idea of an open-channel entirely useless and bazaar: you can listen for S.O.S. signals, but no one can send them to you (unless they are already a team-collaborator and so don't need to). 
+In this context, where SOS is a (theoretical) 'minimal-open-channel' you would still need to know someone's IP address to send them an S.O.S. signal: this alone likely make the whole idea of an open-channel entirely useless and bazaar: you can listen for S.O.S. signals, but no one can send them to you (unless they are already a team-collaborator and so don't need to).
 
 This is where signal-band comes in:
-If Uma is able to use a standard, local, CB-radio band spectrum to send and receive signals, then Uma can listen on, e.g. channel 4, sub-channel 4, for anyone near you broadcasting an emergency signal. 
+If Uma is able to use a standard, local, CB-radio band spectrum to send and receive signals, then Uma can listen on, e.g. channel 4, sub-channel 4, for anyone near you broadcasting an emergency signal.
 
 ## White-Knite signal-Relay:
 (pending, maybe out of scope)
@@ -2713,14 +2713,14 @@ There is also the past and future question:
 
 2. Will people in the future, for example teams on Mars, be using 2024-style ipv4-ipv6 to communicate? While an earth-internet will eventually be set up on mars, it is either unlikely that all networks and signals on mars will use the earth-internet IP system or that they will use only the earth-ip system.
 
-A related question is: when satellites and cube-sats around mars communicate: do they use ipv6? It is possible that something technically does, but in general, no satellites do not use the internet to communicate with each-other. 
+A related question is: when satellites and cube-sats around mars communicate: do they use ipv6? It is possible that something technically does, but in general, no satellites do not use the internet to communicate with each-other.
 
-Uma can and should be a portable, minimal, platform-agnostic, protocol and system for managing project and collaboration. 
+Uma can and should be a portable, minimal, platform-agnostic, protocol and system for managing project and collaboration.
 
-Are there use-cases for a robust distributed graph-database that is not reliant on ip-connections: absolutely. 
+Are there use-cases for a robust distributed graph-database that is not reliant on ip-connections: absolutely.
 
 
-## Decision-Net, Word-Net, Image-Net: 
+## Decision-Net, Word-Net, Image-Net:
 - training sets and testing benchmarks for decisions and coordinated decisions
 
 ## Training Skill Abilities Learning Measurement
@@ -2739,7 +2739,7 @@ Are there use-cases for a robust distributed graph-database that is not reliant 
 - readability and maintainability
 - resource efficiency
 
-## Perception 
+## Perception
 (2024.02.27)
 - The danger of people worshiping something that they don't understand, for example in an incomprehensibly broken system that makes no sense, because of an internal need to reify something worshipful, be it (the seeking or attempted creation of) an external locus of control or otherwise.
 
@@ -2752,7 +2752,7 @@ Are there use-cases for a robust distributed graph-database that is not reliant 
 - The American Revolution
 - The French Revolution
 - The American Civil War
-What is law? Is democracy one man one torch, 
+What is law? Is democracy one man one torch,
 where the most incendiary mob enforces their will on everyone else by violence?
 "What is a Loyalist?" & Echos of Classical Dilemmas
 Geoffrey Gordon Ashbrook 2024.08.10 Sat EDT
@@ -2791,11 +2791,11 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 - physical site destruction
 - distributed systems vs. centralized systems: e.g. social engineering attacks and the byzantine generals problem, smart contracts, etc.
 
-## auditing and automated auditing, process and step problems in coordinated decision making:
+## Auditing and automated auditing, process and step problems in coordinated decision making:
 - map of process-step-analysis applications
 
 ## Short term project state, long term project state and object permanence
-- While some hominids have some object-permanence perception for some overt physical objects, when it comes to long term project state and causality the games of adults are frighteningly similar to games of children. Institutional decisions are made based on crude peek-a-boo brain stimulation either with no evidence of awareness of repeating long term patterns, or with evidence of a deliberate potemkin village to hide the permanent reality in order to cultivate a self-stimulation addiction. Every short term excuse becomes a grotesque generalization of a uniform past-present-future that endlessly changes state (in an amnesiac way where participants apparently have no memory or awareness of this constant change). 
+- While some hominids have some object-permanence perception for some overt physical objects, when it comes to long term project state and causality the games of adults are frighteningly similar to games of children. Institutional decisions are made based on crude peek-a-boo brain stimulation either with no evidence of awareness of repeating long term patterns, or with evidence of a deliberate potemkin village to hide the permanent reality in order to cultivate a self-stimulation addiction. Every short term excuse becomes a grotesque generalization of a uniform past-present-future that endlessly changes state (in an amnesiac way where participants apparently have no memory or awareness of this constant change).
 A 'sport' example of this may be in international high level chess where the match commentary declares that whatever ephemeral prediction is made now is universally true for all past and future time, changing constantly in a disturbingly amnesiac way. (This may also be a kind of disease of hyperbolic-dialectical-journalism.)
 An institutional example of this borrowed from Daniel Kahneman may be where any short term or no-term abstract success indicator is used to declare an administrator 'always strong and victorious' or 'forever a weak loser' based on completely random noise that changes minute to minute.
 
@@ -2820,7 +2820,7 @@ An institutional example of this borrowed from Daniel Kahneman may be where any 
 - Parasitic and Reified goals:
 -- discriminatory goals
 -- arbitrary fetish goals
--- goals no one can justify or explain at all 
+-- goals no one can justify or explain at all
 - Scope creep
 - Scope drift
 - while true: processes stuck in loops
@@ -2849,7 +2849,7 @@ An institutional example of this borrowed from Daniel Kahneman may be where any 
 (2024.11.17)
 - time window for procedure of making decision:
 -- e.g. timescale of 'election' in the USA of often 1,2,4 years compared with 1,2,4, weeks in the OECD; 'weeks' is likely closer to optimal.
--- e.g. States such as Oregon and Colorado have an entirely paper drop-off voting system in a timescale of weeks which works much more smoothly than, e.g. Pennsylvania's horrendous mix of in-person, and early-voting, and incomprehensible nested-envelope 'in-person-absentee' mail/drop. 
+-- e.g. States such as Oregon and Colorado have an entirely paper drop-off voting system in a timescale of weeks which works much more smoothly than, e.g. Pennsylvania's horrendous mix of in-person, and early-voting, and incomprehensible nested-envelope 'in-person-absentee' mail/drop.
 
 ## schedule problems & disorders
 - tautologically impossible timelines
@@ -2873,7 +2873,7 @@ An institutional example of this borrowed from Daniel Kahneman may be where any 
 
 ## Arts culture, communication and decisions
 
-## ways of handling categories and topics, 
+## ways of handling categories and topics,
 e.g. more and less quantifiable and defined topics.
 - discipline-specific (medicine, physics) decisions
 
@@ -2890,7 +2890,7 @@ e.g. more and less quantifiable and defined topics.
 ## Monetesque and the archetype of the Arena: If war is a sport, does an ~international community need to create an 'Arena' space to distance long term habitats from the attractor of sport-thrill?
 [2026 05 29]
 
-# Projects 
+# Projects
 (2024.08.09)
 - project psychology
 - projects and STEM
@@ -2918,7 +2918,7 @@ e.g. more and less quantifiable and defined topics.
 
 # Measuring feedback: can failures of feedback (a lack of feedback channels) in organizations and institutions be detected
 
-# Where are cut-up vs. context and state vs stateless involved in coordinated decisions? 
+# Where are cut-up vs. context and state vs stateless involved in coordinated decisions?
 e.g.
 2024.06.24
 context vs. cutup:
@@ -2927,7 +2927,7 @@ context vs. cutup:
 - scope creep and bloat issue if too many resources are used for micro-operations
 2024.06.24
 
-# sources of data: 
+# sources of data:
 - questionnaires
 - metadata
 - votes
@@ -2948,10 +2948,10 @@ context vs. cutup:
 
 # Perception, Gamification, Sportification, Signal and Signal Loss
 - super-signals, red herrings, potemkin villages
-- meaningful models 
+- meaningful models
 
 ## Sport Perceptions of Process, Administration, Governance, and Political Process
-- 
+-
 - In education
 
 ### Teaching Civics, Coordinated Project Training
@@ -3013,7 +3013,7 @@ Revisiting Edmond Burke:
 
 ## story-relatability & human-understandability of systems & procedures
 
-## Databases and Dataframes 
+## Databases and Dataframes
 - encrypted contents
 - statistically anonymized content (e.g. Security now when hashes collide)
 - .csv, R, python
@@ -3022,7 +3022,7 @@ Revisiting Edmond Burke:
 
 ## Process, Best-Practice, Communication & 'Future-You'
 1. alignment with others and alignment with self over time
-2. sources of feedback: 
+2. sources of feedback:
 3. 'Project Areas'
 
 ## Managing different specific large and small unknown values, variables, and geometries
@@ -3030,8 +3030,8 @@ Revisiting Edmond Burke:
 ## Adversarial and Stochastic
 - adversarial and stochastic inputs to automated coordinated decision making (indeterminate incompetence and malice
 
-## operationally defining cases for indeterminate-incompetence-and-malice as part of system collapse 
-- reporting (sometimes reified) items that do not exist, and 
+## operationally defining cases for indeterminate-incompetence-and-malice as part of system collapse
+- reporting (sometimes reified) items that do not exist, and
 - denying reports of items that do exist)
 
 ## Analogies of Modularity
@@ -3075,7 +3075,7 @@ people then start to believe are cargo-cult-causal
 
 ## issues of copyright and fair-use on various levels of project, coordinated-decision-making, and the use of STEM processes therein.
 
-## Access: Whitelisting and Blacklisting (e.g. network access) 
+## Access: Whitelisting and Blacklisting (e.g. network access)
 - Could some form of white-listing alleviate ddos attack surface?
 
 ## Art, Sport, Commons, Private, Municipal: The geography of modes of coordination (2024.06.29)
@@ -3092,7 +3092,7 @@ connecting Jan with open frameworks for
 2. fine tune & transfer-learning with existing models
 3. DPO type training
 4. RAG and databases
-	- specific epub, pdf, .odf, and .doc(x), sheets, .csv, etc., 
+	- specific epub, pdf, .odf, and .doc(x), sheets, .csv, etc.,
 	databases?
 	- the relational-S.Q.L. stored-data world
 	- election data formats
@@ -3277,7 +3277,7 @@ The odd paradox of people in the west believing that voting is inherently good, 
 - how quickly can an election system be built and used?
 
 ## social context in categories of configuration data for data structures and databases (2024.04.07)
-- 
+-
 
 ## standardized or agreed-upon ways of modeling future outcomes in a context of coordinated decisions making
 
@@ -3288,7 +3288,7 @@ The odd paradox of people in the west believing that voting is inherently good, 
 - habituation
 - learned pattern recognition
 - fitness metrics
-- valuation 
+- valuation
 
 ## Resource Use
  	- Scaling and computational efficiency (big o)
@@ -3377,7 +3377,7 @@ types/categories:
 ## Participation, representation, and ways to avoid some groups as being defined outside of the ability to participate:
 - exclusion
 - discrimination
-#### individuals vs. groups: 
+#### individuals vs. groups:
 - balancing group responsibility vs. individual responsibility
 #### rehabilitation and healing, learning
 
@@ -3395,7 +3395,7 @@ types/categories:
 ## The mechanics of contraction into short-term distortions
 
 ## Distributed, Bulk and Batch operations:
-- managing 'voter' databases: 
+- managing 'voter' databases:
 -- outreach
 -- updates
 
@@ -3414,7 +3414,7 @@ types/categories:
 - lexicons
 - teaching and cultures of awareness
 
-## process-participation-psychology 
+## process-participation-psychology
 2024.05.31
 e.g. if not a great model, the "psychological" and social obstacles that arise in a context of the mechanical logistics of planning and running a chess event or series of chess events (such as Norway Chess).
 - time series psychology
@@ -3435,7 +3435,7 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 ## Definitions: Derived-Functional Definitions vs. Declarative-Arbitrary Definitions
 - Examples from coordination tool:
 -- collaborator-list definition
--- collaboration-team definition 
+-- collaboration-team definition
 
 ## objective criteria for voting system feedback and suggestion acceptance:
 - bug reports
@@ -3444,7 +3444,7 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 
 ## measuring the equivalence of processes
 
-## Laws Policies, and Voting-Elections about each-other: 
+## Laws Policies, and Voting-Elections about each-other:
 - a Matrix With Feedback
 
 ## design guidelines and standards
@@ -3478,7 +3478,7 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 - participants
 - pre-participants, post-participants
 
-## DOTW, D.O.T.W., design tradeoffs and optimization, 
+## DOTW, D.O.T.W., design tradeoffs and optimization,
 - Do One Thing Well
 vs.
 - general flexibility, etc.
@@ -3591,7 +3591,7 @@ temporal measures of legibility
 
 ## STEM-Natural-Law
 (2024.10.13)
-- STEM-structure-hygiene systems 
+- STEM-structure-hygiene systems
 - no-membrane systems (rapidly weathering)
 - coercive-declarative systems (violence, fraud)
 - non-systems (delusion)
@@ -3606,7 +3606,7 @@ temporal measures of legibility
 ## Tradeoffs and Contexts for Optimization
 
 ## data ~handling policy:
-- function-equation data 
+- function-equation data
 vs.
 - values
 vs.
@@ -3626,7 +3626,7 @@ Types of 'state'? (as in values being odd in lambda-calc?)
 - everything is susceptible to contagious/spreading system-definition patterns and disturbance regime dynamics
 - information asymmetry can refer either to demand distortion exploited by demand (for mutual long term loss) or exploited by supply (for mutual long term loss)
 - non-automatic-skills, literacy, patience, and best practice including learning are (non-automatic) infrastructure needed for survival and non-collapse
-- radicalization, extremism, demand-distortion, and 'rip-off economy' 'bad actors'(terminology from The Economist) 
+- radicalization, extremism, demand-distortion, and 'rip-off economy' 'bad actors'(terminology from The Economist)
 - bubble echo-chambers can exacerbate
 
 # Balancing Types:
@@ -3701,7 +3701,7 @@ is a set of processes.
 - STEM vs. 'votes'
 - debate vs. 'votes'
 - mediation vs. 'judgements'
-- https://en.wikipedia.org/wiki/Edmund_Burke 
+- https://en.wikipedia.org/wiki/Edmund_Burke
 
 ## speed of voting, protest votes, and reactions to violent takeovers
 
@@ -3723,31 +3723,31 @@ is a set of processes.
 - learnability
 - repeating failures
 - case studies
-- Attraction to and avoidance of cargo-cults misinterpreting 'luck' and chance events. 
+- Attraction to and avoidance of cargo-cults misinterpreting 'luck' and chance events.
 
 ## How to deal with simplistic ethno-purity-nationalist ideas from the 1800's
 2024.06.17
 
-## Adam's Monsters, Hobbes & Survival 
+## Adam's Monsters, Hobbes & Survival
 2024.06.17
 -- Extremist Ideology
 -- The Tyranny of the Many
 
 ## Decision Skills:
-What can be learned from comparing 'social story puzzles' and task-schedule ('pointless puzzles')? 
+What can be learned from comparing 'social story puzzles' and task-schedule ('pointless puzzles')?
 
-## Decision and Representation on small and large scales, public private sector, open source projects, etc. 
+## Decision and Representation on small and large scales, public private sector, open source projects, etc.
 2024.06.17
 - John Von Neuman on Technology
 
 ## specific factors in goals and values-
-- The Eliza Effect vs. The Kramnik Effec https://docs.google.com/document/d/1gwlIfaH0xWn1hbz0E0pkrGcgAadRjD0foQM51lerjcw/edit 
+- The Eliza Effect vs. The Kramnik Effec https://docs.google.com/document/d/1gwlIfaH0xWn1hbz0E0pkrGcgAadRjD0foQM51lerjcw/edit
 
 ## specific factors for specific tools:
 - Non-generative-AI
-https://docs.google.com/document/d/1zbkam_pPbwsCSVgoTB084ymZuMT66wiM7hspZfB8B7M/edit 
+https://docs.google.com/document/d/1zbkam_pPbwsCSVgoTB084ymZuMT66wiM7hspZfB8B7M/edit
 
-## Computer Science issues relating directly to practical election system development and deployment into production at scale. 
+## Computer Science issues relating directly to practical election system development and deployment into production at scale.
 
 book: Working in PUblic by Nadia Eghbal, making and maintaining open source software
 
@@ -3837,7 +3837,7 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 - maintainability of analytics
 
 ## Institutions:
-- What is the difference between an oppressive institution that stifles society, and a productive institution in a check-and-balance ecosystem? 
+- What is the difference between an oppressive institution that stifles society, and a productive institution in a check-and-balance ecosystem?
 When productive diverse-institution countries look at desert-theocracies:
 -- Alfred W. Crosby quote on middle east view of europe pre-renaissance
 
@@ -3896,7 +3896,7 @@ Role and Sources of Stochasticity in decision coordination:
 - Drift to sport (uncivilized, as in Lear "I have seen drunkards do worse in sport.")
 
 ## Types of Decisions by Types of Problem Spaces
-- https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles 
+- https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles
 
 ## Demand-Distortion
 - John Adams "It was all madness."　
@@ -3908,7 +3908,7 @@ Role and Sources of Stochasticity in decision coordination:
 - candidate qualification tests
 - checks and balances as a test
 - T. Woodrow Wilson fitness calamity and the 25th amendment
-- a completely undermined and hollowed out mind/psychology testing profession (institutional and STEM inability to deal with late term Trump or late term Biden questions of mental fitness) 
+- a completely undermined and hollowed out mind/psychology testing profession (institutional and STEM inability to deal with late term Trump or late term Biden questions of mental fitness)
 - Kahneman Tsversky based fitness tests
 
 ## biological coordination
@@ -3930,7 +3930,7 @@ Flow chart to functions to compiled code
 - groups and teams not cultivating a next generation (future future)
 Administrations failing to support their own successors:
 - Clinton Administration not supporting A. Gore in 2000, who lost so narrowly that he may have won (winning popular vote).
-- Obama Administration not supporting H. Clinton in 2016, who lost narrowly (winning popular vote). 
+- Obama Administration not supporting H. Clinton in 2016, who lost narrowly (winning popular vote).
 - Biden Administration in 2024 apparently having no successor to run at all.
 - limiting the time and scope of 'emergency powers' which historically are needed in real emergencies, and are also historically frivolously invoked by anyone who wants a power grab at any time for no reason.
 Q: In what specific ways is succession a strongly persistent point constant repeating failure, with only slow and fragile development of methods and technologies for the problem?
@@ -3957,7 +3957,7 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesquieu to Jo
 - general junkfood
 - measuring a blind junkfood vortex
 
-## Measuring Collapse 
+## Measuring Collapse
 (2024.04.27)
 - measuring alignment of goal, means, methods, with non-collapse
 - measuring trajectory of collapse
@@ -4003,11 +4003,11 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesquieu to Jo
 - direct coordination (no intermediaries)
 
 ## distortion, disruption, disinformation
-- non-false disruption (where no rules are broken but nevertheless there is a campaign to disrupt 
+- non-false disruption (where no rules are broken but nevertheless there is a campaign to disrupt
 (book)
 How to Lose the Information War: Russia, Fake News, and the Future of Conflict Hardcover – July 9, 2020
-by Nina Jankowicz 
-https://www.amazon.com/How-Lose-Information-War-Conflict/dp/1838607684 
+by Nina Jankowicz
+https://www.amazon.com/How-Lose-Information-War-Conflict/dp/1838607684
 
 ## contagion, spreading, disinformation and disturbances
 - epidemiology
@@ -4032,7 +4032,7 @@ institutions such as libraries for areas with internet
 ## Distributed Networks
 (2024.09.24)
 - raw signals vs. in-protocol(?) signals
-- buckets of signals: 
+- buckets of signals:
 [
 ipv4,
 ipv6,
@@ -4092,13 +4092,13 @@ subsonic(vibration),
 - psychology of nonlinearity (BMandelbrot?)
 (links to...gambling sport psychology? addiction?)
 
-in 'breakneck' by Dan Wang 2025, though he once (perhaps a typo) described procedure-scope-creep as 'process', 
-https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, gives a portrayal/portrait of pure-fantasy-logic obessed dysfunctional birdnest labyrinths of (post 1970) law that very strongly parallel the (post 1970) computer science and code ridiculousness. 
+in 'breakneck' by Dan Wang 2025, though he once (perhaps a typo) described procedure-scope-creep as 'process',
+https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, gives a portrayal/portrait of pure-fantasy-logic obessed dysfunctional birdnest labyrinths of (post 1970) law that very strongly parallel the (post 1970) computer science and code ridiculousness.
 
 ## Modeling and track record
 - How can sets of bad decisions and processes be clearly compared with working processes to show unambiguously or less ambiguously that decisions leading to failure are decisions that lead to failure.
 
-- Distributed Multipoint Conferencing Units (MCU) 
+- Distributed Multipoint Conferencing Units (MCU)
 -- distributed data structures
 -- distributed sync protocols
 -- distributed ad-hoc-networks
@@ -4172,7 +4172,7 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 2025.05.10d
 - stories
 
-## Definition behaviors (collapse), default trajectories (collapse), bad equilibria (collapse),  
+## Definition behaviors (collapse), default trajectories (collapse), bad equilibria (collapse),
 (2024.12.28)
 
 ## Curricula, Fitness, and decision-coordination in Projects
@@ -4180,7 +4180,7 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 - non-automatically learned skills
 - not automatically visible fitness and collapse indicators
 - curricula, learning, and fitness
-- "humanism" "humanities" "liberal arts" and STEM: integration and cross-reinforcement 
+- "humanism" "humanities" "liberal arts" and STEM: integration and cross-reinforcement
 ## the importance of an awareness of history for participating in coordinated decisions:
 - What is important to know?
 - Is anything required-knowledge, or just helpful?
@@ -4191,7 +4191,7 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 ## Describing the difficulty of a project
 - likelihood of mistakes
 - costs of operations
-- schedules, sequence-orders of operations, 
+- schedules, sequence-orders of operations,
 - modular-depth and scales of numbers of modular processes
 
 ## Definition Behaviors, Questions, and Signal Coordination
@@ -4249,7 +4249,7 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 - quantum databases
 - time and data
 
-see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition, by Martin Kleppmann 
+see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition, by Martin Kleppmann
 
 ## relativity, time, decisions, and distance: scale and community
 - ~UTC for satellite distributed databased and operation coordination
@@ -4349,8 +4349,8 @@ data engineering:
 
 ## Backend Production: server options, and "serverless" options
 
-Note: https://www.grc.com/securitynow.htm 
-SN Episode #873: australian digital driver's license as case study in similar system, not Gibson's certificate based solution 
+Note: https://www.grc.com/securitynow.htm
+SN Episode #873: australian digital driver's license as case study in similar system, not Gibson's certificate based solution
 
 ## Different forms of consensus, representation, and contracts
 
@@ -4384,15 +4384,15 @@ From 'search' to 'chat' and back again.
 
 Does "AI" = 'Better Search"?
 
-In retrospect the 2023 'ai revolution' may be seen and described as a 'search done better and possible locally' breakthrough, which largely came out of google (search giant) technology (transformers) and operates like the google search page, except the search button now says 'chat.' 
+In retrospect the 2023 'ai revolution' may be seen and described as a 'search done better and possible locally' breakthrough, which largely came out of google (search giant) technology (transformers) and operates like the google search page, except the search button now says 'chat.'
 
 Calling search 'chat' may be an example of introducing a needless and meaningless layer of abstraction that causes personal and social confusion.
 
 It is possible that is 'chatGPT' were called 'searchGPT' and called 'search' not 'AI', and 'gen-ai' being 'generative-search' not 'gen-ai' that the same technology and adoption may be processed without all of the misplaced 'super ai taking over the world'.
 
-For example retrieval-augmented-search (or retrieval augmented generative search) is not a bad description for 'retrieval augmented generation' which confusingly ignores the entire non-generative vector-search part of the workflow.  
+For example retrieval-augmented-search (or retrieval augmented generative search) is not a bad description for 'retrieval augmented generation' which confusingly ignores the entire non-generative vector-search part of the workflow.
 
-If we take a step back from the fiction that people are 'chatting' with a stateful full-intelligence, rather that doing stateless 'searches' with very wonderful search, smart search, vector search, generative search, technologies, things make much more sense, are much more clear, and avoid all the undefined nonsense around undefinable terms and the fantasies they invoke in people. 
+If we take a step back from the fiction that people are 'chatting' with a stateful full-intelligence, rather that doing stateless 'searches' with very wonderful search, smart search, vector search, generative search, technologies, things make much more sense, are much more clear, and avoid all the undefined nonsense around undefinable terms and the fantasies they invoke in people.
 
 A few issues are key here in the search context:
 1. 'generalization'
@@ -4412,8 +4412,8 @@ STEM Health-check analysis:
 from Page ~45 - "The Rise and Fall of the Third Reich" by William L. Shirer
 https://a.co/geuRhCb
 
-To what extent is it possible using symbolic or subsymbolic modeling to detect the presence and prevalence of 'terror' as used by Shirer? 
-Are similar corrupt and fraudulent practices not used by 'fire and brimstone' so-called-self-identified-"religious" groups, by 'doom-and-gloom' so-called-self-identified-'environmental' groups, by learned-helplessness inducing so-called-self-identified-'education' institutions and "professionals"?  
+To what extent is it possible using symbolic or subsymbolic modeling to detect the presence and prevalence of 'terror' as used by Shirer?
+Are similar corrupt and fraudulent practices not used by 'fire and brimstone' so-called-self-identified-"religious" groups, by 'doom-and-gloom' so-called-self-identified-'environmental' groups, by learned-helplessness inducing so-called-self-identified-'education' institutions and "professionals"?
 
 # Elusive Project/Election Goals: meritocracy vs. kleptocracy
 - Demand-distortion and the difference in practice between a meritocracy and a ~ Kakistocracy
@@ -4451,7 +4451,7 @@ These feedback loops magnify the damage, meaning the full cost of bad policies i
 
 ## roles votes and definitions:
 One person physically able to vote gets one vote is a very blunt way of deciding who should be voting on a topic, with assumptions that make (made) more sense in low-tech local elections where only local people within an age-range could physically vote. But with various technologies from transportation and translation to networks, that rough match becomes less clear.
-There are a lot of factors and edge cases, with a possibly related topic of district-creation and gerrymandering which run up against challenges where the main problem may be people's refusal to confront the issues. 
+There are a lot of factors and edge cases, with a possibly related topic of district-creation and gerrymandering which run up against challenges where the main problem may be people's refusal to confront the issues.
 'Make the design-choice go away." is not a good plan.
 
 ## Shannan/Turing information theory/communication theory and decision coordination problem spaces
@@ -4530,23 +4530,23 @@ Where optical character recognition is used, what standards can be optional and 
 - selecting translating and connecting clearly defined units of question answer and decision
 
 ## General Voting System Study Links (appendix)
-- https://www.youtube.com/greymatter/search?query=elections 
+- https://www.youtube.com/greymatter/search?query=elections
 
 ## Voting System Design Study Links (appendix)
-- https://www.youtube.com/greymatter/search?query=elections 
+- https://www.youtube.com/greymatter/search?query=elections
 
 #### Election Data Study Link
 
 note: page seems to no longer exist or merged into larger course...one fewer resource on a needed topic...)
-- https://www.datacamp.com/courses/analyzing-election-and-polling-data-in-r?irclickid=TtWxHF0I7xyNUMqzKwUmBUEhUkD3QI3tIzmPW80&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=2556128 
+- https://www.datacamp.com/courses/analyzing-election-and-polling-data-in-r?irclickid=TtWxHF0I7xyNUMqzKwUmBUEhUkD3QI3tIzmPW80&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=2556128
 vs.
-- https://www.datacamp.com/courses/data-manipulation-with-dplyr 
+- https://www.datacamp.com/courses/data-manipulation-with-dplyr
 
 - https://www.r-bloggers.com/2018/11/new-course-analyzing-election-and-polling-data-in-r/
 
 ## Data Visualization & Elections
-- https://plotly.com/python/v3/ipython-notebooks/ukelectionbbg/ 
-- https://stackoverflow.com/questions/63092441/fast-way-to-visualize-huge-tables-with-dash-and-plotly-python 
+- https://plotly.com/python/v3/ipython-notebooks/ukelectionbbg/
+- https://stackoverflow.com/questions/63092441/fast-way-to-visualize-huge-tables-with-dash-and-plotly-python
 
 # Decision Architectures
 - elections, thresholds, quorums (participation requirements)
@@ -4562,7 +4562,7 @@ vs.
 - Who/what does make what decision officially (according to decision architecture)?
 - Who/what does make what decision officially defacto?
 - Who/what should make what decision officially (according to decision architecture)?
-- Rogue-Forcing: Are policies or actions (not the same) being forced against due process and best practice (and rules generally) that only a rogue bad-actor party supports and that are not supported by other institutions? (E.g. A vanishingly small number of people and organizations support, or have any concept, of invading NATO Denmark). 
+- Rogue-Forcing: Are policies or actions (not the same) being forced against due process and best practice (and rules generally) that only a rogue bad-actor party supports and that are not supported by other institutions? (E.g. A vanishingly small number of people and organizations support, or have any concept, of invading NATO Denmark).
 
 # Who: Age Voting Tests and Voter Qualification
 - standard options
@@ -4595,7 +4595,7 @@ vs.
 
 # Enrollment, Qualification, Inclusion, Selection
 ## Variations on Enrollment and Voter-Tests
-Question: Are there, in principle, systems that select qualified voters yet which have no 'test' for voter qualification? 
+Question: Are there, in principle, systems that select qualified voters yet which have no 'test' for voter qualification?
 - age test
 - local test
 - stake-holder test
@@ -4651,8 +4651,8 @@ scale factors and elections:
 
 ### Minimal and Non-Minimal Software for Voting
 - Is there such a thing as a simple micro-election that can be quick and secure?
-- Could a basic Uma-type system be part of a minimal coordination system (note: Uma for planning vs. basic-Uma-Data to show/validate-dashboard signal metrics)?  https://github.com/lineality/uma_productivity_collaboration_tool 
-https://github.com/lineality/uma_productivity_collaboration_tool/blob/main/t_is_for_task.md 
+- Could a basic Uma-type system be part of a minimal coordination system (note: Uma for planning vs. basic-Uma-Data to show/validate-dashboard signal metrics)?  https://github.com/lineality/uma_productivity_collaboration_tool
+https://github.com/lineality/uma_productivity_collaboration_tool/blob/main/t_is_for_task.md
 
 #### Trade-off in UI user interface design: secure but use-able
 
@@ -4661,7 +4661,7 @@ https://github.com/lineality/uma_productivity_collaboration_tool/blob/main/t_is_
 Question: What do international election inspectors look for?
 
 ### Mandate-Based Representation
-Perhaps as a form of least-trust architecture, which brings with it perhaps the same 'slow procedural processes' of enhanced verification checking, representation that is limited to specific approved mandates is a historical mode (and one which nearly became part of the US model). 
+Perhaps as a form of least-trust architecture, which brings with it perhaps the same 'slow procedural processes' of enhanced verification checking, representation that is limited to specific approved mandates is a historical mode (and one which nearly became part of the US model).
 (see: https://www.amazon.com/Decline-Rise-Democracy-History-Antiquity/dp/B088ZKZDTY/ )
 (history: 'fall and rise of democracy' book)
 
@@ -4712,10 +4712,10 @@ A key issue in miscommunication and misunderstandings around STEM is the assumpt
 
 3. The one-tree is an interlocking STEM aggregate structure of empirical and measurable world-phenomena that are sufficiently close to (especially simple and linear) null-core principles. It is a kind of functional-map that is one big interlocking tree of inter-operable definitions that sufficiently describes those patterns that are stable enough to be mapped. That this area is generally unified may give rise to the misunderstanding that all of STEM is one homogenous thing.
 
-2. There is an important gap between the null-core of concepts (which is rules floating in rule-space) and the one-tree of sufficient simple models pragmatically pasted over real-world empirical phenomena. This is a kind of cluster of blindspots and neglected definitions for most people but is absolutely crucial when doing projects. This is one area where the rubber meets the road, where conceptual models do or don't describe and help navigate reality. 'Statistics' is one of the arm-wavy dismissive terms used to wave-away this area, and 'statistics' is yet another punt: Is statistics math? logic? probability? empirical? conceptual? Doing projects you will need to navigate this jump-gap, and the tools needed such as statistics, and the definition problems (is what you need 'statistics' and what exactly does 'statistics' mean, or otherwise what exactly do you need even if there is no word or it?) and the social-cultural-psychological challenges which are a massive set-of-areas, for example the life's works of Daniel Kahneman and Amous Tversky are (if more that you can absorb in a lifetime) one of many pieces of this frontier quagmire).  
+2. There is an important gap between the null-core of concepts (which is rules floating in rule-space) and the one-tree of sufficient simple models pragmatically pasted over real-world empirical phenomena. This is a kind of cluster of blindspots and neglected definitions for most people but is absolutely crucial when doing projects. This is one area where the rubber meets the road, where conceptual models do or don't describe and help navigate reality. 'Statistics' is one of the arm-wavy dismissive terms used to wave-away this area, and 'statistics' is yet another punt: Is statistics math? logic? probability? empirical? conceptual? Doing projects you will need to navigate this jump-gap, and the tools needed such as statistics, and the definition problems (is what you need 'statistics' and what exactly does 'statistics' mean, or otherwise what exactly do you need even if there is no word or it?) and the social-cultural-psychological challenges which are a massive set-of-areas, for example the life's works of Daniel Kahneman and Amous Tversky are (if more that you can absorb in a lifetime) one of many pieces of this frontier quagmire).
 
 4. Near-Off-The-One-Tree:
-The one-tree is often best defined as a simple linear relationship, but as systems get nonlinear, dynamical, and even "chaotic." As empirical phenomena and models get less-linear, the coherence and utility of the one-tree (in short) breaks down. Near-off the one tree can be, and needs to be, described as an asset to the one-tree. 
+The one-tree is often best defined as a simple linear relationship, but as systems get nonlinear, dynamical, and even "chaotic." As empirical phenomena and models get less-linear, the coherence and utility of the one-tree (in short) breaks down. Near-off the one tree can be, and needs to be, described as an asset to the one-tree.
 
 6. (Far)-Off-The-Nne-Tree is real and empirical but often not able to be modeled and connected to the one tree. This is a frontier in many respects.
 
@@ -4735,7 +4735,7 @@ Depending on your project, you may or may not be able to effectively lump-togeth
 - hash-table
 - ~table
 
-Similar to data-types, data-structures vary across language and environment and across disciplines/professions. As with data-types, sometimes you need to be strict (sometimes you need to be flexible) depending on the details of the project. 
+Similar to data-types, data-structures vary across language and environment and across disciplines/professions. As with data-types, sometimes you need to be strict (sometimes you need to be flexible) depending on the details of the project.
 
 
 # 4. Structured vs. Unstructured Data:
@@ -4758,7 +4758,7 @@ Undefined terms (one might say 'undefined behaviors') such as the term 'complexi
 # Project Areas: v12 (see v17)
 - 1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
 - 2. Schedule: (Duration; Start date; Iteration Interval)
-- 3. Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- 3. Users: Stakeholders & Needs & Goals Evaluation (of users)
 - 4. Features_Goals: User-Features & Subfeatures/Under-The-Hood Features including Categories of Types of Systems, Data-Types, Data-Structures, Structured Vs. Unstructured Data.
 - 5. MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
 - 6. Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
@@ -4769,18 +4769,18 @@ Undefined terms (one might say 'undefined behaviors') such as the term 'complexi
 ## Books on Elections
 #### The Decline and Rise of Democracy: A Global History from Antiquity to Today (The Princeton Economic History of the Western World, 80)
 Part of: The Princeton Economic History of the Western World (49 books) | by David Stasavage | Aug 24, 2021
-- https://www.amazon.com/Decline-Rise-Democracy-Antiquity-Princeton/dp/0691228973 
+- https://www.amazon.com/Decline-Rise-Democracy-Antiquity-Princeton/dp/0691228973
 
-#### What You Need to Know About Voting and Why (Legal Expert Series) 
-June 16, 2020, 
+#### What You Need to Know About Voting and Why (Legal Expert Series)
+June 16, 2020,
 by Kim Wehle (Author)
-- https://www.amazon.com/What-Need-Know-About-Voting/dp/0062974785 
+- https://www.amazon.com/What-Need-Know-About-Voting/dp/0062974785
 
 ## Books on Analysis & Statistics
-#### 
+####
 Nate silver book signal noise
 https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but-ebook/dp/B007V65R54
- 
+
 #### Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do About It
 by Erica Thompson (Author)
 Publisher ‏ : ‎ Basic Books (December 6, 2022)
@@ -4799,22 +4799,22 @@ by Caroline Criado Perez | Mar 2, 2021
 https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419735217
 
 ## Books on Secure Computer Systems & Networks
-#### [case study] Sandworm 
+#### [case study] Sandworm
 Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers
-by Andy Greenberg, Mark Bramhall, et al. 
+by Andy Greenberg, Mark Bramhall, et al.
 Hardcover – November 5, 2019
-- https://www.amazon.com/Sandworm-Andy-Greenberg-audiobook/dp/B07RGRTZM6/ 
+- https://www.amazon.com/Sandworm-Andy-Greenberg-audiobook/dp/B07RGRTZM6/
 
-#### [excellent history of early internet] We Are All Targets: 
+#### [excellent history of early internet] We Are All Targets:
 How Renegade Hackers Invented Cyber War and Unleashed an Age of Global Chaos
 by Matt Potter, Matthew Waterson, et al.
-https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737 
+https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737
 
-#### 
-( Cult of the dead cow ) book 
+####
+( Cult of the dead cow ) book
 
-#### 
-( A people's history of Computing ) book 
+####
+( A people's history of Computing ) book
 
 ####
 ( Enigma, while ostensibly this is a biography of Alan Turing, it is one of the best books on applied history of signal security and computers)
@@ -4830,7 +4830,7 @@ by Francois Chollet | Dec 21, 2021
 https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/
 
 ## Books on Product Development
-The History of the Future 
+The History of the Future
 by Blake J. Harris, Stephen Graybill, et al.
 https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 - open source study book...title? (no starch?)
@@ -4841,15 +4841,15 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 ## Other Books
 (Virtual Society)
 (maybe book on data intensive systems)
-https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/   
+https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/
 
 ## Books on Data & Databases:
-Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition, by Martin Kleppmann 
-https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ 
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition, by Martin Kleppmann
+https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/
 
 ## Books on Productivity-Psychology
 https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/B0FDH3Z3K6/
-Note: This book unfortunately sometimes uses the term 'process' interchangeably for compulsive-reification-distraction and imaginary rule-procedures about rule-procedures that are not anchored in reality: the is unfortunate and might be confusing to or misleading for people who are not familiar with the Agile or Kahneman-Tversky (or ecology) use of the term 'process' for navigating pragmatically and productively using feedback through distractions and unknowns to focus on measurable outcomes and system productivity. "Process" and "best practice" are important tools in the toolbox for productivity avoiding psychological/perceptual traps. 
+Note: This book unfortunately sometimes uses the term 'process' interchangeably for compulsive-reification-distraction and imaginary rule-procedures about rule-procedures that are not anchored in reality: the is unfortunate and might be confusing to or misleading for people who are not familiar with the Agile or Kahneman-Tversky (or ecology) use of the term 'process' for navigating pragmatically and productively using feedback through distractions and unknowns to focus on measurable outcomes and system productivity. "Process" and "best practice" are important tools in the toolbox for productivity avoiding psychological/perceptual traps.
 Then in chapter 3-4, the author refers to 'process' with a completely different and positive meaning, ~'process-knowledge' (a topic the economist remarked on regarding NASA loosing know-how after the 'moon-shot' self sabotaging of long term space plans). This focus on maintainability of technology, with the exellent analogy of the Ise-JIngu, is something that should be more discussed. But we should not overload the term 'process' in ways bound to cause confusion: naming things is hard. Do not give one thing two names; do not give two things one name.
 
 Lexicon issues aside... so far(still reading) this book is fabulous for cutting through and pointing out the de jure pathological 'anti-productivity' 'anti-maker' 'anti-engineering' 'anti-STEM' 'anti-data' wave of destructive extremist ideology that has been suffocating the USA. It is refreshing to hear a clear voice describing the disfunctional, culturally and psychological toxic, illiterate world I have been unendingly attacked by and have unsuccessfully tried to defend productivity against my entire life, briefly finding glimpses of sanity living abroad in Japan.
@@ -4857,7 +4857,7 @@ All ~countries/nations/republics including the USA can and should achieve sanity
 
 
 # Books on Administration and Governance
-https://www.amazon.com/Origins-Political-Order-Prehuman-Revolution-ebook/dp/B00457X7VI 
+https://www.amazon.com/Origins-Political-Order-Prehuman-Revolution-ebook/dp/B00457X7VI
 - note: balance between local 'kinship' and 'abstract' inter/intra local coordination
 Q: Scale
 
@@ -4867,31 +4867,31 @@ Q: Scale
 ## Lectures and Papers on Political Philosophy and Political Traditions
 - The Modern Political Tradition: Hobbes to Habermas
 Lawrence Cahoone, Ph.D. Professor, College of the Holy Cross
-https://www.thegreatcourses.com/courses/the-modern-political-tradition-hobbes-to-habermas 
+https://www.thegreatcourses.com/courses/the-modern-political-tradition-hobbes-to-habermas
 https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 
 # Web Resources:
 
-### C.G.P. Gray on Elections & Voting Systems 
-- https://www.youtube.com/@CGPGrey/search?query=elections 
-- https://www.youtube.com/@CGPGrey/search?query=voting 
+### C.G.P. Gray on Elections & Voting Systems
+- https://www.youtube.com/@CGPGrey/search?query=elections
+- https://www.youtube.com/@CGPGrey/search?query=voting
 
 ### Case Study in 2025 Diaspora Elections
-- Ukraine in 2025 is facing pressure to hold elections while it is being invaded by a hostile neighboring country and while much of its population has fled to non-hostile neighboring countries. 
-- What would the requirements be for a sufficiently robust diaspora-flexible election to be held? 
+- Ukraine in 2025 is facing pressure to hold elections while it is being invaded by a hostile neighboring country and while much of its population has fled to non-hostile neighboring countries.
+- What would the requirements be for a sufficiently robust diaspora-flexible election to be held?
 
 ### Case study in password handling:
-- https://twit.tv/shows/security-now/episodes/905 
-- https://twit.tv/shows/security-now/episodes/904 
-- alternate source episodes 904 or 905: https://www.grc.com/securitynow.htm 
+- https://twit.tv/shows/security-now/episodes/905
+- https://twit.tv/shows/security-now/episodes/904
+- alternate source episodes 904 or 905: https://www.grc.com/securitynow.htm
 
 ### Counter-Example Books
 - Optical Illusions
 
-### On Memory Safe Languages (note still actively evolving time-lag and shift to topic, google press release is old, action taken to adopt RUST is new). 
-- https://twit.tv/shows/security-now/episodes/906 
-- alternate source episode 906: https://www.grc.com/securitynow.htm 
+### On Memory Safe Languages (note still actively evolving time-lag and shift to topic, google press release is old, action taken to adopt RUST is new).
+- https://twit.tv/shows/security-now/episodes/906
+- alternate source episode 906: https://www.grc.com/securitynow.htm
 
 ### Election Case Studies (section not complete)
 - eastern Europe and Russia
@@ -4899,13 +4899,13 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 -- post 1989
 
 ## Articles:
-- https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+- https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/
 
-- History: The research questionnaire: https://en.wikipedia.org/wiki/Jeremiah_Milles 
+- History: The research questionnaire: https://en.wikipedia.org/wiki/Jeremiah_Milles
 
-- Domain and tacit knowledge: ( e/g/ NASA,) Public, and Private Sector: https://www.economist.com/business/2024/03/07/how-can-firms-pass-on-tacit-knowledge 
+- Domain and tacit knowledge: ( e/g/ NASA,) Public, and Private Sector: https://www.economist.com/business/2024/03/07/how-can-firms-pass-on-tacit-knowledge
 
-- PR vs FPTP in the UK: https://www.economist.com/leaders/2024/07/11/britains-skewed-election-reinforces-the-case-for-voting-reform-after-2029 
+- PR vs FPTP in the UK: https://www.economist.com/leaders/2024/07/11/britains-skewed-election-reinforces-the-case-for-voting-reform-after-2029
 
 
 # Papers
@@ -4916,31 +4916,31 @@ supported this work, but unfortunately none did."
 
 ## Consequences on no-runoff single-vote multi-party elections:
 - https://www.economist.com/united-states/2024/08/19/good-news-for-kamala-harris-on-third-party-candidates
-- https://en.wikipedia.org/wiki/VUCA 
+- https://en.wikipedia.org/wiki/VUCA
 
 
 # Link to History Book Recommendations Repo:
 history_book_repository_on_political_philosophy
 
-https://en.wikipedia.org/wiki/Stilwell_and_the_American_Experience_in_China,_1911%E2%80%9345 
+https://en.wikipedia.org/wiki/Stilwell_and_the_American_Experience_in_China,_1911%E2%80%9345
 
-# Misc: 
+# Misc:
 ## incentives
-from https://www.economist.com/britain/2025/01/22/what-an-arcane-piece-of-aviation-law-says-about-britains-government 
+from https://www.economist.com/britain/2025/01/22/what-an-arcane-piece-of-aviation-law-says-about-britains-government
 "The slots regime is a mid-century relic. In Britain—as around the world—rights are grandfathered: as long as an airline uses a slot 80% of the time, it can hold onto it, free, in perpetuity. That was fine in the 1960s when runway space was abundant; now that such space is heavily congested, it produces a clogged-up market. At Heathrow, 99% of slots are grandfathered: spare ones come up for sale rarely and at a stonking price. Challengers are locked out, or stay small. Inefficiency is rewarded: it is better for an airline to send up small or empty planes than forfeit a slot to a rival."
 
-IT Agile: 
-- https://www.economist.com/podcasts/2025/05/15/why-it-projects-so-often-go-wrong 
+IT Agile:
+- https://www.economist.com/podcasts/2025/05/15/why-it-projects-so-often-go-wrong
 
-""" https://www.economist.com/letters/2025/06/19/reforming-the-nhs 
+""" https://www.economist.com/letters/2025/06/19/reforming-the-nhs
 How not to lose your head
 Bartleby’s (May 31st) three principles when managers face a crisis of plan, decentralise and prioritise were firmly embedded a quarter of a century ago in the work of Karl Weick and Kathleen Sutcliffe, which emerged from their empirical research on a multitude of organisations, including defence forces, hospitals and first responders.
 
-They listed five principles (which some have expanded to seven): 
-1. Expect failure; 
-2. Be sensitive to what is happening (someone is paying attention) and do not wait for directions from headquarters; 
-3. Do not simplify and take nothing for granted; 
-4. Organise to expect challenge and change -- help others and expect to be helped by others; and 
+They listed five principles (which some have expanded to seven):
+1. Expect failure;
+2. Be sensitive to what is happening (someone is paying attention) and do not wait for directions from headquarters;
+3. Do not simplify and take nothing for granted;
+4. Organise to expect challenge and change -- help others and expect to be helped by others; and
 5. Maintain a deference to expertise.
 
 These principles constantly stand the test of time, if only in retrospect, when failing organisations discover them afresh.
@@ -4949,19 +4949,19 @@ J.M. Innes
 Adelaide, Australia
 """
 
-Note: "someone is paying attention" is ambiguous, I think "make sure that, do not assume that, someone on your project is paying attention" rather than an external-locus-of-control 'assume someone above and outside is paying attention to you' (though the original phrasing could be interpreted in a political-performance-first way). 
+Note: "someone is paying attention" is ambiguous, I think "make sure that, do not assume that, someone on your project is paying attention" rather than an external-locus-of-control 'assume someone above and outside is paying attention to you' (though the original phrasing could be interpreted in a political-performance-first way).
 
 Note: 'Do not simplify' is also ambiguous, given that failing to simply and use feedback is a main source of errors. Perhaps this means 'do not cut corners' or 'Do not change the scope by ignoring needs.' But this sounds dangerously close to 'do not start with a practical MVP, which would be puzzling advice. "Do not drop off and ignore whole sections of what you are asked to do." is practical and does fit a real-world pattern of people simply ignoring the task description and doing what they feel like (or due to negligent incompetence in not being aligned, though it frequently does happen with outright deliberation: "I do not care that the user said they need ABC-XYZ." vs. "I had no idea we were supposed to do that.")
 
 
 # Articles
 Zero Sum Games and the 'Zero Sum Mindset'
-https://www.economist.com/by-invitation/2025/07/07/to-understand-america-today-study-the-zero-sum-mindset-writes-stefanie-stantcheva 
+https://www.economist.com/by-invitation/2025/07/07/to-understand-america-today-study-the-zero-sum-mindset-writes-stefanie-stantcheva
 
 # D. Chew: The Making of Modern Corporate Finance
 
 Demand Distortion: Short-Term/Long-Term
-https://www.economist.com/leaders/2025/07/10/sex-hormones-could-be-mental-health-drugs-too  
+https://www.economist.com/leaders/2025/07/10/sex-hormones-could-be-mental-health-drugs-too
 
 # Lexicon and Glossery
 ### institution
@@ -4977,8 +4977,8 @@ https://www.economist.com/leaders/2025/07/10/sex-hormones-could-be-mental-health
 ## From Sport to Sportsmanship:
 
 # "There’s Got to Be a Better Way" (book)
-https://www.economist.com/business/2025/09/04/broken-workflows-and-how-to-fix-them 
-https://www.amazon.com/Theres-Got-Be-Better-Way/dp/B0FJHS1BNT/ 
+https://www.economist.com/business/2025/09/04/broken-workflows-and-how-to-fix-them
+https://www.amazon.com/Theres-Got-Be-Better-Way/dp/B0FJHS1BNT/
 There’s Got to Be a Better Way: How to Deliver Results and Get Rid of the Stuff That Gets in the Way of Real Work
 by Nelson P. Repenning, Donald C. Kieffer, et al.
 
@@ -4987,26 +4987,26 @@ Topic: Is STEM (or is STEM viewed as being) short-term / long-term agnostic? Vie
 from Economist ~ 2025 09 22
 "Science is when you want to survive for millenia, politics is when you are only looking at the next election."
 
-https://www.sbs.ox.ac.uk/about-us/people/bent-flyvbjerg 
-https://www.economist.com/business/2025/05/08/why-so-many-it-projects-go-so-horribly-wrong 
+https://www.sbs.ox.ac.uk/about-us/people/bent-flyvbjerg
+https://www.economist.com/business/2025/05/08/why-so-many-it-projects-go-so-horribly-wrong
 https://ora.ox.ac.uk/objects/uuid:ae730381-602d-49d3-97a4-37ede6fd762b/files/s4x51hk476
-https://ora.ox.ac.uk/objects/uuid:e4b1191d-0682-4969-bdca-62136a13fc32/files/r0v838229f 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247223 
+https://ora.ox.ac.uk/objects/uuid:e4b1191d-0682-4969-bdca-62136a13fc32/files/r0v838229f
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247223
 https://www.linkedin.com/posts/flyvbjerg_why-so-many-it-projects-go-so-horribly-wrong-activity-7326395483646554112-UlzU
-The Uniqueness of IT Cost Risk https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247223 
+The Uniqueness of IT Cost Risk https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247223
 
 "ouija-board management: messages are being received even if none have actually been sent"
-https://www.economist.com/business/2025/10/02/how-bosses-unwittingly-exert-power 
+https://www.economist.com/business/2025/10/02/how-bosses-unwittingly-exert-power
 
 https://www.economist.com/finance-and-economics/2025/11/27/one-weird-trick-to-solve-the-affordability-crisis
 
-https://www.economist.com/podcasts/2025/12/04/one-weird-trick-solving-americas-price-problem 
+https://www.economist.com/podcasts/2025/12/04/one-weird-trick-solving-americas-price-problem
 
 participation, meritocracy, and skin in the game:
-https://www.economist.com/interactive/primers/liberalism/primer-1 
+https://www.economist.com/interactive/primers/liberalism/primer-1
 
 # Soft-Targets and Bad-Actors
-https://www.economist.com/china/2025/12/30/people-of-dubious-character-are-more-likely-to-enter-public-service 
+https://www.economist.com/china/2025/12/30/people-of-dubious-character-are-more-likely-to-enter-public-service
 - rules, fraud, and cheating
 - rules, incentives, and STEM
 
@@ -5015,8 +5015,8 @@ https://www.economist.com/china/2025/12/30/people-of-dubious-character-are-more-
 The terminology around 'regulation' is fraught. One of many areas of problems is that reified declared 'regulation' (which could likewise have been declared, as can any arbitrary declaration, to be 'banana') is mixed in with concrete STEM mechanisms of regulation (in a context where so-called 'libertarians' are 'anti-regulation' which is as STEM-nonsensical as being anti-velocity).
 By analogy think of the classic example of a thermostat or temperature 'regulation'/monitor system in a building or structure. The factors, and feedback loops, that concretely affect (and effect) the current temperature in a current location of a building are what they are. A person can stand upon a box and pronounce themselves with great drama to be the 'regulator' of that building's climate, but this has no direct connection with the STEM reality of climate in the building in any way shape or form. Including this: However imbecilic that person is, no reputational damage to the term 'regulator' can in any way affect (or effect) the STEM mechanics that functionally do regulate the temperatures in the building.
 A justified and evidence-based indignation and movement of "Anti-fradulant fantasy divorced from reality calling itself (declarative) 'regulation'" has tragically (and, ironically, no less idiotically) become translated into an attack on STEM mechanics and STEM technologies, on even both physical description and mechanical prescriptions of 'regulations' of processes. Anything connected with 'regulation' in any way is arbitrarily attacked and lumped together with the most pathological word salad. This is a profoundly sorry state of mind for a species that postures itself as learned and competent.
-We smugly and without the insights and empathy or compassion look with myopic spite on past generations that awarded themselves divine titles synonymous with the mechanics of planets, tides, fires, floods, and other features of the natural STEM world. Yet we are quite literally doing the same or worse by conferring fantasy belief into the job title of a person that is confused with a nuanced STEM interdiscipline: regulator/regulation. 
- 
+We smugly and without the insights and empathy or compassion look with myopic spite on past generations that awarded themselves divine titles synonymous with the mechanics of planets, tides, fires, floods, and other features of the natural STEM world. Yet we are quite literally doing the same or worse by conferring fantasy belief into the job title of a person that is confused with a nuanced STEM interdiscipline: regulator/regulation.
+
 https://www.economist.com/by-invitation/2026/01/15/javier-milei-rein-in-regulators-not-big-companies
 Javier Milei & Federico Sturzenegger
 """
@@ -5044,12 +5044,12 @@ There is a tautological need for more understanding, study, experimentation, and
 ...
 
 How Good STEM & Code helps (and the cost of a bad design):
-https://www.economist.com/by-invitation/2026/01/22/the-biggest-drag-on-global-trade-isnt-tariffs-but-standards 
+https://www.economist.com/by-invitation/2026/01/22/the-biggest-drag-on-global-trade-isnt-tariffs-but-standards
 
 ...
 
 Astonishingly good interview applicable to project management in IT:
-Ostensibly the topic is armed services training, but so many elements are spot on for any projects: coordination-skills, context-dependence, learning-training, risk-incentives, future-unpredictability, knowing history, etc. If too taken for granted in a postwar era now gone, Defense is both a sector of the economy, and part of the rule of law that allows for an economy. 
+Ostensibly the topic is armed services training, but so many elements are spot on for any projects: coordination-skills, context-dependence, learning-training, risk-incentives, future-unpredictability, knowing history, etc. If too taken for granted in a postwar era now gone, Defense is both a sector of the economy, and part of the rule of law that allows for an economy.
 https://www.youtube.com/watch?v=teyInjjbKqA
 
 Russian city hit with ‘most massive’ strike of the war | Ukraine: The Latest
@@ -5059,33 +5059,33 @@ Day 1,432.
 
 
 Colonel Thurston from the Land Warfare Centre
-https://www.army.mod.uk/learn-and-explore/about-the-army/formations-divisions-and-brigades/field-army-troops/land-warfare-centre/ 
+https://www.army.mod.uk/learn-and-explore/about-the-army/formations-divisions-and-brigades/field-army-troops/land-warfare-centre/
 
 ...
 
-How to avoid collapse and corruption is a question that crosses the sometimes reified line between public-sector and private-sector. Two readings: 
+How to avoid collapse and corruption is a question that crosses the sometimes reified line between public-sector and private-sector. Two readings:
 
 1. A recent article by The Economist on China's continued attempts to shun enlightenment STEM best practice governance and to double-down on a causal purity of essence.
 
-2. T.E. Ricks' book "First Principles", discussing founders' thinking (and historical perspectives) on preventing collapse and corruption. 
+2. T.E. Ricks' book "First Principles", discussing founders' thinking (and historical perspectives) on preventing collapse and corruption.
 
-Pure essence was indeed part of the thinking (or hoping) Ricks extracts from western history, and such faith driven romanticism was a corner-stone of the devoutly anti-STEM Nazi ideology that demolished academia and private sector STEM in the Third Reich and "The New Order" governing Eurasia. 
+Pure essence was indeed part of the thinking (or hoping) Ricks extracts from western history, and such faith driven romanticism was a corner-stone of the devoutly anti-STEM Nazi ideology that demolished academia and private sector STEM in the Third Reich and "The New Order" governing Eurasia.
 
 The harmonious-stable-society goals of Xi Jinping arguably have a lot commendably in common with the aims of Montesque, Adams, Madison, and Fukuyama (to name but a few). But there is too much popular, populist, support internationally for chasing superstitions in ways history demonstrates to end badly; Trump's private paramilitary is not an example of the western clasical-liberal tradition, and it is not reducing corrupt-impurity or helping the economy.
 
-The quest to overcome corruption and collapse is old and still with us; we should study hard, use tools that work, and avoid known failed strategies (such as populist superstitions and zero-sum, negative-sum, nihilistic junkfood cults). 
+The quest to overcome corruption and collapse is old and still with us; we should study hard, use tools that work, and avoid known failed strategies (such as populist superstitions and zero-sum, negative-sum, nihilistic junkfood cults).
 
 1. economist. com/china/2026/01/28/xi-jinping-is-immensely-powerful-why-cant-he-stamp-out-corruption
 
-https://www.economist.com/china/2026/01/28/xi-jinping-is-immensely-powerful-why-cant-he-stamp-out-corruption 
+https://www.economist.com/china/2026/01/28/xi-jinping-is-immensely-powerful-why-cant-he-stamp-out-corruption
 
-2. amazon. com/First-Principles-Americas-Founders-Learned/dp/B084RJ4PFZ/ 
+2. amazon. com/First-Principles-Americas-Founders-Learned/dp/B084RJ4PFZ/
 
 Also see William L. Shirer.
 
 ...
 
-https://www.economist.com/international/2026/02/03/anger-is-deadly-to-moderate-politicians 
+https://www.economist.com/international/2026/02/03/anger-is-deadly-to-moderate-politicians
 not a good article, but relates to W.L.Shirer's more concrete account of strategical and tactical 'terror'(rise and fall)
 
 # Inclusion and Qualification Tests
@@ -5095,7 +5095,7 @@ The evolution and equilibria of simple stress tests and simple display tests
 
 Economics & Governance: As Francis Fukuyama points out, the cultural elements of best practice can be elusive. Opposing the legal underpinnings of markets comes with predictable long term risks.
 
-https://www.economist.com/business/2026/02/09/china-once-stole-foreign-ideas-now-it-wants-to-protect-its-own 
+https://www.economist.com/business/2026/02/09/china-once-stole-foreign-ideas-now-it-wants-to-protect-its-own
 
 ...
 
@@ -5112,7 +5112,7 @@ https://www.economist.com/middle-east-and-africa/2026/03/15/open-source-intellig
 
 - putting first steps such as planning, brainstorming and early drafts at or towards the end of the timeline
 - not scheduling planning time
-- not using planning time 
+- not using planning time
 - miscalculating durations
 - ignoring scheduled timelines
 - refusing to communicate about schedules
@@ -5122,11 +5122,11 @@ https://www.economist.com/middle-east-and-africa/2026/03/15/open-source-intellig
 - having simultaneous paradoxical schedules plans
 - using nihilistic disinformation to discredit the value, function, and meaning of a schedule
 - suddenly changing a schedule (or trying to), often at the last minute
-- not having in scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely). 
+- not having in scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely).
 
 ...
 
-https://www.economist.com/culture/2026/04/09/a-third-world-war-is-plausible-heres-how-to-avoid-one 
+https://www.economist.com/culture/2026/04/09/a-third-world-war-is-plausible-heres-how-to-avoid-one
 Leaders should have speedy and secure means of communication, and meet in person regularly.
 
 ...
@@ -5137,13 +5137,13 @@ Giving illiterate people control of a bureaucracy is not democracy sending, rece
 ...
 
 First we shape our tools, then they shape us: (McLuhan et al)
-https://www.economist.com/united-states/2026/04/23/artificial-intelligence-is-creeping-into-american-lawmaking 
+https://www.economist.com/united-states/2026/04/23/artificial-intelligence-is-creeping-into-american-lawmaking
 
 ...
 
 More madness of crowds and other issues, waves of 'exciting' extremist populism
 
-https://www.economist.com/britain/2026/05/14/how-tommy-robinson-gained-extraordinary-influence 
+https://www.economist.com/britain/2026/05/14/how-tommy-robinson-gained-extraordinary-influence
 
 ...
 
@@ -5151,12 +5151,12 @@ The topic of designing voting systems, from first-past-the-post, to run-off, to 
 
 There are a number of articles and hopefully studies about this in the 2020's in the UK as marginal-differences lead to exaggerated election outcome differences.
 
-https://www.economist.com/britain/2026/05/14/who-can-save-the-labour-party 
+https://www.economist.com/britain/2026/05/14/who-can-save-the-labour-party
 
 ...
 
 # As of 2026 there is no simple universal solution to the question of how to balance dense-urban and sparse rural areas for voting (it is unlikely that there is a single simplistic approach to a class of problems). The USA and India are two case studies:
-https://www.economist.com/asia/2026/05/17/indias-loudest-political-fight-obscures-a-more-urgent-one 
+https://www.economist.com/asia/2026/05/17/indias-loudest-political-fight-obscures-a-more-urgent-one
 
 ...
 
@@ -5165,4 +5165,3 @@ Shashank Joshi, Defence editor at The Economist
 It is a fool’s errand to predict what war will look like in the future. In a wonderful lecture, delivered in 1961 to the Royal United Services Institute (RUSI), a think-tank in London, Michael Howard, a great historian, warned: “The soldier has to steer between the danger of repeating the errors of the past because he is ignorant that they have been made, and the danger of remaining bound by theories deduced from past history although changes in conditions have rendered these theories obsolete.”
 
 ...
-

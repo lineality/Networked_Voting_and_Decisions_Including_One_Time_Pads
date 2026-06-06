@@ -913,7 +913,7 @@ Question: possible requiring of ballot being completely filled out
 
 ## guidelines and standards for maintainability
 
-# training for managing maintainable project spaces
+# Training for managing maintainable project spaces
 - simulations
 - testing and evaluation
 - breaking down skill areas such as foundational 'identification'
@@ -2988,7 +2988,7 @@ teaching how to participate in coordinated decision making
 - gamification
 - collapse metrics
 
-## bio-neuro tendencies towards radicalization and extremism with lessons learned from 'the drug war' of the post wwii USA.
+## Bio-neuro tendencies towards radicalization and extremism with lessons learned from 'the drug war' of the post wwii USA.
 - addictive behavior
 - lessons from religious extremism
 - 'the madness of crowds'

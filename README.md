@@ -921,7 +921,7 @@ Question: possible requiring of ballot being completely filled out
 - should have theory-of-mind/sally-anne skills (true/false)
 - alignment on projects scope is default/automatic (true/false)
 - churn is neutral/good (true/false)
-- communication about project scope is neurtral/bad (true/false)
+- communication about project scope is neutral/bad (true/false)
 ### issue simulation
 - churn
 - panic
@@ -3551,6 +3551,10 @@ on Web and Internet Economics (WINE ’24), 2024
 
 ## Individuals and institutions in voting and infrastructure
 from decentered /decentralized elections and networks to centralized political parties, servers, and cloud resources, proportional representation, etc.
+
+## Meritocracy & Meritocratic
+- Anne Applebaum on anti-fittness social-selection
+-
 
 ## Coordination and Fitness
 - meritocratic participation

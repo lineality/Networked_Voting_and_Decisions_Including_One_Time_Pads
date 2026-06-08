@@ -3040,7 +3040,7 @@ Revisiting Edmond Burke:
 - fix-ability
 - move-ability
 
-## modeling and tracking 'system state' over a coordinated system process
+## Modeling and tracking 'system state' over a coordinated system process
 
 ## Historical and future role of Universities
 (2024.09.25)
@@ -3645,10 +3645,10 @@ Types of 'state'? (as in values being odd in lambda-calc?)
 - Alignments
 - Scope
 - Tasks
-- Needs & Goals Definitions (not process reification illusion or goal reification illusion)
+- Needs & Goals Definitions (not process reification illusion or goal reification-illusion)
 
 ## Metrics for Definition Behaviors & Collapse
-2024.12.10th
+(2024.12.10th)
 - undefined spaces
 - underlying process or process definition issues
 - red flag definition changes

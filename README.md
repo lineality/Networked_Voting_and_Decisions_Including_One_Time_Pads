@@ -715,7 +715,7 @@ software platforms/languages:
 - decentered decision making
 - decentered feedback and analytics
 
-## holding elections in repressed areas not 'allowed' to hold their own elections
+## Holding elections in repressed areas not 'allowed' to hold their own elections
 - distributed self-organization
 - privacy and security
 - auditable publication with private information not exposed
@@ -723,7 +723,7 @@ software platforms/languages:
 - diasporic communities
 -"philes"?(sp?) (term Neal Stephenson term? distributed communities based on projects/interests/views?)
 
-## pros and cons of methods of vote tallying:
+## Pros and cons of methods of vote tallying:
 - decentralized vote handling...
 
 ## Managing Elections vs. managing Open-Source Projects
@@ -960,7 +960,6 @@ Using existing online registration systems
 
 A note on election security and registration security:
 Does it make sense to have lower security standards around registration for voting than casting of votes? A similar or perhaps identical question is: Does it make sense to have a less security system for registration than for voting? E.g. in Pennsylvania in 2022 you can register to vote and change your party-registration, address, etc., on a simple website with no additional security, no MFA multi factor authentication, no personal in face verification, no biometrics, no mailing address sent verification, etc. And I have never heard anyone complain about the insecurity of this registration system, and a proposal to use the same system for voting immediately results in a vitriolic hyperbolic uproar of arm-waving indignation. Personally I think online registration should be more secure. My overall point here is that both registration and voting should be discussed and implemented as they relate to each-other, and not treated as if they are unrelated with inconsistent security considerations. If the standard for security is good enough for registration, that should be the same standard for voting.
-
 
 # Voting, Contracts, and Smart Contracts:
 What are the feasible properties of smart contracts that relate to elections, either for their use in a particular situation or as a discussion to elucidate needs and functions?
@@ -5168,4 +5167,36 @@ Shashank Joshi, Defence editor at The Economist
 
 It is a fool’s errand to predict what war will look like in the future. In a wonderful lecture, delivered in 1961 to the Royal United Services Institute (RUSI), a think-tank in London, Michael Howard, a great historian, warned: “The soldier has to steer between the danger of repeating the errors of the past because he is ignorant that they have been made, and the danger of remaining bound by theories deduced from past history although changes in conditions have rendered these theories obsolete.”
 
+...
+Cultures and Institutions: Aside from the ethics of apathy, there is a problem here.
+
+
+```
+Business | Bartleby
+What to read to understand your next employer
+
+“The Trial” by Franz Kakfa. This tale of an ordinary person who is abruptly plunged into a nightmarish world of senseless bureaucracy is less a novel, more an employee handbook.
+
+“Catch-22” by Joseph Heller. The title of Heller’s novel is about an impossible wartime dilemma: pleading insanity as a reason to avoid flying missions is itself clear proof of sanity. At Ungoliant, if you do good work, you will be asked to move into a role managing people. If you do bad work, you will be fired. There is absolutely no way to carry on doing what you actually enjoy.
+
+“The Waves” by Virginia Woolf. Streams of consciousness, individuals blurring into each other, entire lifetimes passing and an overpowering sense of confusion. This is the perfect introduction to office life.
+
+“Say Nothing” by Patrick Radden Keefe. It doesn’t matter what this book is about. It’s just very good advice.
+
+“Tomorrow and Tomorrow and Tomorrow” by Gabrielle Zevin. None of us have actually read this one but we think it must be a primer on project management.
+
+“1984” by George Orwell. Some people apparently regard this book as dystopian, and it is true that the Party is a bit keener on sticks than carrots. But there’s a lot to learn from its core messages: that harnessing data is a source of genuine competitive advantage and that it’s better to work together towards a common purpose than pursue your own selfish aims. Winston Smith is clearly not a team player and we can all see how well that worked out for him.
+
+“The Island of Dr Moreau” by H.G. Wells. The one thing you can say about Dr Moreau is that he dared to dream. Yes, his dream was heavily based on vivisection, and some of the consequences were rather unfortunate. But no omelette is made without breaking a few eggs. To be clear, Ungoliant has no current plans to turn animals into beast folk. But thinking differently and failing is far, far better than accepting arbitrary boundaries. Further reading: “Frankenstein”, “Dr Jekyll and Mr Hyde”.
+
+“Emma” by Jane Austen. An inveterate meddler ends up getting everything she wants. Proof that micromanaging can really pay off.
+
+“The Secret History” by Donna Tartt. An outsider joins a tight-knit group of people who are devoted to a single mentor figure and steadily loses all sense of morality. The fact that the characters wind up paying a heavy price for their behaviour is the only thing to quibble with in this book. In all other respects, it tells you just what you can expect from your time working here.
+
+“Wolf Hall” by Hilary Mantel. A supremely capable operator scales the organisational ladder on merit but fails to remember that his fate is in the hands of a wildly capricious boss. All Ungoliantians matter, but only one of us has 85% of the voting rights.
+
+If you read all of these and still turn up to your first day at work, you are just the kind of employee we want. We look forward to seeing you next month. ■
+
+Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.
+```
 ...

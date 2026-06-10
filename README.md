@@ -3272,10 +3272,10 @@ The odd paradox of people in the west believing that voting is inherently good, 
 - psychology
 - linguistics
 
-## timelines and schedules
+## Timelines and Schedules
 - how quickly can an election system be built and used?
 
-## social context in categories of configuration data for data structures and databases (2024.04.07)
+## Social context in categories of configuration data for data structures and databases (2024.04.07)
 -
 
 ## standardized or agreed-upon ways of modeling future outcomes in a context of coordinated decisions making
@@ -3305,7 +3305,7 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## Perception Choice and Coordination
 Causes of Success Among Broken Clocks
-2024.05.26 sun gga
+2024.05.26 sun
 In any given human endeavor where there appears to be some relative success and competition at a given time, it can be non-trivial to identify what the future trajectory is for those who appear 'correct' at one given time, and to ascribe 'success' to what may be either a random outcome or an incomplete act of self-destruction.
 
 # Certification
@@ -5200,3 +5200,7 @@ If you read all of these and still turn up to your first day at work, you are ju
 Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.
 ```
 ...
+
+https://www.economist.com/the-americas/2026/05/31/brazils-high-tech-voting-system-is-losing-voters-trust
+
+..

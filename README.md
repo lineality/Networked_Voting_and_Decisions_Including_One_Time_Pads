@@ -4418,6 +4418,9 @@ https://a.co/geuRhCb
 To what extent is it possible using symbolic or subsymbolic modeling to detect the presence and prevalence of 'terror' as used by Shirer?
 Are similar corrupt and fraudulent practices not used by 'fire and brimstone' so-called-self-identified-"religious" groups, by 'doom-and-gloom' so-called-self-identified-'environmental' groups, by learned-helplessness inducing so-called-self-identified-'education' institutions and "professionals"?
 
+# Notable Artciles
+
+
 # Elusive Project/Election Goals: meritocracy vs. kleptocracy
 - Demand-distortion and the difference in practice between a meritocracy and a ~ Kakistocracy
 https://en.wikipedia.org/wiki/Kakistocracy
@@ -4867,11 +4870,19 @@ Q: Scale
 # Books on Project Management
 ( )
 
-## Lectures and Papers on Political Philosophy and Political Traditions
-- The Modern Political Tradition: Hobbes to Habermas
+-Lectures and Papers on Political Philosophy and Political Traditions
+The Modern Political Tradition: Hobbes to Habermas
 Lawrence Cahoone, Ph.D. Professor, College of the Holy Cross
 https://www.thegreatcourses.com/courses/the-modern-political-tradition-hobbes-to-habermas
 https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
+
+
+# Notable Articles
+https://www.economist.com/the-americas/2026/05/31/brazils-high-tech-voting-system-is-losing-voters-trust
+
+Learning about Votes and coordinated decisions
+https://www.economist.com/britain/2026/06/04/build-a-prime-minister
+..
 
 
 # Web Resources:
@@ -5199,8 +5210,3 @@ If you read all of these and still turn up to your first day at work, you are ju
 
 Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.
 ```
-...
-
-https://www.economist.com/the-americas/2026/05/31/brazils-high-tech-voting-system-is-losing-voters-trust
-
-..

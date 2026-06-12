@@ -1,5 +1,5 @@
 ##### Networked_Voting_and_Decisions_Including_One_Time_Pads
-gga, 2021.01-...
+gga, 2021.01- ...
 - https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads/
 
 # Decision Coordination: General and Specific
@@ -5210,3 +5210,7 @@ If you read all of these and still turn up to your first day at work, you are ju
 
 Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.
 ```
+
+
+case study: election in Armenia 2026, ~4 party balance
+- https://www.youtube.com/watch?v=N7T-s2_YvUA

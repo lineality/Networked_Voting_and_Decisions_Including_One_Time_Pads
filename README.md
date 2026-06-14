@@ -1767,7 +1767,6 @@ Francis Fukuyama on default tribal modes and ~ participatory self-identification
 
 # An empirical framework for interactive project elements
 
-
 ## Tradeoffs in Voting:
 - accessibility vs. security
 - smaller attack space vs. fancy interface
@@ -2617,7 +2616,7 @@ by Deborah M. Gordon
 - sally-anne type point of view
 - cut-up projects
 
-## coordinated decisions in open, closed, and semi-closed data-ecosystems
+## Coordinated decisions in open, closed, and semi-closed data-ecosystems
 
 ## Automated testing of question ambiguity
 - see automated benchmarks
@@ -5181,6 +5180,7 @@ It is a fool’s errand to predict what war will look like in the future. In a w
 ...
 Cultures and Institutions: Aside from the ethics of apathy, there is a problem here.
 
+
 ```
 Business | Bartleby
 What to read to understand your next employer
@@ -5205,10 +5205,11 @@ What to read to understand your next employer
 
 “Wolf Hall” by Hilary Mantel. A supremely capable operator scales the organisational ladder on merit but fails to remember that his fate is in the hands of a wildly capricious boss. All Ungoliantians matter, but only one of us has 85% of the voting rights.
 
-If you read all of these and still turn up to your first day at work, you are just the kind of employee we want. We look forward to seeing you next month. ■
+If you read all of these and still turn up to your first day at work, you are just the kind of employee we want. We look forward to seeing you next month.
 
 Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.
 ```
+
 
 case study: election in Armenia 2026, ~4 party balance
 - https://www.youtube.com/watch?v=N7T-s2_YvUA

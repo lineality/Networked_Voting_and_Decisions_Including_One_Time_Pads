@@ -1839,17 +1839,16 @@ relating weak business leadership to 'political' populist extremism?
 ## measuring areas of fitness
 - collapse resistance
 - discipline
-- 'physically etc, metally etc., morally etc' as from boyscouts
+- 'physically etc, mentally etc., morally etc' as from Boy Scouts
 
 ## Modular Decision / Choice / Vote, etc. Areas:
--
 - 'multiple choice' systems
-- writein systems
-- questionaires
+- write-in systems
+- questionnaires
 - poles
 - elections
 - juries
-- quarums
+- quorums
 - "ticket"-requests
 
 ### Modular Processes and Applications: Ants and Horses

@@ -1060,38 +1060,8 @@ Goals, Scope Alignment: definition items (2025.01.19)
 - Tools & 'Tool Stack / Tech Stack'
 - Feedback & Tests, Ecological Effects, Communication & Iteration (~agile)
 
-#### Project Areas & Problem-Examples
-#### v15
-1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies (including for predictable issues problems and collapse elements: scope-churn, panic-halting, planning-blackout), Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
-- process/policy areas may be seen as preventable-predictable-collapse-areas; each is an area of preventable mistakes that are not automatically self-preventing and that must be deliberately prevented. Problems that are not automatically visible or understandable can repeat indefinitely. Using process and policy can significantly help prevent and navigate recurring problems that are not automatically visible.
-- not accounting for different workflows (e.g. frontend, backend, data-science, production machine-learning, R&D, test-reporting, etc.) will lead to delays and failures that should not have occurred. In the absence of communication and learning, these failures may be invisible and repeat indefinitely because they are not seen and understood.
-2. Schedule: (Duration; Start date; Iteration Interval)
-- Timelines that need to be short but are never articulated or planned for are unlikely to usually spontaneously match the needed short scale planning needs.
-- Timelines that need to be long but are never articulated or planned for are unlikely to usually spontaneously match the needed long scale planning needs.
-- Undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the risk of endemic liabilities such as churn, panic, and repeatedly returning to square one.
-- Picking initial MVP goals, milestones, indicators, and both allotting and using time and resources for feedback (where that feedback is also to be used) is one location where time and schedules are deeply interwoven with other project areas.
-3. Users: Stakeholders & Needs & Goals Evaluation (of users)
--- Not having and coordinating with users/stakeholders and their needs significantly raises the probability that the project will not improbably, spontaneously, meet unknown and possibly unarticulated needs of unknown people by accident.
--- A user describing their difficulties is not the same as a user outlining an ideal solution, or even accepting a viable solution.
--- Not properly doing a needs and goals evaluation significantly raises the risk of goals being either incorrectly identified, or having goals indefinitely changing or rotating between amorphous unexamined but often entirely predictable areas.
--- https://github.com/lineality/needs_goals_assessment_disambiguation
-4. Features_Goals: User-Features & Subfeatures/Under-The-Hood Features including Categories of Types of Systems, Data-Types, Data-Structures, Structured Vs. Unstructured Data.(tech-stack and resources may be implicit for higher-level goals or explicit for resource-defined needs)
--- if you do not have a clear articulation of what you are doing (for a user/stakeholder to meet their clarified need) then it is unlikely that the possibly unknown goal will be accomplished in a maintainable way meeting the need of the user/stakeholder.
-5. MVP: 'MVP's (Minimum Viable Products); Tools, 'Tool Stack / Tech Stack', lexicon: jargon vs. description; skills(learning)
--- an MVP must not be an invocation of a reification-hallucination
--- iteratively proceeding with transparency and feedback to align and fine-tune is appropriate and time-tested in many projects.
--- articulating incremental MVP (minimum-viable-product) goals and stepping stones is an important part of progressing and communicating incrementally and/or progressing maintainably and sustainably.
--- articulating incremental MVP (minimum-viable-product) goals and stepping stones is a skill in and of itself
-6. Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
--- whether formal or informal there must be effective ways of communicating what has been done within the project-team and between the project-team and the user/stakeholder.
--- Failing to clearly map and communicate the differences between jargon terms and goal descriptions will result in mis-alignment between people and nonsense in planning.
--- long term maintainability involves communication (including 'future you')
--- learning directly and indirectly related to the specific project is necessary. If you do not learn that a user/stakeholder's need is not being met then long term failure is highly probable. If you continually learn and develop useful skills then long term successes are more probable.
 
-# Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
-## The Problem-Checklist approach to project areas:
-- Defining Agile-Type Areas of Projects as a set of predictable recurring problems, such as can be checked for after each iteration of a project, and that evaluation used in future planning: I.e. Here are lists of known issues; Are any of these happening? If so, there are likely invisible problems that are entirely solvable on the level of process, communication, and (except for extremes) universally accessible skills and practices. The approach here is not to try to micro-manage a one-size fits all positive-definition that should apply to everything (all projects, teams, and workshops), but rather a negative-definition of problem-areas that every unique project in a unique situation in a unique place needs to (and can) figure out how to address.
-- Schedule-issues may be the most demonstrably relatable for any participants (if also not easy to communicate about smoothly even in extremely remedial ways). It may be helpful to think of a kind of 'schedule object permanence' in a kind of project-space-sally-anne test. Some people are skilled at perceiving and managing schedule-object permanence space, many people are not, but likely ~all people are able to learn basic schedule object permanence skills and have basic fitness. A key problem is that many people do not understand the possibility of there being a lack of schedule-object-perminance-space fitness (and other project areas), assuming that all world fitness is automatic. The concept of not-automatically-learned-skills, is itself not automatically learned.
+
 #### Project Areas & Problem-Examples
 #### v18
 1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies (including for predictable issues problems and collapse elements: scope-churn, panic-halting, planning-blackout), Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies), for macro: Mapping/Modeling, Strategizing, Navigating, Decision-making, forming conclusions, planning, initiative-taking, leadership, etc.
@@ -1150,6 +1120,21 @@ Tools, 'Tool Stack / Tech Stack',
 
 ## Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
 
+https://www.economist.com/business/2026/06/11/too-many-people-are-shockingly-bad-at-prioritisation
+
+
+#### Parts of project/product management that are often overlooked:
+1. Policy: Disable Auto-Pilot
+2. Needs & Goals Evaluation & Disambiguation
+3. Not Skipping Planning, Orientation & Navigation
+4. Incremental Movement with Review
+5. Preliminary-Start, 'Feature' scope evaluation, & a process to halt excessive scope/load (As John McCarthy noted in the 1950's about software targets 'easy things are hard.' It is often not possible to tell the work-scope/work-load of a feature unit preliminary work has been done. So, evaluation of the scope of a feature requires review of preliminary work.)
+
+
+
+## The Problem-Checklist approach to project areas:
+- Defining Agile-Type Areas of Projects as a set of predictable recurring problems, such as can be checked for after each iteration of a project, and that evaluation used in future planning: I.e. Here are lists of known issues; Are any of these happening? If so, there are likely invisible problems that are entirely solvable on the level of process, communication, and (except for extremes) universally accessible skills and practices. The approach here is not to try to micro-manage a one-size fits all positive-definition that should apply to everything (all projects, teams, and workshops), but rather a negative-definition of problem-areas that every unique project in a unique situation in a unique place needs to (and can) figure out how to address.
+- Schedule-issues may be the most demonstrably relatable for any participants (if also not easy to communicate about smoothly even in extremely remedial ways). It may be helpful to think of a kind of 'schedule object permanence' in a kind of project-space-sally-anne test. Some people are skilled at perceiving and managing schedule-object permanence space, many people are not, but likely ~all people are able to learn basic schedule object permanence skills and have basic fitness. A key problem is that many people do not understand the possibility of there being a lack of schedule-object-perminance-space fitness (and other project areas), assuming that all world fitness is automatic. The concept of not-automatically-learned-skills, is itself not automatically learned.
 
 # Psychology of Explanation
 - Narrow-Model vs. Edge Cases

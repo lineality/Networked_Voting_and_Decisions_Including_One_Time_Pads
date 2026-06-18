@@ -3461,8 +3461,6 @@ from decentered /decentralized elections and networks to centralized political p
 - Measures
 - Scores
 
-
-
 ## Applications of Mandate-Based Systems
 
 2024.06.21

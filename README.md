@@ -1308,7 +1308,7 @@ For example:
 6. Turning on and off (running) system processes ((for example) comparing policy from Roman Catholicism, South Korea, and Judaica)
 7. Half-dark dichotomies (more on that later)
 
-### needs, goals, and products
+### Needs, Goals, and Products
 - topic: contracts and coordinated decisions
 - contingency-logic-agreements: if else while break (cross-team?)
 ## Needs and Goals
@@ -5075,7 +5075,6 @@ It is a fool’s errand to predict what war will look like in the future. In a w
 ...
 Cultures and Institutions: Aside from the ethics of apathy, there is a problem here.
 
-
 ```
 Business | Bartleby
 What to read to understand your next employer
@@ -5104,7 +5103,6 @@ If you read all of these and still turn up to your first day at work, you are ju
 
 Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.
 ```
-
 
 case study: election in Armenia 2026, ~4 party balance
 - https://www.youtube.com/watch?v=N7T-s2_YvUA

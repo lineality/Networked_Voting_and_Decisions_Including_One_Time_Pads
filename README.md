@@ -1121,6 +1121,20 @@ Tools, 'Tool Stack / Tech Stack',
 ## Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
 
 https://www.economist.com/business/2026/06/11/too-many-people-are-shockingly-bad-at-prioritisation
+- book “The Octopus Organisation”, by Phil Le-Brun and Jana Werner
+- CaraCaS
+- 2017 Donald Sull of the Massachusetts Institute of Technology and his co-authors
+- "Timothy Ballard of the University of Queensland and his co-authors asked participants to pursue two competing goals, and varied the monetary rewards on offer."
+- "paper by Moty Amar of the Ono Academic College and his co-authors found that indebted consumers prioritised paying off small debts ahead of larger debts with higher interest rates. A tangible sense of progress was more important to them than the rational choice."
+- ```Many firms accumulate so many priorities that they suffer the “peanut-butter problem” of attention and resources being spread too thinly across all of them. When Niels Christiansen, chief executive of Lego, took charge of the toymaker, he found lots of examples of this. “We had 100 key enterprise risks. How can you look after 100 different risks without being risk-averse on everything you do?”```
+
+```
+All sorts of frameworks exist to enable better prioritisation. The Eisenhower matrix is a classic time-management technique for individuals, which involves categorising tasks into quadrants. An urgent and important task belongs at the top of the queue. An important and non-urgent task is the sort that you need to make time for. If you are doing non-urgent and unimportant tasks, you need to take a long hard look in the mirror.
+
+The action-priority matrix is another way of dividing tasks into quadrants, this time based on impact and effort. Product teams often use a scoring model called RICE (reach, impact, confidence and effort). MoSCoW is a framework for teams to distinguish between must-have, should-have, could-have and won’t-have features. Google pioneered the 70:20:10 rule for how to allocate resources to innovation: 70% on the core business, 20% on adjacent activities and 10% on totally new ideas. (If the thought of choosing which prioritisation framework to prioritise paralyses you, just choose one at random.)
+```
+
+
 
 
 #### Parts of project/product management that are often overlooked:

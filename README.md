@@ -911,7 +911,7 @@ Question: possible requiring of ballot being completely filled out
 - history of maintainability, vulnerability, performance issues
 
 
-## guidelines and standards for maintainability
+## Guidelines and Standards for Maintainability
 
 # Training for managing maintainable project spaces
 - simulations
@@ -933,11 +933,11 @@ Question: possible requiring of ballot being completely filled out
 - externalization without binary serialization
 - maybe field length and type meta-data handling
 
-## automating/managing speaking-time at events such as debates
-- defining and classifying bad actors
+## Automating/managing speaking-time at events such as debates
+- Defining and classifying bad actors
 
-## types of bytes in coordination data
-- pre-empting type conversion issues
+## Types of bytes in coordination data
+- Pre-empting type conversion issues
 
 ## Practical Model 2:
 Similar to baseline secure model with these changes.
@@ -4070,6 +4070,8 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 ## Self-Referential Cases:
 - What issues are there when automating decisions about decisions, in perhaps a classic case where data and instructions are intermingled, but where which is which is prone to ambiguity?
 
+## Empirical Signal and Task Coordination: Are human organizations decentralized like anti-colonies, contrary to self-concept perception?
+
 ## defining qualification for coordinated decision making
 
 ## Managing state and scope in a timeline of decision coordination operations:
@@ -5117,7 +5119,6 @@ If you read all of these and still turn up to your first day at work, you are ju
 
 Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.
 ```
-
 
 case study: election in Armenia 2026, ~4 party balance
 - https://www.youtube.com/watch?v=N7T-s2_YvUA

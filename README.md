@@ -4072,7 +4072,7 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 
 ## Empirical Signal and Task Coordination: Are human organizations decentralized like anti-colonies, contrary to self-concept perception?
 
-## defining qualification for coordinated decision making
+## Defining qualification for coordinated decision making
 
 ## Managing state and scope in a timeline of decision coordination operations:
 (2025.05.11)
@@ -5119,6 +5119,7 @@ If you read all of these and still turn up to your first day at work, you are ju
 
 Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.
 ```
+
 
 case study: election in Armenia 2026, ~4 party balance
 - https://www.youtube.com/watch?v=N7T-s2_YvUA

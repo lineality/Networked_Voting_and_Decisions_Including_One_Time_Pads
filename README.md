@@ -3751,6 +3751,11 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 When productive diverse-institution countries look at desert-theocracies:
 -- Alfred W. Crosby quote on middle east view of europe pre-renaissance
 
+## Debates & Tests
+[2026 06 25]
+- Could or should there be a standard benchmark set of (modular recombinant) coordinated-descision and project tests (such as social story and logistics puzzles) that administrative staff and representatives can undertake with a team for examination? (This may apply to a range of administration roles, from public office to NPOs to private sector roles.)
+
+
 ## standard task and behavior benchmarks
 - coordination
 - signals

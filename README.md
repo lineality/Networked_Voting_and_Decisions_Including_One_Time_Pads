@@ -2989,7 +2989,7 @@ people then start to believe are cargo-cult-causal
 ## Art, Sport, Commons, Private, Municipal: The geography of modes of coordination (2024.06.29)
 - navigating and shaping 'sport' (the arena-dilemmas)
 
-## documentation and process standards for decision making
+## Documentation and Process Standards for Decision Making
 - using data
 - a record of how the decision was made
 

@@ -2278,6 +2278,16 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 - 'magical thinking'
 - learned helplessness
 
+## Fooled By Randomness
+- perceptions of projects
+- perception of automaticness
+- perception of 'errors'
+- perception of ~statistical distributions
+- perceptions of linearity
+- perceptions of nonlinearity
+- perceptions of ~"randomness" and change
+
+
 ## Interconnected decision events
 - interaction and feedback
 
@@ -4011,6 +4021,10 @@ subsonic(vibration),
 
 in 'breakneck' by Dan Wang 2025, though he once (perhaps a typo) described procedure-scope-creep as 'process',
 https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, gives a portrayal/portrait of pure-fantasy-logic obessed dysfunctional birdnest labyrinths of (post 1970) law that very strongly parallel the (post 1970) computer science and code ridiculousness.
+
+STEM and the psychology, sociology, anthropology, of people are often at odds, but not because 'STEM' is some kind of evil-alien-robot-technology: people form criminal gangs devoted to information suppression and building potemkin-village structures of institutionalized fraud and corruption. The 'scientific' and 'renaissance' culture of embracing learning and data with positive social values are well illustrated by the fate of Geordano Bruno and of Jewish scholars under the Nazis, with Nazi view of science vs. nature being perhaps especially unambiguous.
+
+
 
 ## Modeling and track record
 - How can sets of bad decisions and processes be clearly compared with working processes to show unambiguously or less ambiguously that decisions leading to failure are decisions that lead to failure.

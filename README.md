@@ -1864,6 +1864,7 @@ relating weak business leadership to 'political' populist extremism?
 ## Production and Productivity:
 - process-productivity vs. incidental-productivity
 - long-term productivity vs. incidental-productivity
+- can-do statement policies and trying to define a difference between production and fraud
 
 ## long term data storage
 - sustainability and succession: long term data management

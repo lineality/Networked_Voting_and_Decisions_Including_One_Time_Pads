@@ -2567,6 +2567,9 @@ This overall same information can be expressed and in various specific situation
 ## Definitions of emergencies
 - as in the classic problems on spurious and ongoing claims of emergency-administration
 
+## Definition Management
+- replacing an oversimplified general-linear-model-of-everything with a STEM, categories of types of systems, data-types, and projects paradigm
+
 ## Open, Closed, and SOS, Coordination:
 (From Project Uma)
 # Open Node, S.O.S. Team-Channel

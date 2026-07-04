@@ -2014,7 +2014,7 @@ derivation and integration of process modules
 4. revise your work
 5. match results to project-target (must fit)
 
-# on productures, "trust", measures, standards, and ethics
+# On Productures, "Trust", Measures, Standards, and Ethics
 
 ## The importance of open-source for software testing
 
@@ -2027,7 +2027,7 @@ derivation and integration of process modules
 - 'one MAN one vote' vs. democratic checks and balances
 - see Adams Jefferson letters: Nov 13th 1815
 
-## automated testing to checking functioning of system
+## Automated Testing to Checking Functioning / Status of System
 - the ease or difficulty in making tests
 - the ease or difficulty in sharing tests
 - maybe issues with testing across permission segregated areas

@@ -1340,6 +1340,9 @@ For example:
 - volatile cargo-cult sport causality-hallucination and proxies
 - the problem of replacing policy and agenda with short term measurable goals
 
+## Policies for software standards
+For software that should be reliable for a long time, how to manage the food-fight and cooties-tag fantasy playground that is software engineering?
+
 ## Standard Fields: Goal Clarification and Disambiguation and/for Alignment
 - Agenda Process Policy (e.g. Agile-KT-DefStud[software], SixSigma[specific utility repair], Steiner-Jung[brainstorm], Crime  Fraud & Corruption, etc.)
 - User-Features, Subfeatures, and Tools[treasure map]("story?")

@@ -5082,6 +5082,15 @@ https://www.economist.com/middle-east-and-africa/2026/03/15/open-source-intellig
 
 ...
 
+There are a number of coordination-challenges embedded in this scenareo
+
+From the point of view of 2026, envision NATO Summit 2030:
+
+The normal reality in 2026 is that Ukraine, NATO and the EU are being attacked by hostile actors including Trump, Putin, and XI. By 2030 some hero-villaine roles may rotate. A Rubio or Newsom pro-NATO, pro-Ukraine, administration is not unlikely in the US. For France, Germany, and the UK, National Rally, the AFD, and Reform UK may be pro-Putin, anti-NATO, anti-EU, and not unlikely in 2030. How might such a 2030 NATO summit proceed? How might such a NATO summit be survived?
+
+...
+...
+
 https://www.economist.com/culture/2026/04/09/a-third-world-war-is-plausible-heres-how-to-avoid-one
 Leaders should have speedy and secure means of communication, and meet in person regularly.
 
@@ -5152,6 +5161,7 @@ If you read all of these and still turn up to your first day at work, you are ju
 
 Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.
 ```
+
 
 case study: election in Armenia 2026, ~4 party balance
 - https://www.youtube.com/watch?v=N7T-s2_YvUA

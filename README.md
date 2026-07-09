@@ -1333,7 +1333,7 @@ For example:
 - needs and goals array: past, present, expected future, goal future, ideal future
 - schedule items
 
-## information infrastructure, protocols, and standards
+## Information Infrastructure, Protocols, and Standards
 ## Weather analogy for agenda, policy, and long term vs. short term
 - clarity of data
 - perceptibility and definition of risk

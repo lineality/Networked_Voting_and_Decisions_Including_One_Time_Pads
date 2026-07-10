@@ -1676,7 +1676,7 @@ Francis Fukuyama on default tribal modes and ~ participatory self-identification
 
 ## Perception and Illusion: ("Monday Morning Quarterbacks")
 - measuring the resistance of causality reification in random events such as Noisy-Games
-- rating fittness in system perception
+- rating fitness in system perception
 
 
 # An empirical framework for interactive project elements
@@ -1705,8 +1705,71 @@ Voting and principles of security (ease of use vs. security etc)
 - seek to turn inferiors into superiors
 - seek to surround with superiors
 
-## General vs. Deployment
+## General-Information Tools vs. (Production-release) Deployment
 - the term 'production'
+There are a large number of Software and Production-Data-Science 'mode' and 'case handling' factors.
+e.g.
+1. local, batch, at-scale, cloud,
+
+2. Output structuring and details of deployment
+- self-hosted,
+- .gguf,
+- hidden api-service
+- specific api-services
+
+3. Classic NLP, GOFAI, "Deterministic" approach,
+
+4. Crawling vs. large-chunk
+
+5. Paralleliszation
+- also for debugging
+
+6. Language Choice
+- third party dependencies
+
+7. Third Party dependencies
+- a serious and escalating liability
+
+8. Full automation vs. semi-automating tool
+- the fact that this dummy-project generates an unstructured text-field is suspicious, suggesting that this a solution in search of a problem, automatically and verbosely generating possibly useless and illogical documentation-word salad that some human being will manually need to inspect, as opposed to a tool designed to be used by a person for something more specific.
+
+Small-Clear-Task-Doer: Good, Best
+Big-automated-task-doer: Dubious, but can be good.
+Task-Helper: Good, flexbile.
+Automated-Unchecked-Documentation-Genrator: Very Bad.
+
+9. Definition, Testing, Evaulation, Benchmarking, Auditing:
+Is something designed so that what it is doing is clearly defined in such as way that it can, effectively, be
+- unit-tested
+- workflow-tested
+- performance benchmarked (as in live month-to-month performance with potential changes to the system or to inputs)
+- given a meaningful evaluation test (not a mismatched test, or a dubious or overly-indirect test)
+
+
+10. Error logging and error/case handling
+- also gets into language choice
+
+
+11. Atomics, Parallelism and Concurrency
+
+12. scalability
+
+13. maintainability
+
+14. deployability
+- on edge
+- in a serverless endpoint
+- consistently fast enough to be an endpoint under 30-sec. (backend-frontend latency, the need for 'step functions' etc.)
+
+15. Design Maturity
+Is the whole project/product design mature or is this a theoretical 'solution in search of a problem,' with hopes of a deployment and affordability pathway, and with a dream of maintainability?
+
+16. A case for a "Small" vs. "Large" Foundation model
+
+17. Input data type ambiguity:
+For document processing in real life this can be the most critical issue, yet it can be overlooked all the way until eventual project-collapse.
+
+
 
 #### Note: RC4 used correctly (discarding early output)
 - https://en.wikipedia.org/wiki/RC4

@@ -2039,6 +2039,13 @@ Episode #940 | 19 Sep 2023 | 104 min.When Hashes Collide
 - It is not sustainable to have ambiguous overlap between definitions of good-governance and bad-governance; it is not viable to have the definition of a responsible administrator being the same as the definition of a criminal bad actor. In the English language this is probably not an easy problem to solve, because of the unfortunate pejorative meaning of the terms "political" and "politics"
 
 
+# clear transparent communication
+## Civics, STEM, Soft Targets and Bad Actors
+There is general universal agreement that good governance, good administration, requires transparency and coherent-clarity, and that this is ultimately a STEM-scope of accuracy and meaningful verification: signal vs. noise.
+Nevertheless, there is a default tendency for individuals working and seeking to work in administration and in STEM to use miscommunication, non-communication, and obstruction in administration and STEM.
+Point: Habits and norms and non-transparency and non-clarity must never be accepted or tolerated. No quantity or proportion of bad-actors normalizes destructive and counterproductive behavior such that it should be nihilistically considered the goal.
+
+
 ## details of confirming voter choice data-types:
 string check
 float check
@@ -2920,7 +2927,7 @@ context vs. cutup:
 - scope creep and bloat issue if too many resources are used for micro-operations
 2024.06.24
 
-# sources of data:
+# Data Sources:
 - questionnaires
 - metadata
 - votes

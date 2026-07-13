@@ -3073,7 +3073,7 @@ people then start to believe are cargo-cult-causal
 - code compilation type feedback
 - agile project participant communication type feedback
 
-## issues of copyright and fair-use on various levels of project, coordinated-decision-making, and the use of STEM processes therein.
+## Issues of copyright and fair-use on various levels of project, coordinated-decision-making, and the use of STEM processes therein.
 
 ## Access: Whitelisting and Blacklisting (e.g. network access)
 - Could some form of white-listing alleviate ddos attack surface?

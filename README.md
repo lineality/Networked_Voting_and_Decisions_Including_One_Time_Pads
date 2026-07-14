@@ -2406,12 +2406,12 @@ in all parts and discussions of coordinated decisions
 of groups of participants in proportional representation
 or in category or finite choice selection
 
-## decisions, logic, and quantization(numbers)
+## Decisions, Logic, and Quantization(number-boundaries)
 - defining current-time outcomes
 - defining future targets
 - defining 'past' known data (states of being unknown etc)
 
-## Ballot item interpretability:
+## Ballot Item Interpretability:
 - deterministic (given time as input)
 - discrete responses
 - issues with open ended 'write-in'

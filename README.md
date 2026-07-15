@@ -632,8 +632,7 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 - rules for margins, recounts, challenges, runoffs, etc.
 - open source system code
 - anonymized election results
-- election schedule
-
+- election schedules
 
 # Notes:
 #### Question: Background tests and checks during the whole process?

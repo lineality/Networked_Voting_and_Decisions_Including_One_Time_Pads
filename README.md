@@ -632,7 +632,7 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 - rules for margins, recounts, challenges, runoffs, etc.
 - open source system code
 - anonymized election results
-- election schedules
+- election schedule
 
 # Notes:
 #### Question: Background tests and checks during the whole process?
@@ -1925,6 +1925,10 @@ relating weak business leadership to 'political' populist extremism?
 ## Formalities of Biology and STEM and Choices in Epiphenomena
 
 ## Modular vs. non-modular 'objects' and processing
+
+## Production Implementation Factors
+- https://github.com/lineality/modes_and_case_handling
+- https://github.com/lineality/production_datascience_design_areas
 
 ## Production and Productivity:
 - process-productivity vs. incidental-productivity
@@ -3618,7 +3622,7 @@ Types of 'state'? (as in values being odd in lambda-calc?)
 
 ## Votes from past generations who are no longer alive vs. sun-set clauses
 
-# communication infrastructure costs
+# Communication Infrastructure Costs
 - institutional roles
 
 ## Security Needs vs. Command-line Aversion and super-signal attraction
@@ -4159,7 +4163,7 @@ STEM and the psychology, sociology, anthropology, of people are often at odds, b
 
 ## measuring outcomes, measuring process, and measuring ~noise
 
-## countability, metrics, and definitions
+## Countability, Metrics, and Definitions
 
 ## Metrics:
 - Metrics for short-term/long-term disjunctions

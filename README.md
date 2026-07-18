@@ -2579,7 +2579,7 @@ by Deborah M. Gordon
 ## Problems of linguistics and psychology
 - narrowing manageable scope for project decisions and project state
 
-# forms of encryption and trade-offs
+# Forms of Encryption and Trade-offs
 - character sets
 - data structure types
 
@@ -2717,6 +2717,11 @@ Uma can and should be a portable, minimal, platform-agnostic, protocol and syste
 
 Are there use-cases for a robust distributed graph-database that is not reliant on ip-connections: absolutely.
 
+## OS Questions
+- software with no OS
+- operational definitions of OS
+- E.g. Uma-type set of features with no other OS
+
 ## Auditability of Code for Some Projects
 - community utilities
 - voting
@@ -2818,6 +2823,11 @@ An institutional example of this borrowed from Daniel Kahneman may be where any 
 
 ## Categories of CS operations involved in coordinated decision making
 - are there any undefined-behavior or non-analytic components that are unavoidable?
+
+# Coordinated Decisions: Who Votes on What?
+- important set of issues
+- relatively excellent but still unfocused article:
+https://www.economist.com/united-states/2026/07/13/americas-other-elections-problem
 
 ## Red Herrings
 - Parasitic and Reified goals:

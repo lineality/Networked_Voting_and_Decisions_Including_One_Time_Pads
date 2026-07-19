@@ -2828,6 +2828,17 @@ An institutional example of this borrowed from Daniel Kahneman may be where any 
 - important set of issues
 - relatively excellent but still unfocused article:
 https://www.economist.com/united-states/2026/07/13/americas-other-elections-problem
+- ``` America’s electoral sprawl happened in two stages. The first came under Andrew Jackson, the country’s seventh president, who handed more power to non-landowning white men by allowing them to elect more officials. The second stage came at the turn of the 20th century, when reformers gave citizens more direct influence through ballot initiatives and referendums. Both moments reflected concern that elites and political parties had amassed too much control over government, says David Schleicher of Yale University. The solution, he says, was to “diffuse power to the people as a check” on those groups.
+```
+- ```No voter can reasonably be expected to make an informed decision about every item on the ballot. The sheer number of elected officials makes it difficult to know who is responsible for what. Even an expert steeped in local governance might struggle to judge whether a county comptroller has succeeded or failed in office, says Mr Schleicher. Yet on many ballots, voters face that challenge dozens of times. When they reach the more obscure races, they are “flying blind”, says Todd Donovan of Western Washington University.
+```
+- ``` Ballot initiatives can be even harder to understand. The Economist analysed the text of 130 initiatives in California since 2000. Using a metric that scores text based on sentence and word complexity, we found that most required college-level reading comprehension (see chart). One in four demanded the reading comprehension of someone with a graduate degree. Yet only a third of Americans have at least a bachelor’s degree.```
+- ```In principle, ballot initiatives allow groups unable to persuade legislatures to appeal directly to voters. But most are no longer the homespun, volunteer campaigns of yesteryear. They are often sponsored by corporations, unions, ideological organisations or wealthy patrons, which hire signature-gathering firms and specialised consultants. “You can’t really get on the ballot anymore without substantial resources,” says Mr Donovan.
+```
+- ```politicians tend to be wary of taking power away from voters—or, at least, of being seen to do so. Few elected officials are keen to reduce the number of elected offices, not least because some would be eliminating their own jobs.
+```
+
+
 
 ## Red Herrings
 - Parasitic and Reified goals:

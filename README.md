@@ -1952,7 +1952,7 @@ relating weak business leadership to 'political' populist extremism?
 ## Evaluation Types:
 - Daniel Kahneman: Evaluate the process not the outcome.
 
-## efficiency, maintainability, sustainability,
+## Efficiency, Maintainability, Sustainability
 - scalability
 - 'technical debt'
 

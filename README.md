@@ -3473,9 +3473,11 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 ## Laws Policies, and Voting-Elections about each-other:
 - a Matrix With Feedback
 
-## design guidelines and standards
+## Design-Guidelines and Standards
+- enforced rules and "static-analysis" vs. 'style-guides'
 
-## input and output that are blobs or have distinct sections
+## Input and Output that are blobs or have distinct sections
+- 'result' (Rust, Zig, Go)
 
 ## Participation and Motivation
 - use-ability of system
@@ -3519,6 +3521,10 @@ vs.
 
 ## databases broadly:
 - positive user experience with databases (2024.07.10)
+
+
+## LTS-Paradox: Is 'Long Term Support' a paradox for software stability?
+- Is 'Support after deprecation' a self contradiction or a meaningless reification like hollow OOP-aspirations?
 
 ## Formal and informal political 'parties':
 - do there need to be parties

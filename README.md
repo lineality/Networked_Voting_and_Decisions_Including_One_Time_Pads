@@ -1062,7 +1062,7 @@ Goals, Scope Alignment: definition items (2025.01.19)
 
 
 #### Project Areas & Problem-Examples
-#### v18
+#### v19
 1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies (including for predictable issues problems and collapse elements: scope-churn, panic-halting, planning-blackout), Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies), for macro: Mapping/Modeling, Strategizing, Navigating, Decision-making, forming conclusions, planning, initiative-taking, leadership, etc.
 - process/policy areas may be seen as preventable-predictable-collapse-areas; each is an area of preventable mistakes that are not automatically self-preventing and that must be deliberately prevented. Problems that are not automatically visible or understandable can repeat indefinitely. Using process and policy can significantly help prevent and navigate recurring problems that are not automatically visible.
 - not accounting for different workflows (e.g. frontend, backend, data-science, production machine-learning, R&D, test-reporting, etc.) will lead to delays and failures that should not have occurred. In the absence of communication and learning, these failures may be invisible and repeat indefinately because they are not seen and understood.
@@ -1071,23 +1071,24 @@ Goals, Scope Alignment: definition items (2025.01.19)
 - timelines that need to be short but are never articulated or planned for are unlikely to usually spontaneously match the needed short scale planning needs.
 - timelines that need to be long but are never articulated or planned for are unlikely to usually spontaneously match the needed long scale planning needs.
 -- undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
-- laxity about and absence of schedule fitness will increase the likelihood of standard, common, entirely predictable basic schedule problems, including:
--- sequence errors: putting first steps such as planning, brainstorming and early drafts at or towards the end of the timeline; putting end-steps first
+- standard, common, errors: laxity about and absence of schedule fitness will increase the likelihood of standard, common, entirely predictable basic schedule problems, including:
+-- sequence errors: putting first steps such as planning, brainstorming and early-drafts at or towards the end of the timeline, and putting end-steps first
 -- not scheduling planning time
 -- not using planning time
--- not scheduling feedback and use of feedback
--- not using feedback time feedback
+-- not scheduling feedback and the use of feedback
+-- not using feedback-time or feedback
 -- brittle-schedule: not accounting for predictable delays
 -- best-case-scheduling: between a best-case, expected-case, and worst-cast schedule, only considering the best-case
 -- miscalculating durations
 -- ignoring scheduled timelines
 -- refusing to communicate about schedules
--- trying to force others to stop asking and talking about schedules
+-- trying to force planners and team-members to stop asking and talking about schedules
 -- having indeterminate schedule plans
 -- having simultaneous paradoxical schedules plans
 -- using nihilistic disinformation to discredit the value, function, and meaning of a schedule
--- suddenly changing a schedule (or trying to), often at the last minute
--- not having in scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely)).
+-- suddenly changing a schedule (or trying to), often at the last minute (such as the moment before everyone leaves a meeting)
+-- not having in-scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely)).
+-- Classic inversion of planning & execution priories: A 'hurry up and wait' pattern where first you impatiently blitz to start a project without planning and then the policy flips 180 degrees so that no deadlines exist and people work indefinately on whatever whim of the moment.
 
 3. Users: Stakeholders & Needs & Goals Evaluation (of users)
 -- not having and coordinating with users/stakeholders and their needs significantly raises the probability that the project will not improbably spontaneously meet their unknown and possibly unarticulated needs by accident.
@@ -5270,3 +5271,32 @@ Subscribers to The Economist can sign up to our Opinion newsletter, which brings
 
 case study: election in Armenia 2026, ~4 party balance
 - https://www.youtube.com/watch?v=N7T-s2_YvUA
+
+
+...
+
+https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html
+```
+Roughly 400 noncitizens cast ballots in New Jersey after about 6,600 residents were improperly registered to vote between June 2023 and June 2024 because of a software error at the Motor Vehicle Commission, Gov. Mikie Sherrill announced on Tuesday.
+
+All the people affected had disclosed that they were not citizens when seeking either a driver’s license or ID, but were nonetheless placed on the voter rolls in error.
+
+Those people will be removed from the voter rolls. The governor said she feared that they might now be at risk of federal prosecution or unexpected hurdles — “through no fault of their own” — as they worked toward becoming citizens.
+
+“We are working very hard to protect them,” Ms. Sherrill, a Democrat who took office in January, said at a news conference.
+
+The New York Times could not independently verify the figures disclosed on Tuesday.
+...
+Officials with Idemia, a technology company based in Virginia with offices around the world, said the state’s Division of Elections was “ultimately responsible” for verifying all information transmitted, including residents’ “eligibility to vote.”
+
+Officials within the Sherrill administration became aware of the “serious software error” last week, the governor said, and began an immediate investigation. The error was discovered and corrected in 2024, while Philip D. Murphy was governor, but never publicly disclosed, Ms. Sherrill said.
+
+A spokesman for Mr. Murphy, a Democrat who served for two terms, did not reply to emails, calls or a text message.
+
+Ms. Sherrill was unstinting in her criticism of the way the Murphy administration handled the problem, citing “reckless failures.”
+
+“It’s unacceptable that the vendor released software with such a glaring error. It’s unacceptable that the M.V.C. took a year to get this issue fixed. And it’s unacceptable that no one in the previous administration brought this to light, demanded accountability or took action when it happened years ago,” Ms. Sherrill said.
+```
+
+Note:
+There were past voting-system issues notes in New Jersey, also a small number of people.

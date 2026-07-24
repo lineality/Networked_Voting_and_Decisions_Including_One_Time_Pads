@@ -452,7 +452,7 @@ Writing down the numbers and confirming with a photo (no printers needed) may be
 A separate air-gapped mobile device would be feasible, or perhaps a more decentralized system would be more secure.
 (note: 'certificate' model)
 
-# An alternative thrifty-protocol for resource-limited situations/geographies
+# An alternative Thrifty-Protocol for Resource-Limited Situations/Geographies
 (section under construction)
 
 ## Practical Voting

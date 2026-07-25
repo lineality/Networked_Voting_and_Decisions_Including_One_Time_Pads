@@ -1134,9 +1134,6 @@ All sorts of frameworks exist to enable better prioritisation. The Eisenhower ma
 The action-priority matrix is another way of dividing tasks into quadrants, this time based on impact and effort. Product teams often use a scoring model called RICE (reach, impact, confidence and effort). MoSCoW is a framework for teams to distinguish between must-have, should-have, could-have and won’t-have features. Google pioneered the 70:20:10 rule for how to allocate resources to innovation: 70% on the core business, 20% on adjacent activities and 10% on totally new ideas. (If the thought of choosing which prioritisation framework to prioritise paralyses you, just choose one at random.)
 ```
 
-
-
-
 #### Parts of project/product management that are often overlooked:
 1. Policy: Disable Auto-Pilot
 2. Needs & Goals Evaluation & Disambiguation
@@ -1145,8 +1142,7 @@ The action-priority matrix is another way of dividing tasks into quadrants, this
 5. Preliminary-Start, 'Feature' scope evaluation, & a process to halt excessive scope/load (As John McCarthy noted in the 1950's about software targets 'easy things are hard.' It is often not possible to tell the work-scope/work-load of a feature unit preliminary work has been done. So, evaluation of the scope of a feature requires review of preliminary work.)
 
 
-
-## The Problem-Checklist approach to project areas:
+## The Problem-Checklist Approach to Project Areas:
 - Defining Agile-Type Areas of Projects as a set of predictable recurring problems, such as can be checked for after each iteration of a project, and that evaluation used in future planning: I.e. Here are lists of known issues; Are any of these happening? If so, there are likely invisible problems that are entirely solvable on the level of process, communication, and (except for extremes) universally accessible skills and practices. The approach here is not to try to micro-manage a one-size fits all positive-definition that should apply to everything (all projects, teams, and workshops), but rather a negative-definition of problem-areas that every unique project in a unique situation in a unique place needs to (and can) figure out how to address.
 - Schedule-issues may be the most demonstrably relatable for any participants (if also not easy to communicate about smoothly even in extremely remedial ways). It may be helpful to think of a kind of 'schedule object permanence' in a kind of project-space-sally-anne test. Some people are skilled at perceiving and managing schedule-object permanence space, many people are not, but likely ~all people are able to learn basic schedule object permanence skills and have basic fitness. A key problem is that many people do not understand the possibility of there being a lack of schedule-object-perminance-space fitness (and other project areas), assuming that all world fitness is automatic. The concept of not-automatically-learned-skills, is itself not automatically learned.
 

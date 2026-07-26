@@ -2601,6 +2601,13 @@ by Deborah M. Gordon
 - minimal
 - secure
 
+
+# Social Signals & Decisions
+2027.07.25
+It may be still largely unknown in 2026 how 'social' homo-sapiens are and how to use "social" and other terms.
+In a context of individuals and populations, there are important differences between types of situations. In some situations we have effectively distinct centralized 'agents' or 'actors' or 'entities' or 'institutions' or 'nouns' (be they 'people' or 'nation-state-republics) negotiating in a context where each is legally and operationally separate. In other situations, perhaps as with "colonies" of organisms such as ant-wasps or bee-wasps, the system is more distributed, where the 'colony' is a different type of single 'genetic entity' that has the ability to detach and re-grow parts of its body. In terms of how decisions and learning and signals work, homo-sapiens may be a mix of these two and more modes of process.
+
+
 ### Social problems with best practice not being observed
 - project skills
 - social-story skills
@@ -5295,4 +5302,4 @@ Ms. Sherrill was unstinting in her criticism of the way the Murphy administratio
 ```
 
 Note:
-There were past voting-system issues notes in New Jersey, also a small number of people.
+There were past voting-system issues noted in New Jersey, also a small number of people involved in issue.

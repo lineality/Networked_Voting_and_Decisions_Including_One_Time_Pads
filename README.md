@@ -2739,7 +2739,7 @@ Are there use-cases for a robust distributed graph-database that is not reliant 
 - competence levels
 - pre-requisite / requisite skills
 
-### general software sets vs. research and development sets vs. use-production sets, vs. specific use-case sets
+### General software sets vs. research and development sets vs. use-production sets, vs. specific use-case sets
 - optimization
 - "do one thing well"
 - standardization
@@ -2791,7 +2791,7 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 ## Design and deployment factors
 - "do one thing well"
 
-# login management:
+# Login Management:
 - connection
 - roles
 - databases

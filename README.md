@@ -807,8 +807,11 @@ https://github.com/lineality/Auditable_Elections_Projects
 #### Case Studies in Failing to agree locally on election rules:
 -(Q: how far back in time?)
 
-book: the fall and rise of democracy
+
+book: The Decline and Rise of Democracy: A Global History from Antiquity to Today (The Princeton Economic History of the Western World)  by David Stasavage
+https://www.amazon.com/Decline-Rise-Democracy-Antiquity-Princeton/dp/0691177465
 - interesting group-organization models study
+- history of 'mandates'
 
 #### Case Studies in Long Term Technical Design Issues:
 - SN https://www.grc.com/sn/sn-914-notes.pdf
@@ -1060,9 +1063,8 @@ Goals, Scope Alignment: definition items (2025.01.19)
 - Feedback & Tests, Ecological Effects, Communication & Iteration (~agile)
 
 
-
 #### Project Areas & Problem-Examples
-#### v19
+#### v19 2026
 1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies (including for predictable issues problems and collapse elements: scope-churn, panic-halting, planning-blackout), Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies), for macro: Mapping/Modeling, Strategizing, Navigating, Decision-making, forming conclusions, planning, initiative-taking, leadership, etc.
 - process/policy areas may be seen as preventable-predictable-collapse-areas; each is an area of preventable mistakes that are not automatically self-preventing and that must be deliberately prevented. Problems that are not automatically visible or understandable can repeat indefinitely. Using process and policy can significantly help prevent and navigate recurring problems that are not automatically visible.
 - not accounting for different workflows (e.g. frontend, backend, data-science, production machine-learning, R&D, test-reporting, etc.) will lead to delays and failures that should not have occurred. In the absence of communication and learning, these failures may be invisible and repeat indefinately because they are not seen and understood.
@@ -4109,7 +4111,7 @@ subsonic(vibration),
 
 ## sustainably funding academia to support decision infrastructure
 
-## software academia and municipalities
+## Software, Academia and Municipalities
 - overhead costs and infrastructure
 - minimal requirements
 

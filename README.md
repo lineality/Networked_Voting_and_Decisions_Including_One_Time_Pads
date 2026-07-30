@@ -2169,8 +2169,6 @@ derivation and integration of process modules
 - synchronous, asynchronous
 - state or stateless (as in memory, not gov)
 
-
-
 # risk and worst case scenarios
 
 ## standards for describing feasibility and clarity

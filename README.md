@@ -3039,7 +3039,7 @@ Revisiting Edmond Burke:
 - post-participants
 - checks and balances vs. literal popular vote 'democracy'
 
-## story-relatability & human-understandability of systems & procedures
+## Story-relatability & human-understandability of systems & procedures
 
 ## Databases and Dataframes
 - encrypted contents

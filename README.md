@@ -3167,7 +3167,9 @@ connecting Jan with open frameworks for
 ## Project State, System State, and Data State in Coordinated Decisions
 - the dimensionality of data and state, project-state
 
-## strategies for managing sunset clauses
+## Strategies for Managing Sunset-Clauses
+- where sunsetting is low hanging fruit
+- where sunsetting is a risk
 
 ## precedent in modes of ruling vs. sunset limits on specific laws
 

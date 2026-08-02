@@ -1955,7 +1955,7 @@ relating weak business leadership to 'political' populist extremism?
 - scalability
 - 'technical debt'
 
-### trajectory of cost and maintainability
+### Trajectory of Cost and Maintainability
 - R&D as value
 - a trajectory of increased efficiency and maintainability for long running processes
 

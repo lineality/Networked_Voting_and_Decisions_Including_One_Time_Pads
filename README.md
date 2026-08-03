@@ -1964,11 +1964,11 @@ relating weak business leadership to 'political' populist extremism?
 - scalability
 - maintainability
 
-## realistic efficiency:
+## Realistic Efficiency:
 - web applications are usually designed with very strange goals that make the overall process extremely brittle, expensive, and unsustainable, in order to chase fetich-goals with little or no real value (fancy UI, high speed)
 - election system should be robust with no added features that are not absolutely needed: few dependencies, secure,
 
-## location: on edge, on premise, distributed, server, and cloud
+## Location: on edge, on premise, distributed, server, and cloud
 - case studies for distributed systems?
 
 # Data Hygiene and Voting
@@ -1995,7 +1995,7 @@ relating weak business leadership to 'political' populist extremism?
 
 ## different uses of high and low resolution data and metrics, test, etc.
 
-## decisions and disturbance regime management
+## decisions and disturbance regime Management
 - general disturbance regimes
 - out-of-regime disturbances
 - diversity and disturbance resilience
@@ -2442,6 +2442,9 @@ Literally or proverbially software since 1970 has been a self-conspiracy among c
 
 ## Eliza Effect & Coordinated Decisions
 - staying grounded when either the tools or the results or the process may or will inspire participants to diverge from reality or probability and enter into areas of unfounded belief without recourse to verification or accurate assessments of likelihood. (2024.04.20)
+
+# The Biology and Evolution of Motivation & Incentives
+-
 
 # Learned Helplessness and testing implicit assumptions
 - aggressively teaching STEM values in perpetuity in a sustainable way 2025.04.09

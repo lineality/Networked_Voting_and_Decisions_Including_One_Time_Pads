@@ -1645,6 +1645,11 @@ Francis Fukuyama on default tribal modes and ~ participatory self-identification
 - NASA's Power of 10 process-rules for govern-able code-law
 - Rust vs. Zig and categories of general-utility code that should lack fragility and not require high or unrealistic skill levels to maintain (e.g. the perpetual-CVE tragedy of ex-vi-vim minimal)
 
+#### part 2
+- Political Order and Political Decay: From the Industrial Revolution to the Globalization of Democracy
+Francis Fukuyama
+- https://www.amazon.com/gp/product/B00IQOFS7M
+- https://www.amazon.com/Political-Order-Decay-Industrial-Globalization/dp/B00LU3YM8C/
 
 ## Demand Distortion: Factors and Areas of impact
 - definition collapse
@@ -4922,6 +4927,8 @@ All ~countries/nations/republics including the USA can and should achieve sanity
 https://www.amazon.com/Origins-Political-Order-Prehuman-Revolution-ebook/dp/B00457X7VI
 - note: balance between local 'kinship' and 'abstract' inter/intra local coordination
 Q: Scale
+
+https://www.amazon.com/End-History-Last-Man/dp/0743284550
 
 # Books on Project Management
 ( )

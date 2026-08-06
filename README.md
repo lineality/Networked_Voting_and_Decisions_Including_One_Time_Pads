@@ -3600,7 +3600,6 @@ from decentered /decentralized elections and networks to centralized political p
 
 ## Meritocracy & Meritocratic
 - Anne Applebaum on anti-fittness social-selection
--
 
 ## Coordination and Fitness
 - meritocratic participation
@@ -3894,7 +3893,7 @@ When productive diverse-institution countries look at desert-theocracies:
 - Could or should there be a standard benchmark set of (modular recombinant) coordinated-descision and project tests (such as social story and logistics puzzles) that administrative staff and representatives can undertake with a team for examination? (This may apply to a range of administration roles, from public office to NPOs to private sector roles.)
 
 
-## standard task and behavior benchmarks
+## Standard Task and Behavior Benchmarks
 - coordination
 - signals
 - actions
@@ -3920,7 +3919,7 @@ Role and Sources of Stochasticity in decision coordination:
 
 ## evaluating agendas in a project-space of coordinated decisions
 
-## Questions of defining technology
+## Questions of Defining Technology
 
 ## Mapping out STEM and communication protocols
 - medicine in STEM

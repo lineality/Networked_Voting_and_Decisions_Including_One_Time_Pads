@@ -1153,9 +1153,6 @@ The action-priority matrix is another way of dividing tasks into quadrants, this
 - Context vs. General
 - Linearity and Nonlinearity
 
-
-
-
 ## Advocacy and support tools for 'process'
 #### Policy on Feedback, Errors, Mistakes, & Transparency: a process for reporting feedback (there needs to be a process and team-cultural permission to handle feedback and data): [2025.04.27]
 - handling the predictable 'culture vs. data' conflicts:
@@ -2132,10 +2129,8 @@ derivation and integration of process modules
 
 ## Franklin's Commonwealth
 2024.08.06
--
 
 ## Views and Depictions of "Bureaucracy"
--
 
 ## Using Technology (including NLP-AI) to search and explain about voting topics, ballot initiatives, and issues connected. etc. e.g. All the issues related to a water-regulation change and what might be affected in the short and long term.
 
@@ -2147,7 +2142,11 @@ derivation and integration of process modules
 
 ### note blindly following excitation and stimulation
 
-### not mis-interpreting signals
+### monitoring and guarding against illusions: not mis-interpreting signals
+- Mapping out the various known ways, perhaps in a phylogeny, of how signals, perceptions, communications, can be distorted
+- ways that datasets can be tricky, distorted, too small, 'leak' influence to other data, etc.
+- places where perception is an active process and so 'illusion' may be less clear
+
 
 ### Impulsiveness (short term, long term):
 - naive attraction

@@ -1418,11 +1418,11 @@ And both may involve the bazaar cargo-cult of undefined 'rational behavior' whic
 
 # Workflow Studies
 
-## Bureaucracy and Code, Not a reified Antagonist
+## Bureaucracy and Code, Not a Reified Antagonist
 - coding issues and best practice compared with fears of villainous administrations
 - feedback and cargo cults
 
-## externalizing Datastructures and Delineations
+## Externalizing Datastructures and Delineations
 - swap 'demarcation' system (term to use... 'syntax' swap?)
 - TOML swap, swap,
 
@@ -1566,7 +1566,6 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 ...
 
 ## incentives and long term incentives
--
 
 ...
 
@@ -1642,7 +1641,7 @@ Francis Fukuyama on default tribal modes and ~ participatory self-identification
 - NASA's Power of 10 process-rules for govern-able code-law
 - Rust vs. Zig and categories of general-utility code that should lack fragility and not require high or unrealistic skill levels to maintain (e.g. the perpetual-CVE tragedy of ex-vi-vim minimal)
 
-#### part 2
+#### Part 2
 - Political Order and Political Decay: From the Industrial Revolution to the Globalization of Democracy
 Francis Fukuyama
 - https://www.amazon.com/gp/product/B00IQOFS7M
@@ -3029,13 +3028,13 @@ teaching how to participate in coordinated decision making
 - 'the madness of crowds'
 - John Adams: "The Tyranny of 'The Many'" (vs. the tyranny of the few) "it was all madness" (letters, ~1813)
 
-Revisiting Thomas Hobbes:
+#### Revisiting Thomas Hobbes:
 - Dynamics of Learning
 - Hobbes and Melville
 - STEM & Law
 - Violence and collapse
 
-Revisiting Edmond Burke:
+#### Revisiting Edmond Burke:
 - Empiricism and STEM
 
 ## 80-20 Rule in Representation: How modeling society as being entirely of working voters is a rapid way to cover 20% of the work to be done. How 'one person one vote' is a dangerous oversimplification of many issues including montesquieu' checks and balances and Hobbes et al's tradeoff balance agreements. (2024.07.14)

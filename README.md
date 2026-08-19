@@ -1935,7 +1935,7 @@ relating weak business leadership to 'political' populist extremism?
 - long-term productivity vs. incidental-productivity
 - can-do statement policies and trying to define a difference between production and fraud
 
-## long term data storage
+## Long-Term Data Storage
 - sustainability and succession: long term data management
 	- chain of future control
 	- future cost structure

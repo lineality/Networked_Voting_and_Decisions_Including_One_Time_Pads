@@ -1996,7 +1996,7 @@ relating weak business leadership to 'political' populist extremism?
 
 ## different uses of high and low resolution data and metrics, test, etc.
 
-## decisions and disturbance regime Management
+## Decisions and Disturbance Regime Management
 - general disturbance regimes
 - out-of-regime disturbances
 - diversity and disturbance resilience
@@ -2016,7 +2016,9 @@ judges, judge_1, MY_CHOICE\n
 ## Reducing a .csv file to a QR code...
 - can a standard ballot sized csv file fit into a .csv file?
 
-## input and clarity standard: a very long and vague story that needs to be very brief and clear: what are symbols and what gets printed?
+## input and clarity standard:
+- a very long and vague story that needs to be very brief and clear
+- what are symbols and what gets printed?
 
 ## Privacy and anonymity: "When Hashes Collide"
 uses of hashes for statistical usefulness for behavior patterns for statistically anonymous for identifying specific people.

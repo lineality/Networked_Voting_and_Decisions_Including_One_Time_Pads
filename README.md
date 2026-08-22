@@ -4246,6 +4246,19 @@ STEM and the psychology, sociology, anthropology, of people are often at odds, b
 - How can this be taught?
 - How can this be required or facilitated?
 
+## Team Projects Curricula Areas
+[2026.08.21]
+- Project-Team Basics: 'T is for Task' / Uma
+- Concrete Exercises: Social Story Puzzles & Cookbook Puzzles
+- Team Skills: Soft-Skills
+- Project Skills: Project Areas
+- Inter-Team Level/Scale: Needs & Goals Evaluation of Other Teams
+- Dynamics, Values, Policies and Best Practice: Definition Behavior Studies
+- Coordinated Decisions
+- Board-Level Administration Problem-Spaces
+- Entrepreneurship
+- other: civics
+
 ## Describing the difficulty of a project
 - likelihood of mistakes
 - costs of operations

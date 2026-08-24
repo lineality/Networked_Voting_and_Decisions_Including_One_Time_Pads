@@ -4258,6 +4258,11 @@ STEM and the psychology, sociology, anthropology, of people are often at odds, b
 - Board-Level Administration Problem-Spaces
 - Entrepreneurship
 - other: civics
+[2026.08.22]
+Starting and overall curricular questions:
+1. The health-food junk-food question:
+2. The difficulty-level of getting a given high-quality-signal question:
+3. The 'Should you roll your own in this case' question: 
 
 ## Describing the difficulty of a project
 - likelihood of mistakes

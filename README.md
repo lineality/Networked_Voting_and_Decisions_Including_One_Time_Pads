@@ -4246,7 +4246,7 @@ STEM and the psychology, sociology, anthropology, of people are often at odds, b
 - How can this be taught?
 - How can this be required or facilitated?
 
-## Team Projects Curricula Areas
+## Team-Projects Curricula Areas:
 [2026.08.21]
 - Project-Team Basics: 'T is for Task' / Uma
 - Concrete Exercises: Social Story Puzzles & Cookbook Puzzles

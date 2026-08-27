@@ -3374,7 +3374,7 @@ In any given human endeavor where there appears to be some relative success and 
 - statistical legitimacy
 
 # Edge Case or non-edge case definitions
-- define where database/datastructure time and clock sync issues are edge cases or not edge cases
+- define where database/data-structure time and clock sync issues are edge cases or not edge cases
 
 ## Proxies and Measures of Fitness in a context of Roles in a context of specific projects including administration:
 types/categories:

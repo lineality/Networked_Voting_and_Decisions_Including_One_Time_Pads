@@ -4132,7 +4132,7 @@ subsonic(vibration),
 - When whoever the other 'gang' appoints is the worst, when 'your person' is always the best.
 - excessive asymmetry: flipside: we are always right because we must always win, you are always wrong because you must always lose; winning myopic pedantic battles in the short term is everything/is the only thing.
 
-## Coordinated decision making and architecture tasks: distributed overlapping logic
+## Coordinated-Decision-Making and Architecture-Tasks: distributed overlapping logic
 - counting tasks
 - overlapping effect tasks
 - a model of overlapping counting counting tasks

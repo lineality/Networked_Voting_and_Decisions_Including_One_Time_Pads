@@ -1677,7 +1677,6 @@ Francis Fukuyama
 - measuring the resistance of causality reification in random events such as Noisy-Games
 - rating fitness in system perception
 
-
 # An empirical framework for interactive project elements
 
 ## Tradeoffs in Voting:
@@ -3008,7 +3007,7 @@ The buck stops here; what exactly do we mean by 'statistics'?
 - data structures and statistics
 - key statistics and data science for running tools, not for predicting outcomes.
 
-## training and effective education
+## Training and Effective Education
 teaching how to participate in coordinated decision making
 - agile
 - elections
@@ -3017,7 +3016,7 @@ teaching how to participate in coordinated decision making
 
 ## Nonlinearity in Data Analysis
 
-### Choice-spaces and problem spaces:
+### Choice-Spaces and Problem-Spaces:
 - tautological spaces
 - procedure vs. outcome
 - system1, system2

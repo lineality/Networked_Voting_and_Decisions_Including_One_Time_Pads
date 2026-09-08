@@ -797,12 +797,9 @@ https://github.com/lineality/Auditable_Elections_Projects
 
 
 ## An annotated history of how election design effects election process:
-- 
-
 
 #### Case Studies in Disrupted and Problematic Elections:
 (international?)
-- 
 
 #### Case Studies in Failing to agree locally on election rules:
 -(Q: how far back in time?)
@@ -3120,6 +3117,10 @@ people then start to believe are cargo-cult-causal
 - using data
 - a record of how the decision was made
 
+## Policies on Health
+
+## Dunce-Cap Roulette, Refugia, Membranes, and Populations
+
 ## Election Data & Retrieval (databases and generation from vectors):
 - from 1900's statistical analysis to 2000's Data Science
 connecting Jan with open frameworks for
@@ -5299,10 +5300,8 @@ If you read all of these and still turn up to your first day at work, you are ju
 Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.
 ```
 
-
 case study: election in Armenia 2026, ~4 party balance
 - https://www.youtube.com/watch?v=N7T-s2_YvUA
-
 
 ...
 

@@ -1833,7 +1833,7 @@ electricity cost
 ## solution-reification disorders
 ## What problems can be modeled as equilibria?
 
-# psychology of schedules (schedule psychology)
+# Psychology of Schedules (schedule psychology)
 - Can the answer to this question-set about the past "Is there anything you want me to improve on, do more of, do less of, start doing, or stop doing?" depend upon the future in such a way that the answer can be punted as depending on future events?
 (2025-05-28)
 
@@ -3829,7 +3829,7 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 ## tasks, processes, and system-abilities: five problem-space trees and system-state options; what does a decision coordination system need to be able to do, in terms of precise definitions of specific granular operations in a ~5x-tree+state context?
 - how does this relate to the question of the 'intelligence' of a system?
 
-## airgaps
+## Airgaps & Types of boundaries
 
 ## Definitions of Symbols in Coordinated Projects
 
@@ -3852,7 +3852,7 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 - habitual behaviors
 - spread or contagion of behaviors
 
-## stable disturbance regimes and extra-regime disturbance
+## Atable disturbance regimes and extra-regime disturbance
 - contagion
 - membranes
 - geography or n-dimensional spaces of connectivity

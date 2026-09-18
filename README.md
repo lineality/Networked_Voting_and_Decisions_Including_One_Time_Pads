@@ -1515,21 +1515,14 @@ Biases:
 - quantizing (of floats)
 - externalization
 - graphs (the data structure)
-- 
 
 ## Networks vs. Databases:
 - Why is data-coordination solved for networks but seen as unsolvable in single databases?
-- 
 - GC garbage collection, database 
-...
 
 ## Design Factors and Compromises
 
-
-...
-
 ## Equilibria and Tautology: Repeating Invisible Liabilities
-...
 
 General Participation & The Health of Systems
 2024.01.06
@@ -1560,11 +1553,9 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 - security audit
 - long term data storage and records audit
 - step by step audit of process?
-...
 
 ## incentives and long term incentives
 
-...
 
 # Whole Voting System
 - cross-platform
@@ -2279,7 +2270,7 @@ derivation and integration of process modules
 
 # checks and balances vs. mob violence
 
-## checks and balances, institutions, wisdom of crowds, and ~prospect-theory
+## Checks and Balances, institutions, wisdom of crowds, and ~prospect-theory
 - What does it mean to 'vote' input into a decision process?
 
 ## signal-game spaces
@@ -5329,4 +5320,4 @@ Ms. Sherrill was unstinting in her criticism of the way the Murphy administratio
 ```
 
 Note:
-There were past voting-system issues noted in New Jersey, also a small number of people involved in issue.
+There were past voting-system issues noted in New Jersey, also a small number of people involved in issues.

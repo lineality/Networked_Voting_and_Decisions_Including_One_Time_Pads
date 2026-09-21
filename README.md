@@ -2861,7 +2861,7 @@ https://www.economist.com/united-states/2026/07/13/americas-other-elections-prob
 - modeling fitness
 - learning fitness
 
-## Partial participation (2024.07.03)
+## Partial Participation (2024.07.03)
 - contextual
 - possible definitions for 'full' participation
 - institutions and participation (2024.11)
@@ -2874,7 +2874,7 @@ https://www.economist.com/united-states/2026/07/13/americas-other-elections-prob
 -- e.g. timescale of 'election' in the USA of often 1,2,4 years compared with 1,2,4, weeks in the OECD; 'weeks' is likely closer to optimal.
 -- e.g. States such as Oregon and Colorado have an entirely paper drop-off voting system in a timescale of weeks which works much more smoothly than, e.g. Pennsylvania's horrendous mix of in-person, and early-voting, and incomprehensible nested-envelope 'in-person-absentee' mail/drop. 
 
-## schedule problems & disorders
+## Schedule Problems & Disorders
 - tautologically impossible timelines
 - sequence direction problems
 - indeterminate and inconsistent goals
@@ -2889,7 +2889,7 @@ https://www.economist.com/united-states/2026/07/13/americas-other-elections-prob
 
 ## Skill abilities fitness health and coordinated decision projects
 
-## timescales and coordinated decisions
+## Timescales and Coordinated Decisions
 
 ## 'over-communication' as a goal
 - American vs. Japanese norms on re-covering discussed topics for agreement.

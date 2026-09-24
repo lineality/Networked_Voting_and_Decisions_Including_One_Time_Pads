@@ -1016,7 +1016,7 @@ Inherent in STEM is using data to identify bad-engineering acts/actions,practice
 2024.12.30
 
 ## Institutions in Checks & Balances
-What institutions need to officially or more-officially be part of the montesque cook adams jefferson franklin madison interlocking set of check and balance institutions? There may be a 'boot-strap' stage of minimal ~data-structures, but the overt goal is long term maintainability, and based on past data more than the bootstrap is needed (unofficially or officially) for that:
+What institutions need to officially or more-officially be part of the Montesquieu cook adams jefferson franklin madison interlocking set of check and balance institutions? There may be a 'boot-strap' stage of minimal ~data-structures, but the overt goal is long term maintainability, and based on past data more than the bootstrap is needed (unofficially or officially) for that:
 'civil society'
 'academia/education / RAND'
 'trade associations'
@@ -1069,8 +1069,9 @@ Goals, Scope Alignment: definition items (2025.01.19)
 2. Schedule: (Duration; Start date; Iteration Interval)
 - timelines that need to be short but are never articulated or planned for are unlikely to usually spontaneously match the needed short scale planning needs.
 - timelines that need to be long but are never articulated or planned for are unlikely to usually spontaneously match the needed long scale planning needs.
--- undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
-- standard, common, errors: laxity about and absence of schedule fitness will increase the likelihood of standard, common, entirely predictable basic schedule problems, including:
+- undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
+- There are perception-skill elements to the problem-spaces of team-project-schedules including areas that may be similar to the general development of object permanence awareness. Both positive and negative long term items (such as long term goals and repeating long term error-loops) are highly challenging and elusive for most people and most methods of teaching. Both long term phenomena and their lexicon-taxonomy are critically important learning targets, including the often overlooked initial steps of simply being able to identify that they exist.  
+- standard, common, errors: Laxity about and absence of schedule fitness will increase the likelihood of standard, common, entirely predictable basic schedule problems, including:
 -- sequence errors: putting first steps such as planning, brainstorming and early-drafts at or towards the end of the timeline, and putting end-steps first
 -- not scheduling planning time
 -- not using planning time
@@ -2894,7 +2895,7 @@ https://www.economist.com/united-states/2026/07/13/americas-other-elections-prob
 ## 'over-communication' as a goal
 - American vs. Japanese norms on re-covering discussed topics for agreement.
 
-## Arts culture, communication and decisions
+## Arts, Culture, Communication and Decisions
 
 ## ways of handling categories and topics, 
 e.g. more and less quantifiable and defined topics.
@@ -2927,7 +2928,7 @@ e.g. more and less quantifiable and defined topics.
 - projects and long-term
 - projects and sustainability
 - projects and diversity
-- projects and Montesque-Adams: institutional diversity
+- projects and Montesquieu-Adams: institutional diversity
 - projects and the tragedy of the commons
 
 # Lexical Timeline:
@@ -5156,7 +5157,7 @@ How to avoid collapse and corruption is a question that crosses the sometimes re
 
 Pure essence was indeed part of the thinking (or hoping) Ricks extracts from western history, and such faith driven romanticism was a corner-stone of the devoutly anti-STEM Nazi ideology that demolished academia and private sector STEM in the Third Reich and "The New Order" governing Eurasia. 
 
-The harmonious-stable-society goals of Xi Jinping arguably have a lot commendably in common with the aims of Montesque, Adams, Madison, and Fukuyama (to name but a few). But there is too much popular, populist, support internationally for chasing superstitions in ways history demonstrates to end badly; Trump's private paramilitary is not an example of the western clasical-liberal tradition, and it is not reducing corrupt-impurity or helping the economy.
+The harmonious-stable-society goals of Xi Jinping arguably have a lot commendably in common with the aims of Montesquieu, Adams, Madison, and Fukuyama (to name but a few). But there is too much popular, populist, support internationally for chasing superstitions in ways history demonstrates to end badly; Trump's private paramilitary is not an example of the western clasical-liberal tradition, and it is not reducing corrupt-impurity or helping the economy.
 
 The quest to overcome corruption and collapse is old and still with us; we should study hard, use tools that work, and avoid known failed strategies (such as populist superstitions and zero-sum, negative-sum, nihilistic junkfood cults). 
 

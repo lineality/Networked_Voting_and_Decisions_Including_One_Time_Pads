@@ -1061,38 +1061,38 @@ Goals, Scope Alignment: definition items (2025.01.19)
 
 
 #### Project Areas & Problem-Examples
-#### v19 2026
+#### v20 2026
 1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies (including for predictable issues problems and collapse elements: scope-churn, panic-halting, planning-blackout), Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies), for macro: Mapping/Modeling, Strategizing, Navigating, Decision-making, forming conclusions, planning, initiative-taking, leadership, etc.
-- process/policy areas may be seen as preventable-predictable-collapse-areas; each is an area of preventable mistakes that are not automatically self-preventing and that must be deliberately prevented. Problems that are not automatically visible or understandable can repeat indefinitely. Using process and policy can significantly help prevent and navigate recurring problems that are not automatically visible.
-- not accounting for different workflows (e.g. frontend, backend, data-science, production machine-learning, R&D, test-reporting, etc.) will lead to delays and failures that should not have occurred. In the absence of communication and learning, these failures may be invisible and repeat indefinately because they are not seen and understood. 
+- Process/policy areas may be seen as preventable-predictable-collapse-areas; each is an area of preventable mistakes that are not automatically self-preventing and that must be deliberately prevented. Problems that are not automatically visible or understandable can repeat indefinitely. Using process and policy can significantly help prevent and navigate recurring problems that are not automatically visible.
+- Not accounting for different workflows (e.g. frontend, backend, data-science, production machine-learning, R&D, test-reporting, etc.) will lead to delays and failures that should not have occurred. In the absence of communication and learning, these failures may be invisible and repeat indefinately because they are not seen and understood. 
 
 2. Schedule: (Duration; Start date; Iteration Interval)
-- timelines that need to be short but are never articulated or planned for are unlikely to usually spontaneously match the needed short scale planning needs.
-- timelines that need to be long but are never articulated or planned for are unlikely to usually spontaneously match the needed long scale planning needs.
-- undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
+- Timelines that need to be short but are never articulated or planned for are unlikely to usually spontaneously match the needed short scale planning needs.
+- Timelines that need to be long but are never articulated or planned for are unlikely to usually spontaneously match the needed long scale planning needs.
+- Undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
 - There are perception-skill elements to the problem-spaces of team-project-schedules including areas that may be similar to the general development of object permanence awareness. Both positive and negative long term items (such as long term goals and repeating long term error-loops) are highly challenging and elusive for most people and most methods of teaching. Both long term phenomena and their lexicon-taxonomy are critically important learning targets, including the often overlooked initial steps of simply being able to identify that they exist.  
-- standard, common, errors: Laxity about and absence of schedule fitness will increase the likelihood of standard, common, entirely predictable basic schedule problems, including:
--- sequence errors: putting first steps such as planning, brainstorming and early-drafts at or towards the end of the timeline, and putting end-steps first
--- not scheduling planning time
--- not using planning time
--- not scheduling feedback and the use of feedback
--- not using feedback-time or feedback
+- Standard, common, errors: Laxity about and absence of schedule fitness will increase the likelihood of standard, common, entirely predictable basic schedule problems, including:
+-- Sequence errors: Tautological errors such as putting first steps (such as planning, brainstorming and early-drafts) at or towards the end of the timeline, and likewise putting end-steps (such as finishing and reviewing) at or towards the beginning.
+-- Not scheduling planning time
+-- Not using planning time
+-- Not scheduling feedback and the use of feedback
+-- Not using feedback-time or feedback
 -- brittle-schedule: not accounting for predictable delays
--- best-case-scheduling: between a best-case, expected-case, and worst-cast schedule, only considering the best-case
--- miscalculating durations
--- ignoring scheduled timelines
--- refusing to communicate about schedules
--- trying to force planners and team-members to stop asking and talking about schedules
--- having indeterminate schedule plans
--- having simultaneous paradoxical schedules plans
--- using nihilistic disinformation to discredit the value, function, and meaning of a schedule
--- suddenly changing a schedule (or trying to), often at the last minute (such as the moment before everyone leaves a meeting)
--- not having in-scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely)). 
+-- Best-case-scheduling: between a best-case, expected-case, and worst-cast schedule, only considering the best-case
+-- Miscalculating durations
+-- Ignoring scheduled timelines
+-- Refusing to communicate about schedules
+-- Trying to force planners and team-members to stop asking and talking about schedules
+-- Having indeterminate schedule plans
+-- Having simultaneous paradoxical schedules plans
+-- Using nihilistic disinformation to discredit the value, function, and meaning of a schedule
+-- Suddenly changing a schedule (or trying to), often at the last minute (such as the moment before everyone leaves a meeting)
+-- Not having in-scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely)). 
 -- Classic inversion of planning & execution priories: A 'hurry up and wait' pattern where first you impatiently blitz to start a project without planning and then the policy flips 180 degrees so that no deadlines exist and people work indefinately on whatever whim of the moment.
 
 3. Users: Stakeholders & Needs & Goals Evaluation (of users)
--- not having and coordinating with users/stakeholders and their needs significantly raises the probability that the project will not improbably spontaneously meet their unknown and possibly unarticulated needs by accident.
--- not properly doing a needs and goals evaluation significantly raises the risk of goals being either incorrectly identified, or having goals indefinitely changing or rotating between amorphous unexamined but often entirely predictable areas.
+-- Not having and coordinating with users/stakeholders and their needs significantly raises the probability that the project will not improbably spontaneously meet their unknown and possibly unarticulated needs by accident.
+-- Not properly doing a needs and goals evaluation significantly raises the risk of goals being either incorrectly identified, or having goals indefinitely changing or rotating between amorphous unexamined but often entirely predictable areas.
 
 4. Features_Goals: User-Features & Subfeatures/Under-The-Hood Features including design factors such as Categories of Types of Systems, Data-Types, Data-Structures, Structured Vs. Unstructured Data.(E.g. tech-stack and resources may be implicit for higher-level goals or explicit for resource-defined needs); lexicon: clarify jargon vs. description; 
 - From a user-story standpoint, what is this project making? 
@@ -1118,7 +1118,7 @@ Tools, 'Tool Stack / Tech Stack',
 -- The default patterns and processes of drift will misalign the team and user-stakeholders on many levels, making even detection of the misalignment a challenge.
 -- Learning directly and indirectly related to the specific project is necessary. If you do not learn that a user/stakeholder's need is not being met then long term failure is highly probable. If you continually learn and develop useful skills then long term successes are more probable.
 
-## Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
+#### Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
 
 https://www.economist.com/business/2026/06/11/too-many-people-are-shockingly-bad-at-prioritisation 
 - book “The Octopus Organisation”, by Phil Le-Brun and Jana Werner
@@ -1442,7 +1442,7 @@ Biases:
 - churn bias
 - panic bias
 
-## system hygiene policies
+## System Hygiene Policies
 (2025 11 01)
 - system and definition epidemiology
 - defense in process and coordinated definitions
@@ -1456,7 +1456,7 @@ Biases:
 - low hanging fruit
 - shiny distractions vs. practical tools and functionality
 
-# Challenging areas and known obstacles
+# Challenging Areas and Known Obstacles
 - schedule challenges
 - coordination challenges
 - externalization challenges

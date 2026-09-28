@@ -3109,7 +3109,8 @@ people then start to believe are cargo-cult-causal
 - using data
 - a record of how the decision was made
 
-## Policies on Health
+## Policies on Health, Hygiene
+- For various reasons, what are the obstacles and goals for having people be able to agree on, understand, communicate about, and pragmatically use, concepts and measures of system/information/definition health 7 Hygiene?
 
 ## Dunce-Cap Roulette, Refugia, Membranes, and Populations
 

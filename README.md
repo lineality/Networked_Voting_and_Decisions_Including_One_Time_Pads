@@ -4489,7 +4489,7 @@ https://a.co/geuRhCb
 To what extent is it possible using symbolic or subsymbolic modeling to detect the presence and prevalence of 'terror' as used by Shirer? 
 Are similar corrupt and fraudulent practices not used by 'fire and brimstone' so-called-self-identified-"religious" groups, by 'doom-and-gloom' so-called-self-identified-'environmental' groups, by learned-helplessness inducing so-called-self-identified-'education' institutions and "professionals"?  
 
-# Notable Artciles
+# Notable Articles
 
 
 # Elusive Project/Election Goals: meritocracy vs. kleptocracy
@@ -5323,3 +5323,11 @@ Ms. Sherrill was unstinting in her criticism of the way the Murphy administratio
 
 Note:
 There were past voting-system issues noted in New Jersey, also a small number of people involved in issues.
+
+
+Book Feedback Debt:
+https://www.amazon.com/Fabulous-Debt-Story-Bonds-Modern-ebook/dp/B0GGHN615Z/
+
+
+Oversight & Corruptions in Governance:
+https://www.economist.com/finance-and-economics/2026/10/01/research-on-grasping-bureaucrats-startles-singapore

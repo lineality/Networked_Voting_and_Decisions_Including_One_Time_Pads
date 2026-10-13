@@ -981,6 +981,9 @@ What OS, what network architecture, and what cyber security strategies should/co
 - curricula
 - data on skill proficiency and fitness
 
+# Digging into perceptions about systems: (2026.10)
+- Possible example question for discussions: "How is 'Let them eat cake.' a bad plan?" Could questions like this help to elucidate misconceptions about systems (and reification issues)?
+
 # Perception-Abstraction and disruptive effects of some processes of observation
 
 ## Perception: Looking out for likely disjunctions in perception and expectation
@@ -1614,6 +1617,8 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 - product development valley of death, demand distortion, want 
 vs. 
 'should want', education, learning, non-automatic learning, equilibria, bad-equilibria, etc.
+- The problem-space of short-term attractive junk
+- https://www.economist.com/international/2026/10/08/nagging-people-to-eat-healthily-does-not-work 
 
 ## Defaults and Equilibria
 (2025.01.02)
@@ -2437,7 +2442,6 @@ Literally or proverbially software since 1970 has been a self-conspiracy among c
 - staying grounded when either the tools or the results or the process may or will inspire participants to diverge from reality or probability and enter into areas of unfounded belief without recourse to verification or accurate assessments of likelihood. (2024.04.20)
 
 # The Biology and Evolution of Motivation & Incentives
-- 
 
 # Learned Helplessness and testing implicit assumptions
 - aggressively teaching STEM values in perpetuity in a sustainable way 2025.04.09

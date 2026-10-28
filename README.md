@@ -2,9 +2,15 @@
 gga, 2021.01- ...
 - https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads/
 
+Julian - door knocking 
+norristown
+484 707 9181
+
+
 # Decision Coordination: General and Specific
 ## Voting, Decision, & Consensus Systems in Networks and in General
 #### Project-Context Decision-Making Involving Participants and Components:
+
 
 # Contents:
 ## Part 1: Secure Online-Voting in-Principle

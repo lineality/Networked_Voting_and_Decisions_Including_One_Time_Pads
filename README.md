@@ -5340,4 +5340,4 @@ https://www.amazon.com/Fabulous-Debt-Story-Bonds-Modern-ebook/dp/B0GGHN615Z/
 
 
 Oversight & Corruptions in Governance:
-https://www.economist.com/finance-and-economics/2026/10/01/research-on-grasping-bureaucrats-startles-singapore
+https://www.economist.com/finance-and-economics/2026/10/01/research-on-grasping-bureaucrats-startles-singapore 
